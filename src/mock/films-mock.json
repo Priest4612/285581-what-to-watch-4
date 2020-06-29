@@ -1,0 +1,825 @@
+[
+	{
+		"id": 0,
+		"name": "Snatch",
+		"posterImage": "img/snatch.jpg",
+		"previewImage": "img/snatch.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"Сейчас я не могу сказать, что именно, но в его облике меня что-то привлекло.",
+			"- На, отец, бери, и иди поздравляй свою жену, - сказал я.",
+			"Я мучился, потому что мне показалось, что с нею необходимо говорить, и тревожился, что я не вымолвлю ни одного слова, а она уйдет, и я никогда ее более не увижу...",
+			"Мы шли по кривому, скучному переулку безмолвно, я по одной стороне, а она по другой. И не было, вообразите, в переулке ни души.",
+			"Я кинул под ноги продавщице купюру, вытащил цветы и протянул их деду."
+		],
+		"rating": 6.94,
+		"scoresCount": 909,
+		"director": "Дэвид Линч",
+		"starring": [
+			"Николас Кейдж",
+			"Арнольд Шварцнеггер",
+			"Джон Траволта",
+			"БИЛЛ МЮРРЕЙ",
+			"Дженнифер Энистон",
+			"Мена Сувари",
+			"Джерард Батлер",
+			"ГЕОРГИЙ ВИЦИН",
+			"Владимир Епифанцев"
+		],
+		"runTime": 132,
+		"genre": "семейный",
+		"released": 1949,
+		"isFavorite": false
+	},
+	{
+		"id": 1,
+		"name": "Dardjeeling Limited",
+		"posterImage": "img/dardjeeling-limited.jpg",
+		"previewImage": "img/dardjeeling-limited.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"И тут я вспомнил, что я не купил себе цветы.",
+			"И эти цветы очень отчетливо выделялись на черном ее весеннем пальто.",
+			"К корзине подошла продавщица.",
+			"Дед подошёл к продавщице, я остался чуть позади него.",
+			"Дед вытащил дрожащую руку из кармана, на его ладони лежало, три бумажки по рублю."
+		],
+		"rating": 8.09,
+		"scoresCount": 907,
+		"director": "Гас Ван Сент",
+		"starring": [
+			"Шарлиз Терон"
+		],
+		"runTime": 36,
+		"genre": "фантастика",
+		"released": 1912,
+		"isFavorite": false
+	},
+	{
+		"id": 2,
+		"name": "Aviator",
+		"posterImage": "img/aviator.jpg",
+		"previewImage": "img/aviator.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"Дед пытался второй рукой придать этой ветке божеский вид, но она, не желая слушать его, ломалась пополам, и цветы смотрели в землю… На руку деда упала слеза… Дед стоял и держал в руке поломанный цветок и плакал.",
+			"- А кто продавец, - спросил я, пряча руки в карманы. Только сейчас, я почувствовал, какой ледяной ветер.",
+			"Деда трусило от холода как лист бумаги на ветру.",
+			"Она несла в руках отвратительные, тревожные желтые цветы.",
+			"- Хозяюшка… милая, а сколько стоит одна веточка мимозы? - дрожащими от холода губами спросил дед."
+		],
+		"rating": 4.55,
+		"scoresCount": 698,
+		"director": "Сидни Люмет",
+		"starring": [
+			"Дженнифер Лопез",
+			"Дензел Вашингтон",
+			"Арнольд Шварцнеггер",
+			"Кира Найтли",
+			"Сильвестр Сталлоне"
+		],
+		"runTime": 94,
+		"genre": "драма",
+		"released": 1970,
+		"isFavorite": false
+	},
+	{
+		"id": 3,
+		"name": "Snatch",
+		"posterImage": "img/snatch.jpg",
+		"previewImage": "img/snatch.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"Я то же подошёл к ней.",
+			"Я бы не сказал, что погода была весенней. Ледяной ветер так и норовил забраться под куртку. Подняв воротник и опустив в него как можно ниже голову, я приближался к базару. Я ещё за неделю до этого решил: никаких роз, только весенние цветы… праздник же весенний.",
+			"Я видел его глаза. До сих пор, я никогда не видел столько тоски и боли в глазах мужчины.",
+			"Дед робким шагом двинулся к ней."
+		],
+		"rating": 10.56,
+		"scoresCount": 567,
+		"director": "Хаяо Миядзаки",
+		"starring": [
+			"Мэтт Дэймон",
+			"Дэнни Де Вито",
+			"Джессика Альба",
+			"Джеки Чан",
+			"Андрей Чернышов",
+			"Шон Пенн",
+			"Эдди Мёрфи",
+			"Том Круз",
+			"Нина Добрев"
+		],
+		"runTime": 38,
+		"genre": "семейный",
+		"released": 1923,
+		"isFavorite": true
+	},
+	{
+		"id": 4,
+		"name": "War Of The Worlds",
+		"posterImage": "img/war-of-the-worlds.jpg",
+		"previewImage": "img/war-of-the-worlds.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"Я отчетливо помню, как прозвучал ее голос, низкий довольно-таки, но со срывами, и, как это ни глупо, показалось, что эхо ударило в переулке"
+		],
+		"rating": 0.66,
+		"scoresCount": 563,
+		"director": "Фрэнк Дарабонт",
+		"starring": [
+			"Пенелопа Крус",
+			"Дольф Лундгрен",
+			"АНДРЕЙ МИРОНОВ",
+			"Моника Беллуччи",
+			"Мэл Гибсон",
+			"Мишель Родригес"
+		],
+		"runTime": 12,
+		"genre": "фантастика",
+		"released": 1995,
+		"isFavorite": true
+	},
+	{
+		"id": 5,
+		"name": "Revenant",
+		"posterImage": "img/revenant.jpg",
+		"previewImage": "img/revenant.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"Какой-то нехороший комок подкатил к моему горлу.",
+			"- На три тебе найти, алкаш, га, га, га, щас я тебе найду, - уже прогорлопанила продавщица.",
+			"и отразилось от желтой грязной стены.",
+			"Я стал в сторонке, закурил и даже начал чуть улыбаться, когда представил, как обрадуются мои женщины, дочка и жена."
+		],
+		"rating": 5.7,
+		"scoresCount": 312,
+		"director": "Хаяо Миядзаки",
+		"starring": [
+			"Брэд Питт",
+			"Джим Керри",
+			"Джерард Батлер",
+			"Роберт Дауни-младший",
+			"Иен Сомерхолдер",
+			"Анджелина Джоли",
+			"Жан Дюжарден",
+			"Орландо Блум"
+		],
+		"runTime": 37,
+		"genre": "семейный",
+		"released": 1974,
+		"isFavorite": true
+	},
+	{
+		"id": 6,
+		"name": "Aviator",
+		"posterImage": "img/aviator.jpg",
+		"previewImage": "img/aviator.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"- Ты, курица тупая, сколько стоит твоё ведро, отвечай быстро и внятно, что бы я не напрягал слух, - еле слышно, но очень понятно прошипел я."
+		],
+		"rating": 1.39,
+		"scoresCount": 353,
+		"director": "Кристофер Нолан",
+		"starring": [
+			"Адам Сэндлер",
+			"Михаил Галустян",
+			"Виктор Вержбицкий",
+			"Джет Ли",
+			"Жан Рено",
+			"Риз Уизерспун",
+			"Дженнифер Энистон",
+			"Мила Кунис",
+			"Вигго Мортенсен"
+		],
+		"runTime": 5,
+		"genre": "семейный",
+		"released": 2006,
+		"isFavorite": true
+	},
+	{
+		"id": 7,
+		"name": "Midnight Special",
+		"posterImage": "img/midnight-special.jpg",
+		"previewImage": "img/midnight-special.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"- Хозяюшка, у меня есть три рубля, может, найдёшь для меня веточку на три рубля? - как-то очень тихо спросил дед."
+		],
+		"rating": 3.88,
+		"scoresCount": 923,
+		"director": "Ларс фон Триер",
+		"starring": [
+			"Джон Траволта",
+			"Риз Уизерспун",
+			"Кейт Бекинсейл",
+			"Мишель Родригес",
+			"Роберт Де Ниро",
+			"Лиам Нисон",
+			"Мила Кунис",
+			"Дэнни Де Вито",
+			"Вин Дизель",
+			"Иен Сомерхолдер"
+		],
+		"runTime": 123,
+		"genre": "научный",
+		"released": 1925,
+		"isFavorite": false
+	},
+	{
+		"id": 8,
+		"name": "We Need To Talk About Kevin",
+		"posterImage": "img/we-need-to-talk-about-kevin.jpg",
+		"previewImage": "img/we-need-to-talk-about-kevin.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"Я видел его глаза. До сих пор, я никогда не видел столько тоски и боли в глазах мужчины.",
+			"Старотипный плащ, фасона 1965 года, на нём не было места, которое было бы не зашито. Но этот заштопанный и перештопанный плащ был чистым. Брюки, такие же старые, но до безумия наутюженные. Ботинки начищены до зеркального блеска, но это не могло скрыть их возраста. Один ботинок, был перевязан проволокой. Я так понял, что подошва на нём просто отвалилась. Из-под плаща была видна старая, почти ветхая рубашка, но и она была чистой и наутюженной. Его лицо было обычным лицом старого человека, вот только, во взгляде было что-то непреклонное и гордое, не смотря ни на что.",
+			"Я продолжал рассматривать деда. По многим мелочам я догадался, что дед не алкаш, он просто старый измученный бедностью и старостью человек. И ещё я просто явно почувствовал, что дед стесняется теперешнего своего положения за чертой бедности."
+		],
+		"rating": 6.38,
+		"scoresCount": 850,
+		"director": "Леонид Гайдай",
+		"starring": [
+			"Вигго Мортенсен"
+		],
+		"runTime": 130,
+		"genre": "боевик",
+		"released": 2019,
+		"isFavorite": true
+	},
+	{
+		"id": 9,
+		"name": "Snatch",
+		"posterImage": "img/snatch.jpg",
+		"previewImage": "img/snatch.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"- Дед, а ну, подожди, - сказал я, взяв деда за руку.",
+			"- Хозяюшка, у меня есть три рубля, может, найдёшь для меня веточку на три рубля? - как-то очень тихо спросил дед.",
+			"Сейчас я не могу сказать, что именно, но в его облике меня что-то привлекло."
+		],
+		"rating": 10.76,
+		"scoresCount": 669,
+		"director": "Майкл Манн",
+		"starring": [
+			"Александр Абдулов"
+		],
+		"runTime": 20,
+		"genre": "спорт",
+		"released": 1990,
+		"isFavorite": false
+	},
+	{
+		"id": 10,
+		"name": "Snatch",
+		"posterImage": "img/snatch.jpg",
+		"previewImage": "img/snatch.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"Я буквально силой впихнул деду в руки цветы, торт и вино, развернулся, и, вытирая глаза, сделал шаг к выходу."
+		],
+		"rating": 6.97,
+		"scoresCount": 457,
+		"director": "Зак Снайдер",
+		"starring": [
+			"Брюс Уиллис",
+			"Тиль Швайгер",
+			"Дуэйн Джонсон",
+			"Джерард Батлер",
+			"Сандра Баллок",
+			"Кэмерон Диаз"
+		],
+		"runTime": 90,
+		"genre": "семейный",
+		"released": 1982,
+		"isFavorite": true
+	},
+	{
+		"id": 11,
+		"name": "Orlando",
+		"posterImage": "img/orlando.jpg",
+		"previewImage": "img/orlando.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"И меня поразила не столько ее красота, сколько необыкновенное, никем не виданное одиночество в глазах!",
+			"Я быстро перешел на ее сторону и, подходя к ней, ответил:",
+			"Я стоял позади него и чуть с боку. Я увидел, что у деда в глазах стояли слёзы…",
+			"- Хорошо, отец, пошли вместе, - сказал я и взял деда под руку."
+		],
+		"rating": 10.48,
+		"scoresCount": 214,
+		"director": "Джеймс Кэмерон",
+		"starring": [
+			"Жан Рено",
+			"Николь Кидман",
+			"Джим Керри",
+			"Жан-Клод Ван Дамм",
+			"Скарлетт Йоханссон",
+			"Джерард Батлер"
+		],
+		"runTime": 96,
+		"genre": "научный",
+		"released": 1919,
+		"isFavorite": false
+	},
+	{
+		"id": 12,
+		"name": "Moonrise Kingdom",
+		"posterImage": "img/moonrise-kingdom.jpg",
+		"previewImage": "img/moonrise-kingdom.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"Видимо, в моих глазах было что-то такое, что продавщица как-то побледнела и даже уменьшилась в росте. Она просто смотрела на меня как мышь на удава и молчала.",
+			"Дед пытался второй рукой придать этой ветке божеский вид, но она, не желая слушать его, ломалась пополам, и цветы смотрели в землю… На руку деда упала слеза… Дед стоял и держал в руке поломанный цветок и плакал.",
+			"И тут я вспомнил, что я не купил себе цветы."
+		],
+		"rating": 8.35,
+		"scoresCount": 199,
+		"director": "Джон Карпентер",
+		"starring": [
+			"Кира Найтли",
+			"Сергей Безруков"
+		],
+		"runTime": 78,
+		"genre": "драма",
+		"released": 1972,
+		"isFavorite": false
+	},
+	{
+		"id": 13,
+		"name": "What We Do In The Shadows",
+		"posterImage": "img/what-we-do-in-the-shadows.jpg",
+		"previewImage": "img/what-we-do-in-the-shadows.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"- Одна? Да, буду с тобой возиться, алкашня... Давай, вали отсюдава, - рыкнула продавщица.",
+			"Я начал замерзать, а продавщицы всё не было.",
+			"Я кинул под ноги продавщице купюру, вытащил цветы и протянул их деду."
+		],
+		"rating": 8.64,
+		"scoresCount": 954,
+		"director": "Мэл Гибсон",
+		"starring": [
+			"Хью Джекман",
+			"АНДРЕЙ МИРОНОВ",
+			"Хит Леджер",
+			"Адам Сэндлер",
+			"Шон Пенн",
+			"Дензел Вашингтон"
+		],
+		"runTime": 129,
+		"genre": "научный",
+		"released": 1947,
+		"isFavorite": true
+	},
+	{
+		"id": 14,
+		"name": "Macbeth",
+		"posterImage": "img/macbeth.jpg",
+		"previewImage": "img/macbeth.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"- Хорошо, отец, пошли вместе, - сказал я и взял деда под руку.",
+			"Дед робким шагом двинулся к ней.",
+			"Я бы не сказал, что погода была весенней. Ледяной ветер так и норовил забраться под куртку. Подняв воротник и опустив в него как можно ниже голову, я приближался к базару. Я ещё за неделю до этого решил: никаких роз, только весенние цветы… праздник же весенний.",
+			"Старотипный плащ, фасона 1965 года, на нём не было места, которое было бы не зашито. Но этот заштопанный и перештопанный плащ был чистым. Брюки, такие же старые, но до безумия наутюженные. Ботинки начищены до зеркального блеска, но это не могло скрыть их возраста. Один ботинок, был перевязан проволокой. Я так понял, что подошва на нём просто отвалилась. Из-под плаща была видна старая, почти ветхая рубашка, но и она была чистой и наутюженной. Его лицо было обычным лицом старого человека, вот только, во взгляде было что-то непреклонное и гордое, не смотря ни на что."
+		],
+		"rating": 10.95,
+		"scoresCount": 29,
+		"director": "Люк Бессон",
+		"starring": [
+			"Виктор Вержбицкий",
+			"Брюс Уиллис"
+		],
+		"runTime": 69,
+		"genre": "реалити-шоу",
+		"released": 1985,
+		"isFavorite": false
+	},
+	{
+		"id": 15,
+		"name": "Pulp Fiction",
+		"posterImage": "img/pulp-fiction.jpg",
+		"previewImage": "img/pulp-fiction.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"Мы шли по кривому, скучному переулку безмолвно, я по одной стороне, а она по другой. И не было, вообразите, в переулке ни души.",
+			"- Хозяюшка, ты просто скажи, сколько стоит, а не кричи на меня, - так же тихо сказал дед.",
+			"Дед мотал головой в знак отказа, и второй рукой прикрывал свою поломанную ветку.",
+			"- На три тебе найти, алкаш, га, га, га, щас я тебе найду, - уже прогорлопанила продавщица."
+		],
+		"rating": 6.65,
+		"scoresCount": 39,
+		"director": "Ридли Скотт",
+		"starring": [
+			"Джим Керри",
+			"Микки Рурк",
+			"Джейсон Стэтхэм",
+			"Харрисон Форд",
+			"Меган Фокс"
+		],
+		"runTime": 32,
+		"genre": "фантастика",
+		"released": 2007,
+		"isFavorite": true
+	},
+	{
+		"id": 16,
+		"name": "War Of The Worlds",
+		"posterImage": "img/war-of-the-worlds.jpg",
+		"previewImage": "img/war-of-the-worlds.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"- Хозяюшка… милая, а сколько стоит одна веточка мимозы? - дрожащими от холода губами спросил дед.",
+			"Я буквально силой впихнул деду в руки цветы, торт и вино, развернулся, и, вытирая глаза, сделал шаг к выходу.",
+			"- Слышишь ты, сука, что же ты, *****, делаешь? – начал я, пытаясь сохранить остатки спокойствия и не заехать продавщице в голову кулаком.",
+			"Дед мотал головой в знак отказа, и второй рукой прикрывал свою поломанную ветку.",
+			"- Отец, послушай меня внимательно. У меня есть деньги, для меня не сыграют роль эти 500 рублей, а тебе с поломанной веткой идти к жене негоже, сегодня же восьмое марта, бери цветы, вино и торт и иди к ней, поздравляй."
+		],
+		"rating": 7.85,
+		"scoresCount": 528,
+		"director": "Гай Ричи",
+		"starring": [
+			"Мила Кунис",
+			"Самине Насери"
+		],
+		"runTime": 41,
+		"genre": "спорт",
+		"released": 1913,
+		"isFavorite": false
+	},
+	{
+		"id": 17,
+		"name": "Revenant",
+		"posterImage": "img/revenant.jpg",
+		"previewImage": "img/revenant.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"- Отец, послушай меня внимательно. У меня есть деньги, для меня не сыграют роль эти 500 рублей, а тебе с поломанной веткой идти к жене негоже, сегодня же восьмое марта, бери цветы, вино и торт и иди к ней, поздравляй.",
+			"Она нагнулась к корзине, долго в ней ковырялась…"
+		],
+		"rating": 8.33,
+		"scoresCount": 494,
+		"director": "Пол Томас Андерсон",
+		"starring": [
+			"Сергей Безруков",
+			"Джеки Чан",
+			"Эдди Мёрфи"
+		],
+		"runTime": 166,
+		"genre": "спорт",
+		"released": 1933,
+		"isFavorite": false
+	},
+	{
+		"id": 18,
+		"name": "Revenant",
+		"posterImage": "img/revenant.jpg",
+		"previewImage": "img/revenant.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"- Хозяюшка… милая, а сколько стоит одна веточка мимозы? - дрожащими от холода губами спросил дед.",
+			"Она поглядела на меня удивленно, а я вдруг, и совершенно неожиданно, понял, что я всю жизнь любил именно эту женщину!",
+			"Дед робким шагом двинулся к ней.",
+			"Я купил торт, и бутылку красного вина."
+		],
+		"rating": 9.76,
+		"scoresCount": 568,
+		"director": "Джеймс Кэмерон",
+		"starring": [
+			"Дуэйн Джонсон",
+			"Эдди Мёрфи"
+		],
+		"runTime": 49,
+		"genre": "фантастика",
+		"released": 1917,
+		"isFavorite": false
+	},
+	{
+		"id": 19,
+		"name": "Macbeth",
+		"posterImage": "img/macbeth.jpg",
+		"previewImage": "img/macbeth.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"Дед пытался второй рукой придать этой ветке божеский вид, но она, не желая слушать его, ломалась пополам, и цветы смотрели в землю… На руку деда упала слеза… Дед стоял и держал в руке поломанный цветок и плакал.",
+			"Все это время дед непонимающе смотрел то на меня, то на продавщицу.",
+			"Черт их знает, как их зовут, но они первые почему-то появляются в Москве.",
+			"- На три тебе найти, алкаш, га, га, га, щас я тебе найду, - уже прогорлопанила продавщица."
+		],
+		"rating": 0.28,
+		"scoresCount": 619,
+		"director": "Леонид Гайдай",
+		"starring": [
+			"Тэйлор Лотнер",
+			"Стивен Сигал",
+			"Марк Уолберг",
+			"Иен Сомерхолдер",
+			"Мартин Лоуренс",
+			"Николас Кейдж",
+			"Шонн Уильям Скотт",
+			"Джордж Клуни"
+		],
+		"runTime": 9,
+		"genre": "реалити-шоу",
+		"released": 1930,
+		"isFavorite": false
+	},
+	{
+		"id": 20,
+		"name": "The Grand Budapest Hotel Poster",
+		"posterImage": "img/the-grand-budapest-hotel-poster.jpg",
+		"previewImage": "img/the-grand-budapest-hotel-poster.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"По дороге я потянул деда в гастроном."
+		],
+		"rating": 4.11,
+		"scoresCount": 188,
+		"director": "Гас Ван Сент",
+		"starring": [
+			"Стивен Сигал",
+			"Роуэн Эткинсон",
+			"Хью Джекман",
+			"Джессика Альба",
+			"Федор Добронравов",
+			"Жан Рено",
+			"Дженсен Эклс",
+			"ЧАРЛИ ЧАПЛИН",
+			"ПЬЕР РИШАР",
+			"Харрисон Форд"
+		],
+		"runTime": 72,
+		"genre": "семейный",
+		"released": 2001,
+		"isFavorite": false
+	},
+	{
+		"id": 21,
+		"name": "The Grand Budapest Hotel Poster",
+		"posterImage": "img/the-grand-budapest-hotel-poster.jpg",
+		"previewImage": "img/the-grand-budapest-hotel-poster.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"И меня поразила не столько ее красота, сколько необыкновенное, никем не виданное одиночество в глазах!",
+			"Я начал замерзать, а продавщицы всё не было.",
+			"- Хозяюшка, я не алкаш, да и не пью я вообще, мне бы одну веточку… Сколько она стоит? - тихо спросил дед.",
+			"- Хозяюшка, ты просто скажи, сколько стоит, а не кричи на меня, - так же тихо сказал дед."
+		],
+		"rating": 2.5,
+		"scoresCount": 135,
+		"director": "Леонид Гайдай",
+		"starring": [
+			"Вигго Мортенсен",
+			"Арнольд Шварцнеггер",
+			"Самине Насери",
+			"Мэтт Дэймон",
+			"Кира Найтли",
+			"Сэмюэл Л  Джексон",
+			"БИЛЛ МЮРРЕЙ",
+			"Мила Кунис",
+			"Рассел Кроу"
+		],
+		"runTime": 94,
+		"genre": "фантастика",
+		"released": 1936,
+		"isFavorite": false
+	},
+	{
+		"id": 22,
+		"name": "Moonrise Kingdom",
+		"posterImage": "img/moonrise-kingdom.jpg",
+		"previewImage": "img/moonrise-kingdom.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"Слёзы, одна за другой, покатились по морщинистым щекам деда. Он мотал головой и плакал, просто молча плакал…"
+		],
+		"rating": 3.34,
+		"scoresCount": 45,
+		"director": "Фрэнк Дарабонт",
+		"starring": [
+			"Мена Сувари",
+			"ПЬЕР РИШАР",
+			"Сандра Баллок",
+			"Жан Дюжарден",
+			"Пенелопа Крус",
+			"Крис Пайн",
+			"Роберт Де Ниро"
+		],
+		"runTime": 115,
+		"genre": "боевик",
+		"released": 1958,
+		"isFavorite": false
+	},
+	{
+		"id": 23,
+		"name": "Aviator",
+		"posterImage": "img/aviator.jpg",
+		"previewImage": "img/aviator.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"- Хорошо, отец, пошли вместе, - сказал я и взял деда под руку."
+		],
+		"rating": 11,
+		"scoresCount": 932,
+		"director": "Серджио Леоне",
+		"starring": [
+			"Пенелопа Крус",
+			"Микки Рурк",
+			"Самине Насери"
+		],
+		"runTime": 132,
+		"genre": "драма",
+		"released": 1927,
+		"isFavorite": true
+	},
+	{
+		"id": 24,
+		"name": "Seven Years In Tibet",
+		"posterImage": "img/seven-years-in-tibet.jpg",
+		"previewImage": "img/seven-years-in-tibet.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"Дед робким шагом двинулся к ней.",
+			"Я нёс цветы, дед свою поломанную ветку, мы шли молча.",
+			"Я кинул под ноги продавщице купюру, вытащил цветы и протянул их деду.",
+			"Я купил торт, и бутылку красного вина."
+		],
+		"rating": 9.39,
+		"scoresCount": 103,
+		"director": "Вуди Аллен",
+		"starring": [
+			"Леонардо ДиКаприо",
+			"Мартин Лоуренс"
+		],
+		"runTime": 174,
+		"genre": "спорт",
+		"released": 1972,
+		"isFavorite": false
+	},
+	{
+		"id": 25,
+		"name": "Seven Years In Tibet",
+		"posterImage": "img/seven-years-in-tibet.jpg",
+		"previewImage": "img/seven-years-in-tibet.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"- Ладно, для тебя, алкаш, 5 рублей ветка, - с какой-то ухмылкой сказала продавщица. На её лице проступила ехидная улыбка."
+		],
+		"rating": 5.67,
+		"scoresCount": 84,
+		"director": "Ридли Скотт",
+		"starring": [
+			"Николас Кейдж",
+			"Марк Уолберг",
+			"Дольф Лундгрен"
+		],
+		"runTime": 73,
+		"genre": "спорт",
+		"released": 1949,
+		"isFavorite": true
+	},
+	{
+		"id": 26,
+		"name": "Macbeth",
+		"posterImage": "img/macbeth.jpg",
+		"previewImage": "img/macbeth.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"- Так, а ну вали от сюдава алкаш, попрошайничать надумал, давай вали, а то… - прорычала продавщица на деда.",
+			"У деда хлынули слёзы… Они текли по его щекам и падали на плащ, у него задрожали губы.",
+			"И, вообразите, внезапно заговорила она:",
+			"Повинуясь этому желтому знаку, я тоже свернул в переулок и пошел по ее следам.",
+			"Слёзы, одна за другой, покатились по морщинистым щекам деда. Он мотал головой и плакал, просто молча плакал…"
+		],
+		"rating": 3.71,
+		"scoresCount": 552,
+		"director": "Дэвид Финчер",
+		"starring": [
+			"Вин Дизель",
+			"Арнольд Шварцнеггер",
+			"Мила Кунис",
+			"Джеки Чан",
+			"Хит Леджер"
+		],
+		"runTime": 36,
+		"genre": "фантастика",
+		"released": 2005,
+		"isFavorite": false
+	},
+	{
+		"id": 27,
+		"name": "Johnny English",
+		"posterImage": "img/johnny-english.jpg",
+		"previewImage": "img/johnny-english.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://some-link",
+		"previewVideoLink": "https://some-link",
+		"description": [
+			"- Хорошо, отец, пошли вместе, - сказал я и взял деда под руку.",
+			"И меня поразила не столько ее красота, сколько необыкновенное, никем не виданное одиночество в глазах!",
+			"Слёзы, одна за другой, покатились по морщинистым щекам деда. Он мотал головой и плакал, просто молча плакал…",
+			"Какой-то нехороший комок подкатил к моему горлу."
+		],
+		"rating": 2.88,
+		"scoresCount": 212,
+		"director": "Гас Ван Сент",
+		"starring": [
+			"Скарлетт Йоханссон",
+			"Мэтт Дэймон",
+			"Том Круз",
+			"Дженнифер Лопез",
+			"АНДРЕЙ МИРОНОВ",
+			"Сандра Баллок",
+			"Хью Джекман",
+			"Моника Беллуччи"
+		],
+		"runTime": 26,
+		"genre": "фантастика",
+		"released": 2015,
+		"isFavorite": false
+	}
+]
