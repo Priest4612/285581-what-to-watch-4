@@ -1,0 +1,47 @@
+[
+	{
+		"id": 0,
+		"name": "Все жанры",
+		"active": true
+	},
+	{
+		"id": 1,
+		"name": "Фантастика",
+		"active": false
+	},
+	{
+		"id": 2,
+		"name": "Спорт",
+		"active": false
+	},
+	{
+		"id": 3,
+		"name": "Короткометражный",
+		"active": false
+	},
+	{
+		"id": 4,
+		"name": "Научный",
+		"active": false
+	},
+	{
+		"id": 5,
+		"name": "Боевик",
+		"active": false
+	},
+	{
+		"id": 6,
+		"name": "Драма",
+		"active": false
+	},
+	{
+		"id": 7,
+		"name": "Реалити-шоу",
+		"active": false
+	},
+	{
+		"id": 8,
+		"name": "Семейный",
+		"active": false
+	}
+]
