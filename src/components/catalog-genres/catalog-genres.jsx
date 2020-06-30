@@ -9,10 +9,9 @@ const CatalogGenres = (props) => {
   return (
     <ul className="catalog__genres-list">
       {
-        genres.map((genre, index) =>
+        genres.map((genre) =>
           <CatalogGenresItem
-            key={index}
-            id={index}
+            key={genre.id}
             genre={genre}
           />)
       }

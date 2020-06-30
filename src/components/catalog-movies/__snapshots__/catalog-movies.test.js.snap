@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render CatalogMovies 1`] = `
+<div
+  className="catalog__movies-list"
+>
+  <article
+    className="small-movie-card catalog__movies-card"
+  >
+    <div
+      className="small-movie-card__image"
+    >
+      <img
+        alt="What We Do In The Shadows"
+        height="175"
+        src="img/what-we-do-in-the-shadows.jpg"
+        width="280"
+      />
+    </div>
+    <h3
+      className="small-movie-card__title"
+    >
+      <a
+        className="small-movie-card__link"
+        href="movie-page.html"
+        onClick={[Function]}
+      >
+        What We Do In The Shadows
+      </a>
+    </h3>
+  </article>
+  <article
+    className="small-movie-card catalog__movies-card"
+  >
+    <div
+      className="small-movie-card__image"
+    >
+      <img
+        alt="Mindhunter"
+        height="175"
+        src="img/mindhunter.jpg"
+        width="280"
+      />
+    </div>
+    <h3
+      className="small-movie-card__title"
+    >
+      <a
+        className="small-movie-card__link"
+        href="movie-page.html"
+        onClick={[Function]}
+      >
+        Mindhunter
+      </a>
+    </h3>
+  </article>
+  <article
+    className="small-movie-card catalog__movies-card"
+  >
+    <div
+      className="small-movie-card__image"
+    >
+      <img
+        alt="No Country For Old Men"
+        height="175"
+        src="img/no-country-for-old-men.jpg"
+        width="280"
+      />
+    </div>
+    <h3
+      className="small-movie-card__title"
+    >
+      <a
+        className="small-movie-card__link"
+        href="movie-page.html"
+        onClick={[Function]}
+      >
+        No Country For Old Men
+      </a>
+    </h3>
+  </article>
+  <article
+    className="small-movie-card catalog__movies-card"
+  >
+    <div
+      className="small-movie-card__image"
+    >
+      <img
+        alt="Moonrise Kingdom"
+        height="175"
+        src="img/moonrise-kingdom.jpg"
+        width="280"
+      />
+    </div>
+    <h3
+      className="small-movie-card__title"
+    >
+      <a
+        className="small-movie-card__link"
+        href="movie-page.html"
+        onClick={[Function]}
+      >
+        Moonrise Kingdom
+      </a>
+    </h3>
+  </article>
+  <article
+    className="small-movie-card catalog__movies-card"
+  >
+    <div
+      className="small-movie-card__image"
+    >
+      <img
+        alt="Dardjeeling Limited"
+        height="175"
+        src="img/dardjeeling-limited.jpg"
+        width="280"
+      />
+    </div>
+    <h3
+      className="small-movie-card__title"
+    >
+      <a
+        className="small-movie-card__link"
+        href="movie-page.html"
+        onClick={[Function]}
+      >
+        Dardjeeling Limited
+      </a>
+    </h3>
+  </article>
+  <article
+    className="small-movie-card catalog__movies-card"
+  >
+    <div
+      className="small-movie-card__image"
+    >
+      <img
+        alt="Snatch"
+        height="175"
+        src="img/snatch.jpg"
+        width="280"
+      />
+    </div>
+    <h3
+      className="small-movie-card__title"
+    >
+      <a
+        className="small-movie-card__link"
+        href="movie-page.html"
+        onClick={[Function]}
+      >
+        Snatch
+      </a>
+    </h3>
+  </article>
+  <article
+    className="small-movie-card catalog__movies-card"
+  >
+    <div
+      className="small-movie-card__image"
+    >
+      <img
+        alt="Revenant"
+        height="175"
+        src="img/revenant.jpg"
+        width="280"
+      />
+    </div>
+    <h3
+      className="small-movie-card__title"
+    >
+      <a
+        className="small-movie-card__link"
+        href="movie-page.html"
+        onClick={[Function]}
+      >
+        Revenant
+      </a>
+    </h3>
+  </article>
+</div>
+`;

@@ -1,0 +1,398 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Main 1`] = `
+Array [
+  <section
+    className="movie-card"
+  >
+    <div
+      className="movie-card__bg"
+    >
+      <img
+        alt="Bg The Grand Budapest Hotel"
+        src="img/bg-the-grand-budapest-hotel.jpg"
+      />
+    </div>
+    <h1
+      className="visually-hidden"
+    >
+      WTW
+    </h1>
+    <header
+      className="page-header movie-card__head"
+    >
+      <div
+        className="logo"
+      >
+        <a
+          className="logo__link"
+        >
+          <span
+            className="logo__letter logo__letter--1"
+          >
+            W
+          </span>
+          <span
+            className="logo__letter logo__letter--2"
+          >
+            T
+          </span>
+          <span
+            className="logo__letter logo__letter--3"
+          >
+            W
+          </span>
+        </a>
+      </div>
+      <div
+        className="user-block"
+      >
+        <div
+          className="user-block__avatar"
+        >
+          <img
+            alt="User avatar"
+            height="63"
+            src="img/avatar.jpg"
+            width="63"
+          />
+        </div>
+      </div>
+    </header>
+    <div
+      className="movie-card__wrap"
+    >
+      <div
+        className="movie-card__info"
+      >
+        <div
+          className="movie-card__poster"
+        >
+          <img
+            alt="We Need To Talk About Kevin"
+            height="327"
+            src="img/we-need-to-talk-about-kevin.jpg"
+            width="218"
+          />
+        </div>
+        <div
+          className="movie-card__desc"
+        >
+          <h2
+            className="movie-card__title"
+          >
+            We Need To Talk About Kevin
+          </h2>
+          <p
+            className="movie-card__meta"
+          >
+            <span
+              className="movie-card__genre"
+            >
+              Сергей Безруков
+            </span>
+            <span
+              className="movie-card__year"
+            >
+              1951
+            </span>
+          </p>
+          <div
+            className="movie-card__buttons"
+          >
+            <button
+              className="btn btn--play movie-card__button"
+              type="button"
+            >
+              <svg
+                height="19"
+                viewBox="0 0 19 19"
+                width="19"
+              >
+                <use
+                  xlinkHref="#play-s"
+                />
+              </svg>
+              <span>
+                Play
+              </span>
+            </button>
+            <button
+              className="btn btn--list movie-card__button"
+              type="button"
+            >
+              <svg
+                height="20"
+                viewBox="0 0 19 20"
+                width="19"
+              >
+                <use
+                  xlinkHref="#add"
+                />
+              </svg>
+              <span>
+                My list
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>,
+  <div
+    className="page-content"
+  >
+    <section
+      className="catalog"
+    >
+      <h2
+        className="catalog__title visually-hidden"
+      >
+        Catalog
+      </h2>
+      <ul
+        className="catalog__genres-list"
+      >
+        <li
+          className="catalog__genres-item catalog__genres-item--active"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Все жанры
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Фантастика
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Спорт
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Короткометражный
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Научный
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Боевик
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Драма
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Реалити-шоу
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Семейный
+          </a>
+        </li>
+      </ul>
+      <div
+        className="catalog__movies-list"
+      >
+        <article
+          className="small-movie-card catalog__movies-card"
+        >
+          <div
+            className="small-movie-card__image"
+          >
+            <img
+              alt="We Need To Talk About Kevin"
+              height="175"
+              src="img/we-need-to-talk-about-kevin.jpg"
+              width="280"
+            />
+          </div>
+          <h3
+            className="small-movie-card__title"
+          >
+            <a
+              className="small-movie-card__link"
+              href="movie-page.html"
+              onClick={[Function]}
+            >
+              We Need To Talk About Kevin
+            </a>
+          </h3>
+        </article>
+        <article
+          className="small-movie-card catalog__movies-card"
+        >
+          <div
+            className="small-movie-card__image"
+          >
+            <img
+              alt="Seven Years In Tibet"
+              height="175"
+              src="img/seven-years-in-tibet.jpg"
+              width="280"
+            />
+          </div>
+          <h3
+            className="small-movie-card__title"
+          >
+            <a
+              className="small-movie-card__link"
+              href="movie-page.html"
+              onClick={[Function]}
+            >
+              Seven Years In Tibet
+            </a>
+          </h3>
+        </article>
+        <article
+          className="small-movie-card catalog__movies-card"
+        >
+          <div
+            className="small-movie-card__image"
+          >
+            <img
+              alt="Moonrise Kingdom"
+              height="175"
+              src="img/moonrise-kingdom.jpg"
+              width="280"
+            />
+          </div>
+          <h3
+            className="small-movie-card__title"
+          >
+            <a
+              className="small-movie-card__link"
+              href="movie-page.html"
+              onClick={[Function]}
+            >
+              Moonrise Kingdom
+            </a>
+          </h3>
+        </article>
+        <article
+          className="small-movie-card catalog__movies-card"
+        >
+          <div
+            className="small-movie-card__image"
+          >
+            <img
+              alt="What We Do In The Shadows"
+              height="175"
+              src="img/what-we-do-in-the-shadows.jpg"
+              width="280"
+            />
+          </div>
+          <h3
+            className="small-movie-card__title"
+          >
+            <a
+              className="small-movie-card__link"
+              href="movie-page.html"
+              onClick={[Function]}
+            >
+              What We Do In The Shadows
+            </a>
+          </h3>
+        </article>
+      </div>
+      <div
+        className="catalog__more"
+      >
+        <button
+          className="catalog__button"
+          type="button"
+        >
+          Show more
+        </button>
+      </div>
+    </section>
+    <footer
+      className="page-footer"
+    >
+      <div
+        className="logo"
+      >
+        <a
+          className="logo__link logo__link--light"
+        >
+          <span
+            className="logo__letter logo__letter--1"
+          >
+            W
+          </span>
+          <span
+            className="logo__letter logo__letter--2"
+          >
+            T
+          </span>
+          <span
+            className="logo__letter logo__letter--3"
+          >
+            W
+          </span>
+        </a>
+      </div>
+      <div
+        className="copyright"
+      >
+        <p>
+          © 2019 What to watch Ltd.
+        </p>
+      </div>
+    </footer>
+  </div>,
+]
+`;

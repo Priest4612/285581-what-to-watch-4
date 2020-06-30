@@ -3,6 +3,9 @@ import PropTypes from 'prop-types';
 
 import Main from '../main/main.jsx';
 
+const cardTitleHandler = (evt) => {
+  evt.preventDefault();
+};
 
 const App = (props) => {
   const {moveDetails, movies, genres} = props;
@@ -11,6 +14,7 @@ const App = (props) => {
       moveDetails={moveDetails}
       movies={movies}
       genres={genres}
+      onCardTitleClick={cardTitleHandler}
     />
   );
 };
