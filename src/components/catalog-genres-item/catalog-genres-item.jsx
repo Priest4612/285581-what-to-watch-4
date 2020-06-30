@@ -2,23 +2,23 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const CatalogGenresItem = (props) => {
-  const {id, genre} = props;
+  const {id, name, active} = props.genre;
 
 
   return (
     <li
-      className={`catalog__genres-item ${genre.active && `catalog__genres-item--active`}`}
+      className={`catalog__genres-item ${active && `catalog__genres-item--active`}`}
       key={id}
     >
-      <a href="#" className="catalog__genres-link">{genre.name}</a>
+      <a href="#" className="catalog__genres-link">{name}</a>
     </li>
   );
 };
 
 
 CatalogGenresItem.propTypes = {
-  id: PropTypes.number.isRequired,
   genre: PropTypes.shape({
+    id: PropTypes.number.isRequired,
     name: PropTypes.string.isRequired,
     active: PropTypes.bool.isRequired,
   }).isRequired,
