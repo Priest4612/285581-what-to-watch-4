@@ -2,7 +2,7 @@ import React from 'react';
 import renderer from 'react-test-renderer';
 
 import MovieCard from './movie-card.jsx';
-import mock from '../../mock/test-films-mock.json';
+import mock from '../../mocks/test-films-mock.json';
 
 
 it(`Render MovieCard`, () => {

@@ -2,7 +2,7 @@ import React from 'react';
 import renderer from 'react-test-renderer';
 
 import MovieCardBackground from './movie-card-background.jsx';
-import mock from '../../mock/test-films-mock.json';
+import mock from '../../mocks/test-films-mock.json';
 
 const {backgroundImage} = mock[2];
 

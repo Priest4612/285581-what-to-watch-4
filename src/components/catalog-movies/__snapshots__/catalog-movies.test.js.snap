@@ -6,6 +6,7 @@ exports[`Render CatalogMovies 1`] = `
 >
   <article
     className="small-movie-card catalog__movies-card"
+    onMouseEnter={[Function]}
   >
     <div
       className="small-movie-card__image"
@@ -23,7 +24,6 @@ exports[`Render CatalogMovies 1`] = `
       <a
         className="small-movie-card__link"
         href="movie-page.html"
-        onClick={[Function]}
       >
         What We Do In The Shadows
       </a>
@@ -31,6 +31,7 @@ exports[`Render CatalogMovies 1`] = `
   </article>
   <article
     className="small-movie-card catalog__movies-card"
+    onMouseEnter={[Function]}
   >
     <div
       className="small-movie-card__image"
@@ -48,7 +49,6 @@ exports[`Render CatalogMovies 1`] = `
       <a
         className="small-movie-card__link"
         href="movie-page.html"
-        onClick={[Function]}
       >
         Mindhunter
       </a>
@@ -56,6 +56,7 @@ exports[`Render CatalogMovies 1`] = `
   </article>
   <article
     className="small-movie-card catalog__movies-card"
+    onMouseEnter={[Function]}
   >
     <div
       className="small-movie-card__image"
@@ -73,7 +74,6 @@ exports[`Render CatalogMovies 1`] = `
       <a
         className="small-movie-card__link"
         href="movie-page.html"
-        onClick={[Function]}
       >
         No Country For Old Men
       </a>
@@ -81,6 +81,7 @@ exports[`Render CatalogMovies 1`] = `
   </article>
   <article
     className="small-movie-card catalog__movies-card"
+    onMouseEnter={[Function]}
   >
     <div
       className="small-movie-card__image"
@@ -98,7 +99,6 @@ exports[`Render CatalogMovies 1`] = `
       <a
         className="small-movie-card__link"
         href="movie-page.html"
-        onClick={[Function]}
       >
         Moonrise Kingdom
       </a>
@@ -106,6 +106,7 @@ exports[`Render CatalogMovies 1`] = `
   </article>
   <article
     className="small-movie-card catalog__movies-card"
+    onMouseEnter={[Function]}
   >
     <div
       className="small-movie-card__image"
@@ -123,7 +124,6 @@ exports[`Render CatalogMovies 1`] = `
       <a
         className="small-movie-card__link"
         href="movie-page.html"
-        onClick={[Function]}
       >
         Dardjeeling Limited
       </a>
@@ -131,6 +131,7 @@ exports[`Render CatalogMovies 1`] = `
   </article>
   <article
     className="small-movie-card catalog__movies-card"
+    onMouseEnter={[Function]}
   >
     <div
       className="small-movie-card__image"
@@ -148,7 +149,6 @@ exports[`Render CatalogMovies 1`] = `
       <a
         className="small-movie-card__link"
         href="movie-page.html"
-        onClick={[Function]}
       >
         Snatch
       </a>
@@ -156,6 +156,7 @@ exports[`Render CatalogMovies 1`] = `
   </article>
   <article
     className="small-movie-card catalog__movies-card"
+    onMouseEnter={[Function]}
   >
     <div
       className="small-movie-card__image"
@@ -173,7 +174,6 @@ exports[`Render CatalogMovies 1`] = `
       <a
         className="small-movie-card__link"
         href="movie-page.html"
-        onClick={[Function]}
       >
         Revenant
       </a>
