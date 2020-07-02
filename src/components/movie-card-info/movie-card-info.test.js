@@ -2,7 +2,7 @@ import React from 'react';
 import renderer from 'react-test-renderer';
 
 import MovieCardInfo from './movie-card-info.jsx';
-import mock from '../../mock/test-films-mock.json';
+import mock from '../../mocks/test-films-mock.json';
 
 const {name, posterImage, genre, released} = mock[1];
 

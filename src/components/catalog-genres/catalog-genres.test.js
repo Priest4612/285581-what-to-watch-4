@@ -2,7 +2,7 @@ import React from 'react';
 import renderer from 'react-test-renderer';
 
 import CatalogGenres from './catalog-genres';
-import genresMock from '../../mock/test-genres-mock.json';
+import genresMock from '../../mocks/test-genres-mock.json';
 
 
 it(`Render CatalogGenres`, () => {

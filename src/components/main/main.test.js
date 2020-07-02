@@ -2,8 +2,8 @@ import React from 'react';
 import renderer from 'react-test-renderer';
 
 import Main from './main.jsx';
-import filmsMock from '../../mock/test-films-mock.json';
-import genresMock from '../../mock/test-genres-mock.json';
+import filmsMock from '../../mocks/test-films-mock.json';
+import genresMock from '../../mocks/test-genres-mock.json';
 
 
 it(`Render Main`, () => {
@@ -12,7 +12,7 @@ it(`Render Main`, () => {
       moveDetails={filmsMock[0]}
       movies={filmsMock.slice(0, 4)}
       genres={genresMock}
-      onCardTitleClick={() => {}}
+      onMouseEnterCard={() => {}}
     />)
     .toJSON();
 

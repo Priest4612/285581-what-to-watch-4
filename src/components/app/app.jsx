@@ -3,8 +3,8 @@ import PropTypes from 'prop-types';
 
 import Main from '../main/main.jsx';
 
-const cardTitleHandler = (evt) => {
-  evt.preventDefault();
+const handleMouseEnterCard = (name) => {
+  return name;
 };
 
 const App = (props) => {
@@ -14,7 +14,7 @@ const App = (props) => {
       moveDetails={moveDetails}
       movies={movies}
       genres={genres}
-      onCardTitleClick={cardTitleHandler}
+      onMouseEnterCard={handleMouseEnterCard}
     />
   );
 };
