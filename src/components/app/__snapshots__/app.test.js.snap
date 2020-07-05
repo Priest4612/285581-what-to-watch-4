@@ -69,9 +69,9 @@ Array [
           className="movie-card__poster"
         >
           <img
-            alt="The Grand Budapest Hotel Poster"
+            alt="Shutter Island"
             height="327"
-            src="img/the-grand-budapest-hotel-poster.jpg"
+            src="img/shutter-island.jpg"
             width="218"
           />
         </div>
@@ -81,7 +81,7 @@ Array [
           <h2
             className="movie-card__title"
           >
-            The Grand Budapest Hotel Poster
+            Shutter Island
           </h2>
           <p
             className="movie-card__meta"
@@ -89,12 +89,12 @@ Array [
             <span
               className="movie-card__genre"
             >
-              Джейсон Стэтхэм
+              БИЛЛ МЮРРЕЙ
             </span>
             <span
               className="movie-card__year"
             >
-              1914
+              1936
             </span>
           </p>
           <div
@@ -170,7 +170,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Фантастика
+            Комедия
           </a>
         </li>
         <li
@@ -180,17 +180,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Спорт
-          </a>
-        </li>
-        <li
-          className="catalog__genres-item false"
-        >
-          <a
-            className="catalog__genres-link"
-            href="#"
-          >
-            Короткометражный
+            Музыка
           </a>
         </li>
         <li
@@ -210,17 +200,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Боевик
-          </a>
-        </li>
-        <li
-          className="catalog__genres-item false"
-        >
-          <a
-            className="catalog__genres-link"
-            href="#"
-          >
-            Драма
+            Мюзикл
           </a>
         </li>
         <li
@@ -240,7 +220,27 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Семейный
+            Кинокомикс
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Вестерн
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Ток-шоу
           </a>
         </li>
       </ul>
@@ -249,15 +249,17 @@ Array [
       >
         <article
           className="small-movie-card catalog__movies-card"
+          onClick={[Function]}
           onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
         >
           <div
             className="small-movie-card__image"
           >
             <img
-              alt="Seven Years In Tibet"
+              alt="What We Do In The Shadows"
               height="175"
-              src="img/seven-years-in-tibet.jpg"
+              src="img/what-we-do-in-the-shadows.jpg"
               width="280"
             />
           </div>
@@ -268,21 +270,23 @@ Array [
               className="small-movie-card__link"
               href="movie-page.html"
             >
-              Seven Years In Tibet
+              What We Do In The Shadows
             </a>
           </h3>
         </article>
         <article
           className="small-movie-card catalog__movies-card"
+          onClick={[Function]}
           onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
         >
           <div
             className="small-movie-card__image"
           >
             <img
-              alt="The Grand Budapest Hotel Poster"
+              alt="Pulp Fiction"
               height="175"
-              src="img/the-grand-budapest-hotel-poster.jpg"
+              src="img/pulp-fiction.jpg"
               width="280"
             />
           </div>
@@ -293,21 +297,23 @@ Array [
               className="small-movie-card__link"
               href="movie-page.html"
             >
-              The Grand Budapest Hotel Poster
+              Pulp Fiction
             </a>
           </h3>
         </article>
         <article
           className="small-movie-card catalog__movies-card"
+          onClick={[Function]}
           onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
         >
           <div
             className="small-movie-card__image"
           >
             <img
-              alt="Fantastic Beasts The Crimes Of Grindelwald"
+              alt="Shutter Island"
               height="175"
-              src="img/fantastic-beasts-the-crimes-of-grindelwald.jpg"
+              src="img/shutter-island.jpg"
               width="280"
             />
           </div>
@@ -318,21 +324,23 @@ Array [
               className="small-movie-card__link"
               href="movie-page.html"
             >
-              Fantastic Beasts The Crimes Of Grindelwald
+              Shutter Island
             </a>
           </h3>
         </article>
         <article
           className="small-movie-card catalog__movies-card"
+          onClick={[Function]}
           onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
         >
           <div
             className="small-movie-card__image"
           >
             <img
-              alt="Macbeth"
+              alt="War Of The Worlds"
               height="175"
-              src="img/macbeth.jpg"
+              src="img/war-of-the-worlds.jpg"
               width="280"
             />
           </div>
@@ -343,7 +351,7 @@ Array [
               className="small-movie-card__link"
               href="movie-page.html"
             >
-              Macbeth
+              War Of The Worlds
             </a>
           </h3>
         </article>

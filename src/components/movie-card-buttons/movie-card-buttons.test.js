@@ -5,7 +5,7 @@ import MovieCardButtons from './movie-card-buttons.jsx';
 
 it(`Render MovieCardButtons`, () => {
   const tree = renderer
-    .create(<MovieCardButtons />)
+    .create(<MovieCardButtons><a>la-la-la</a></MovieCardButtons>)
     .toJSON();
 
   expect(tree).toMatchSnapshot();

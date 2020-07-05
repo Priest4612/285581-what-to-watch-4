@@ -1,7 +1,8 @@
 import React from 'react';
-/* import PropTypes from 'prop-types'; */
+import PropTypes from 'prop-types';
 
-const MovieCardButtons = () => {
+const MovieCardButtons = (props) => {
+  const {children} = props;
   return (
     <div className="movie-card__buttons">
       <button className="btn btn--play movie-card__button" type="button">
@@ -16,8 +17,13 @@ const MovieCardButtons = () => {
         </svg>
         <span>My list</span>
       </button>
+      {children}
     </div>
   );
+};
+
+MovieCardButtons.propTypes = {
+  children: PropTypes.node,
 };
 
 export default MovieCardButtons;

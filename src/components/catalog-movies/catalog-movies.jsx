@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import SmallMovieCard from '../small-movie-card/small-movie-card.jsx';
 
 const CatalogMovies = (props) => {
-  const {movies, onMouseEnterCard} = props;
+  const {movies, onClickCard, onMouseEnterCard, onMouseLeaveCard} = props;
 
   return (
     <React.Fragment>
@@ -12,7 +12,9 @@ const CatalogMovies = (props) => {
         {movies.map((movie) => <SmallMovieCard
           key={movie.id}
           movie={movie}
+          onClickCard={onClickCard}
           onMouseEnterCard={onMouseEnterCard}
+          onMouseLeaveCard={onMouseLeaveCard}
         />)}
       </div>
     </React.Fragment>
@@ -21,7 +23,9 @@ const CatalogMovies = (props) => {
 
 CatalogMovies.propTypes = {
   movies: PropTypes.array.isRequired,
+  onClickCard: PropTypes.func.isRequired,
   onMouseEnterCard: PropTypes.func.isRequired,
+  onMouseLeaveCard: PropTypes.func.isRequired,
 };
 
 export default CatalogMovies;

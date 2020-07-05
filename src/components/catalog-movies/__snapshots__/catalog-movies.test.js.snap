@@ -6,7 +6,9 @@ exports[`Render CatalogMovies 1`] = `
 >
   <article
     className="small-movie-card catalog__movies-card"
+    onClick={[Function]}
     onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
   >
     <div
       className="small-movie-card__image"
@@ -31,32 +33,9 @@ exports[`Render CatalogMovies 1`] = `
   </article>
   <article
     className="small-movie-card catalog__movies-card"
+    onClick={[Function]}
     onMouseEnter={[Function]}
-  >
-    <div
-      className="small-movie-card__image"
-    >
-      <img
-        alt="Mindhunter"
-        height="175"
-        src="img/mindhunter.jpg"
-        width="280"
-      />
-    </div>
-    <h3
-      className="small-movie-card__title"
-    >
-      <a
-        className="small-movie-card__link"
-        href="movie-page.html"
-      >
-        Mindhunter
-      </a>
-    </h3>
-  </article>
-  <article
-    className="small-movie-card catalog__movies-card"
-    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
   >
     <div
       className="small-movie-card__image"
@@ -81,15 +60,17 @@ exports[`Render CatalogMovies 1`] = `
   </article>
   <article
     className="small-movie-card catalog__movies-card"
+    onClick={[Function]}
     onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
   >
     <div
       className="small-movie-card__image"
     >
       <img
-        alt="Moonrise Kingdom"
+        alt="Seven Years In Tibet"
         height="175"
-        src="img/moonrise-kingdom.jpg"
+        src="img/seven-years-in-tibet.jpg"
         width="280"
       />
     </div>
@@ -100,21 +81,23 @@ exports[`Render CatalogMovies 1`] = `
         className="small-movie-card__link"
         href="movie-page.html"
       >
-        Moonrise Kingdom
+        Seven Years In Tibet
       </a>
     </h3>
   </article>
   <article
     className="small-movie-card catalog__movies-card"
+    onClick={[Function]}
     onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
   >
     <div
       className="small-movie-card__image"
     >
       <img
-        alt="Dardjeeling Limited"
+        alt="Aviator"
         height="175"
-        src="img/dardjeeling-limited.jpg"
+        src="img/aviator.jpg"
         width="280"
       />
     </div>
@@ -125,13 +108,15 @@ exports[`Render CatalogMovies 1`] = `
         className="small-movie-card__link"
         href="movie-page.html"
       >
-        Dardjeeling Limited
+        Aviator
       </a>
     </h3>
   </article>
   <article
     className="small-movie-card catalog__movies-card"
+    onClick={[Function]}
     onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
   >
     <div
       className="small-movie-card__image"
@@ -156,7 +141,9 @@ exports[`Render CatalogMovies 1`] = `
   </article>
   <article
     className="small-movie-card catalog__movies-card"
+    onClick={[Function]}
     onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
   >
     <div
       className="small-movie-card__image"
@@ -176,6 +163,33 @@ exports[`Render CatalogMovies 1`] = `
         href="movie-page.html"
       >
         Revenant
+      </a>
+    </h3>
+  </article>
+  <article
+    className="small-movie-card catalog__movies-card"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <div
+      className="small-movie-card__image"
+    >
+      <img
+        alt="Dardjeeling Limited"
+        height="175"
+        src="img/dardjeeling-limited.jpg"
+        width="280"
+      />
+    </div>
+    <h3
+      className="small-movie-card__title"
+    >
+      <a
+        className="small-movie-card__link"
+        href="movie-page.html"
+      >
+        Dardjeeling Limited
       </a>
     </h3>
   </article>

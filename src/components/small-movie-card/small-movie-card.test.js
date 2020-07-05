@@ -8,7 +8,9 @@ it(`Render SmallMovieCard`, () => {
   const tree = renderer
     .create(<SmallMovieCard
       movie={mock[3]}
+      onClickCard={() => {}}
       onMouseEnterCard={() => {}}
+      onMouseLeaveCard={() => {}}
     />)
     .toJSON();
 

@@ -1,10 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import MovieCardButtons from '../movie-card-buttons/movie-card-buttons.jsx';
+import MovieCardDesc from '../movie-card-desc/movie-card-desc.jsx';
 
 const MovieCardInfo = (props) => {
-  const {name, posterImage, genre, released} = props;
+  const {name, posterImage, genre, released, elemButton} = props;
 
   return (
     <div className="movie-card__wrap">
@@ -12,16 +12,12 @@ const MovieCardInfo = (props) => {
         <div className="movie-card__poster">
           <img src={posterImage} alt={name} width="218" height="327" />
         </div>
-
-        <div className="movie-card__desc">
-          <h2 className="movie-card__title">{name}</h2>
-          <p className="movie-card__meta">
-            <span className="movie-card__genre">{genre}</span>
-            <span className="movie-card__year">{released}</span>
-          </p>
-
-          <MovieCardButtons />
-        </div>
+        <MovieCardDesc
+          name={name}
+          genre={genre}
+          released={released}
+          elemButton={elemButton}
+        />
       </div>
     </div>
   );
@@ -32,6 +28,7 @@ MovieCardInfo.propTypes = {
   genre: PropTypes.string.isRequired,
   released: PropTypes.number.isRequired,
   posterImage: PropTypes.string.isRequired,
+  elemButton: PropTypes.node,
 };
 
 export default MovieCardInfo;

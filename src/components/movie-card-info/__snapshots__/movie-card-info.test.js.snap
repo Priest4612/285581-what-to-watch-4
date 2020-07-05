@@ -31,12 +31,12 @@ exports[`Render MovieCardInfo 1`] = `
         <span
           className="movie-card__genre"
         >
-          Дженнифер Энистон
+          Федор Добронравов
         </span>
         <span
           className="movie-card__year"
         >
-          1901
+          1923
         </span>
       </p>
       <div
@@ -76,6 +76,9 @@ exports[`Render MovieCardInfo 1`] = `
             My list
           </span>
         </button>
+        <a>
+          la-la-la
+        </a>
       </div>
     </div>
   </div>
