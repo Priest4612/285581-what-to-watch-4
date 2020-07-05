@@ -1,287 +1,280 @@
 [
 	{
 		"id": 0,
-		"name": "We Need To Talk About Kevin",
-		"posterImage": "img/we-need-to-talk-about-kevin.jpg",
-		"previewImage": "img/we-need-to-talk-about-kevin.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"Я нёс цветы, дед свою поломанную ветку, мы шли молча.",
-			"Повинуясь этому желтому знаку, я тоже свернул в переулок и пошел по ее следам.",
-			"У деда хлынули слёзы… Они текли по его щекам и падали на плащ, у него задрожали губы."
-		],
-		"rating": 4.9,
-		"scoresCount": 40,
-		"director": "Гай Ричи",
-		"starring": [
-			"Брэд Питт"
-		],
-		"runTime": 151,
-		"genre": "кинокомикс",
-		"released": 1921,
-		"isFavorite": true
-	},
-	{
-		"id": 1,
 		"name": "What We Do In The Shadows",
 		"posterImage": "img/what-we-do-in-the-shadows.jpg",
 		"previewImage": "img/what-we-do-in-the-shadows.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
 		"description": [
-			"Я продолжал рассматривать деда. По многим мелочам я догадался, что дед не алкаш, он просто старый измученный бедностью и старостью человек. И ещё я просто явно почувствовал, что дед стесняется теперешнего своего положения за чертой бедности.",
-			"Я бежал, даже не понимая, куда бегу. Слёзы сами текли из моих глаз…"
+			"- Э… а… ну… я не знаю, - промямлила продавщица",
+			"- Одна? Да, буду с тобой возиться, алкашня... Давай, вали отсюдава, - рыкнула продавщица.",
+			"Я быстро перешел на ее сторону и, подходя к ней, ответил:"
 		],
-		"rating": 6.4,
-		"scoresCount": 492,
-		"director": "Акира Куросава",
+		"rating": 4.9,
+		"scoresCount": 505,
+		"director": "Жан-Люк Годар",
 		"starring": [
-			"Дэнни Де Вито",
-			"Антонио Бандерас",
-			"Стивен Сигал",
-			"Мена Сувари",
-			"Джет Ли",
-			"Гэри Олдмен",
-			"Мила Кунис"
+			"Том Хэнкс"
 		],
-		"runTime": 167,
-		"genre": "музыка",
-		"released": 1985,
-		"isFavorite": false
+		"runTime": 79,
+		"genre": "триллер",
+		"released": 1968,
+		"isFavorite": true
+	},
+	{
+		"id": 1,
+		"name": "Revenant",
+		"posterImage": "img/revenant.jpg",
+		"previewImage": "img/revenant.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"description": [
+			"И эти цветы очень отчетливо выделялись на черном ее весеннем пальто."
+		],
+		"rating": 5.5,
+		"scoresCount": 523,
+		"director": "Хаяо Миядзаки",
+		"starring": [
+			"Жан-Клод Ван Дамм",
+			"Мартин Лоуренс"
+		],
+		"runTime": 161,
+		"genre": "исторический",
+		"released": 1969,
+		"isFavorite": true
 	},
 	{
 		"id": 2,
-		"name": "Aviator",
-		"posterImage": "img/aviator.jpg",
-		"previewImage": "img/aviator.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"- А кто продавец, - спросил я, пряча руки в карманы. Только сейчас, я почувствовал, какой ледяной ветер.",
-			"Дед пытался второй рукой придать этой ветке божеский вид, но она, не желая слушать его, ломалась пополам, и цветы смотрели в землю… На руку деда упала слеза… Дед стоял и держал в руке поломанный цветок и плакал.",
-			"Я видел его глаза. До сих пор, я никогда не видел столько тоски и боли в глазах мужчины.",
-			"Какой-то нехороший комок подкатил к моему горлу."
-		],
-		"rating": 7.7,
-		"scoresCount": 886,
-		"director": "Ридли Скотт",
-		"starring": [
-			"Анджелина Джоли",
-			"Джон Траволта",
-			"Дольф Лундгрен",
-			"Кейт Бекинсейл"
-		],
-		"runTime": 162,
-		"genre": "музыка",
-		"released": 2012,
-		"isFavorite": true
-	},
-	{
-		"id": 3,
-		"name": "Mindhunter",
-		"posterImage": "img/mindhunter.jpg",
-		"previewImage": "img/mindhunter.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"И тут я вспомнил, что я не купил себе цветы.",
-			"Я бежал, даже не понимая, куда бегу. Слёзы сами текли из моих глаз…"
-		],
-		"rating": 0.7,
-		"scoresCount": 26,
-		"director": "Федерико Феллини",
-		"starring": [
-			"Тиль Швайгер",
-			"Леонардо ДиКаприо"
-		],
-		"runTime": 33,
-		"genre": "вестерн",
-		"released": 1974,
-		"isFavorite": true
-	},
-	{
-		"id": 4,
-		"name": "Pulp Fiction",
-		"posterImage": "img/pulp-fiction.jpg",
-		"previewImage": "img/pulp-fiction.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"- А ты сынок подожди, она отошла ненадолго, щас вернётся, - сказала тётка, торговавшая по соседству солёными огурцами.",
-			"Она несла в руках отвратительные, тревожные желтые цветы.",
-			"Я продолжал рассматривать деда. По многим мелочам я догадался, что дед не алкаш, он просто старый измученный бедностью и старостью человек. И ещё я просто явно почувствовал, что дед стесняется теперешнего своего положения за чертой бедности."
-		],
-		"rating": 5.9,
-		"scoresCount": 886,
-		"director": "Дэвид Линч",
-		"starring": [
-			"Джим Керри",
-			"АНДРЕЙ МИРОНОВ",
-			"Роберт Де Ниро",
-			"Мена Сувари",
-			"Риз Уизерспун",
-			"Александр Абдулов",
-			"Аль Пачино",
-			"Харрисон Форд",
-			"Адам Сэндлер",
-			"Стив Мартин"
-		],
-		"runTime": 36,
-		"genre": "комедия",
-		"released": 2010,
-		"isFavorite": false
-	},
-	{
-		"id": 5,
-		"name": "Dardjeeling Limited",
-		"posterImage": "img/dardjeeling-limited.jpg",
-		"previewImage": "img/dardjeeling-limited.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"Я нёс цветы, дед свою поломанную ветку, мы шли молча.",
-			"- Я последний раз у тебя спрашиваю, сколько стоит ведро!?",
-			"Дед робким шагом двинулся к ней."
-		],
-		"rating": 6.4,
-		"scoresCount": 570,
-		"director": "Дэвид Кроненберг",
-		"starring": [
-			"Хью Джекман",
-			"Шонн Уильям Скотт",
-			"Вин Дизель"
-		],
-		"runTime": 70,
-		"genre": "научный",
-		"released": 1983,
-		"isFavorite": false
-	},
-	{
-		"id": 6,
-		"name": "Pulp Fiction",
-		"posterImage": "img/pulp-fiction.jpg",
-		"previewImage": "img/pulp-fiction.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"Я кинул под ноги продавщице купюру, вытащил цветы и протянул их деду.",
-			"Дед пытался второй рукой придать этой ветке божеский вид, но она, не желая слушать его, ломалась пополам, и цветы смотрели в землю… На руку деда упала слеза… Дед стоял и держал в руке поломанный цветок и плакал.",
-			"- Ты, курица тупая, сколько стоит твоё ведро, отвечай быстро и внятно, что бы я не напрягал слух, - еле слышно, но очень понятно прошипел я.",
-			"- Слышишь ты, сука, что же ты, *****, делаешь? – начал я, пытаясь сохранить остатки спокойствия и не заехать продавщице в голову кулаком."
-		],
-		"rating": 7.5,
-		"scoresCount": 970,
-		"director": "Стэнли Кубрик",
-		"starring": [
-			"Мэтт Дэймон",
-			"Марк Уолберг",
-			"Мэтт Дэймон",
-			"Федор Добронравов",
-			"Джим Керри",
-			"Владимир Епифанцев",
-			"Рассел Кроу",
-			"Тиль Швайгер"
-		],
-		"runTime": 140,
-		"genre": "комедия",
-		"released": 1973,
-		"isFavorite": false
-	},
-	{
-		"id": 7,
-		"name": "Dardjeeling Limited",
-		"posterImage": "img/dardjeeling-limited.jpg",
-		"previewImage": "img/dardjeeling-limited.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"Больше я на это смотреть не мог, у меня у самого слёзы стояли в глазах.",
-			"Дед подошёл к продавщице, я остался чуть позади него."
-		],
-		"rating": 9.9,
-		"scoresCount": 890,
-		"director": "Джеймс Кэмерон",
-		"starring": [
-			"Орландо Блум",
-			"Леонардо ДиКаприо",
-			"Дензел Вашингтон"
-		],
-		"runTime": 150,
-		"genre": "комедия",
-		"released": 1907,
-		"isFavorite": true
-	},
-	{
-		"id": 8,
-		"name": "Midnight Special",
-		"posterImage": "img/midnight-special.jpg",
-		"previewImage": "img/midnight-special.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"Я видел его глаза. До сих пор, я никогда не видел столько тоски и боли в глазах мужчины."
-		],
-		"rating": 9.2,
-		"scoresCount": 875,
-		"director": "Федерико Феллини",
-		"starring": [
-			"Мена Сувари",
-			"АНДРЕЙ МИРОНОВ"
-		],
-		"runTime": 62,
-		"genre": "ток-шоу",
-		"released": 1975,
-		"isFavorite": true
-	},
-	{
-		"id": 9,
 		"name": "Johnny English",
 		"posterImage": "img/johnny-english.jpg",
 		"previewImage": "img/johnny-english.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
 		"description": [
-			"- На держи, алкаш, беги к своей алкашке, дари, га, га, га, га, - дико захохотала эта дура.",
-			"- Так, а ну вали от сюдава алкаш, попрошайничать надумал, давай вали, а то… - прорычала продавщица на деда.",
-			"- А ты сынок подожди, она отошла ненадолго, щас вернётся, - сказала тётка, торговавшая по соседству солёными огурцами.",
-			"Я буквально силой впихнул деду в руки цветы, торт и вино, развернулся, и, вытирая глаза, сделал шаг к выходу.",
-			"Я стал в сторонке, закурил и даже начал чуть улыбаться, когда представил, как обрадуются мои женщины, дочка и жена."
+			"- Хозяюшка, ты просто скажи, сколько стоит, а не кричи на меня, - так же тихо сказал дед.",
+			"- Наверное, 500 рублей, - сказала продавщица.",
+			"- Хозяюшка… милая, а сколько стоит одна веточка мимозы? - дрожащими от холода губами спросил дед.",
+			"Повинуясь этому желтому знаку, я тоже свернул в переулок и пошел по ее следам."
 		],
-		"rating": 1.4,
-		"scoresCount": 111,
-		"director": "Джон Карпентер",
+		"rating": 0.1,
+		"scoresCount": 14,
+		"director": "Мэл Гибсон",
 		"starring": [
-			"Николас Кейдж",
-			"Эдди Мёрфи",
-			"Харрисон Форд",
-			"Меган Фокс",
-			"Арнольд Шварцнеггер"
+			"Дженнифер Лопез",
+			"Джет Ли",
+			"Мэтт Дэймон",
+			"Линдси Лохан"
+		],
+		"runTime": 113,
+		"genre": "криминал",
+		"released": 1993,
+		"isFavorite": false
+	},
+	{
+		"id": 3,
+		"name": "What We Do In The Shadows",
+		"posterImage": "img/what-we-do-in-the-shadows.jpg",
+		"previewImage": "img/what-we-do-in-the-shadows.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"description": [
+			"- Мы… мы… 45 лет вместе… Она заболела… Я не мог её оставить сегодня без подарка, - тихо сказал дед, спасибо тебе...",
+			"У деда хлынули слёзы… Они текли по его щекам и падали на плащ, у него задрожали губы.",
+			"Деда трусило от холода как лист бумаги на ветру."
+		],
+		"rating": 6.5,
+		"scoresCount": 829,
+		"director": "Билли Уайлдер",
+		"starring": [
+			"Брюс Уиллис",
+			"Риз Уизерспун",
+			"Стивен Сигал",
+			"Сандра Баллок",
+			"Скарлетт Йоханссон",
+			"Самине Насери",
+			"Гэри Олдмен"
+		],
+		"runTime": 56,
+		"genre": "короткометражный",
+		"released": 1991,
+		"isFavorite": true
+	},
+	{
+		"id": 4,
+		"name": "The Grand Budapest Hotel Poster",
+		"posterImage": "img/the-grand-budapest-hotel-poster.jpg",
+		"previewImage": "img/the-grand-budapest-hotel-poster.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"description": [
+			"Сегодня был праздник, и я уже понял, что дед не мог быть небритым в такой день. На его лице было с десяток порезов, некоторые из них были заклеены кусочками газеты.",
+			"И меня поразила не столько ее красота, сколько необыкновенное, никем не виданное одиночество в глазах!",
+			"Напротив меня стоял старик.",
+			"У деда хлынули слёзы… Они текли по его щекам и падали на плащ, у него задрожали губы.",
+			"- Э… а… ну… я не знаю, - промямлила продавщица"
+		],
+		"rating": 5.3,
+		"scoresCount": 805,
+		"director": "Зак Снайдер",
+		"starring": [
+			"Джон Траволта"
 		],
 		"runTime": 174,
-		"genre": "научный",
-		"released": 1971,
+		"genre": "вестерн",
+		"released": 1909,
+		"isFavorite": true
+	},
+	{
+		"id": 5,
+		"name": "Aviator",
+		"posterImage": "img/aviator.jpg",
+		"previewImage": "img/aviator.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"description": [
+			"- Мы… мы… 45 лет вместе… Она заболела… Я не мог её оставить сегодня без подарка, - тихо сказал дед, спасибо тебе...",
+			"- Хозяюшка, у меня есть три рубля, может, найдёшь для меня веточку на три рубля? - как-то очень тихо спросил дед.",
+			"Все это время дед непонимающе смотрел то на меня, то на продавщицу.",
+			"- На, отец, бери, и иди поздравляй свою жену, - сказал я."
+		],
+		"rating": 0.3,
+		"scoresCount": 659,
+		"director": "Чарли Чаплин",
+		"starring": [
+			"Мэл Гибсон",
+			"Бен Стиллер",
+			"Хит Леджер",
+			"Дольф Лундгрен",
+			"Шон Пенн"
+		],
+		"runTime": 129,
+		"genre": "криминал",
+		"released": 2011,
 		"isFavorite": false
+	},
+	{
+		"id": 6,
+		"name": "No Country For Old Men",
+		"posterImage": "img/no-country-for-old-men.jpg",
+		"previewImage": "img/no-country-for-old-men.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"description": [
+			"Старотипный плащ, фасона 1965 года, на нём не было места, которое было бы не зашито. Но этот заштопанный и перештопанный плащ был чистым. Брюки, такие же старые, но до безумия наутюженные. Ботинки начищены до зеркального блеска, но это не могло скрыть их возраста. Один ботинок, был перевязан проволокой. Я так понял, что подошва на нём просто отвалилась. Из-под плаща была видна старая, почти ветхая рубашка, но и она была чистой и наутюженной. Его лицо было обычным лицом старого человека, вот только, во взгляде было что-то непреклонное и гордое, не смотря ни на что.",
+			"В синей от холода руке деда я увидел ветку мимозы, она была сломана посередине.",
+			"Я кинул под ноги продавщице купюру, вытащил цветы и протянул их деду.",
+			"- Слышишь ты, сука, что же ты, *****, делаешь? – начал я, пытаясь сохранить остатки спокойствия и не заехать продавщице в голову кулаком."
+		],
+		"rating": 6.8,
+		"scoresCount": 457,
+		"director": "Тим Бёртон",
+		"starring": [
+			"Дженнифер Лопез",
+			"Николас Кейдж",
+			"Сандра Баллок",
+			"Сэмюэл Л  Джексон"
+		],
+		"runTime": 106,
+		"genre": "триллер",
+		"released": 1925,
+		"isFavorite": false
+	},
+	{
+		"id": 7,
+		"name": "Shutter Island",
+		"posterImage": "img/shutter-island.jpg",
+		"previewImage": "img/shutter-island.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"description": [
+			"Я стал в сторонке, закурил и даже начал чуть улыбаться, когда представил, как обрадуются мои женщины, дочка и жена."
+		],
+		"rating": 8.7,
+		"scoresCount": 593,
+		"director": "Мэл Гибсон",
+		"starring": [
+			"Жан-Клод Ван Дамм",
+			"ЧАРЛИ ЧАПЛИН",
+			"Дженнифер Лопез",
+			"Андрей Чернышов",
+			"Крис Пайн",
+			"Николас Кейдж",
+			"Морган Фриман"
+		],
+		"runTime": 40,
+		"genre": "криминал",
+		"released": 1903,
+		"isFavorite": true
+	},
+	{
+		"id": 8,
+		"name": "Fantastic Beasts The Crimes Of Grindelwald",
+		"posterImage": "img/fantastic-beasts-the-crimes-of-grindelwald.jpg",
+		"previewImage": "img/fantastic-beasts-the-crimes-of-grindelwald.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"description": [
+			"Она несла в руках отвратительные, тревожные желтые цветы.",
+			"- Наверное, 500 рублей, - сказала продавщица.",
+			"- Ты, курица тупая, сколько стоит твоё ведро, отвечай быстро и внятно, что бы я не напрягал слух, - еле слышно, но очень понятно прошипел я.",
+			"- Хорошо, отец, пошли вместе, - сказал я и взял деда под руку."
+		],
+		"rating": 1.5,
+		"scoresCount": 127,
+		"director": "Мартин Скорсезе",
+		"starring": [
+			"Нина Добрев"
+		],
+		"runTime": 105,
+		"genre": "короткометражный",
+		"released": 1901,
+		"isFavorite": false
+	},
+	{
+		"id": 9,
+		"name": "Pulp Fiction",
+		"posterImage": "img/pulp-fiction.jpg",
+		"previewImage": "img/pulp-fiction.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"description": [
+			"Черт их знает, как их зовут, но они первые почему-то появляются в Москве.",
+			"- Ты, курица тупая, сколько стоит твоё ведро, отвечай быстро и внятно, что бы я не напрягал слух, - еле слышно, но очень понятно прошипел я.",
+			"Видимо, в моих глазах было что-то такое, что продавщица как-то побледнела и даже уменьшилась в росте. Она просто смотрела на меня как мышь на удава и молчала."
+		],
+		"rating": 4.3,
+		"scoresCount": 611,
+		"director": "Ингмар Бергман",
+		"starring": [
+			"Дензел Вашингтон",
+			"Риз Уизерспун",
+			"Орландо Блум"
+		],
+		"runTime": 49,
+		"genre": "триллер",
+		"released": 1902,
+		"isFavorite": true
 	},
 	{
 		"id": 10,
@@ -290,88 +283,91 @@
 		"previewImage": "img/orlando.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
 		"description": [
-			"Я бы не сказал, что погода была весенней. Ледяной ветер так и норовил забраться под куртку. Подняв воротник и опустив в него как можно ниже голову, я приближался к базару. Я ещё за неделю до этого решил: никаких роз, только весенние цветы… праздник же весенний.",
-			"Я то же подошёл к ней.",
-			"Дед подошёл к продавщице, я остался чуть позади него."
+			"Она поглядела на меня удивленно, а я вдруг, и совершенно неожиданно, понял, что я всю жизнь любил именно эту женщину!",
+			"Я купил торт, и бутылку красного вина.",
+			"Я начал замерзать, а продавщицы всё не было."
 		],
-		"rating": 7.9,
-		"scoresCount": 548,
-		"director": "Карл Теодор Дрейер",
+		"rating": 8.5,
+		"scoresCount": 284,
+		"director": "Джон Карпентер",
 		"starring": [
-			"Вин Дизель",
-			"Том Круз",
-			"Марк Уолберг",
-			"Николас Кейдж",
-			"Вигго Мортенсен"
+			"ЧАРЛИ ЧАПЛИН",
+			"Микки Рурк",
+			"Антонио Бандерас",
+			"Кира Найтли",
+			"Самине Насери",
+			"Аль Пачино",
+			"Джордж Клуни",
+			"Рассел Кроу",
+			"Шонн Уильям Скотт"
 		],
-		"runTime": 156,
-		"genre": "научный",
-		"released": 1996,
+		"runTime": 64,
+		"genre": "исторический",
+		"released": 1972,
 		"isFavorite": false
 	},
 	{
 		"id": 11,
-		"name": "Snatch",
-		"posterImage": "img/snatch.jpg",
-		"previewImage": "img/snatch.jpg",
+		"name": "Macbeth",
+		"posterImage": "img/macbeth.jpg",
+		"previewImage": "img/macbeth.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
 		"description": [
-			"Она несла желтые цветы! Нехороший цвет.",
-			"Она поглядела на меня удивленно, а я вдруг, и совершенно неожиданно, понял, что я всю жизнь любил именно эту женщину!",
-			"Деда трусило от холода как лист бумаги на ветру.",
-			"Она нагнулась к корзине, долго в ней ковырялась…"
+			"- На три тебе найти, алкаш, га, га, га, щас я тебе найду, - уже прогорлопанила продавщица.",
+			"Она поглядела на меня удивленно, а я вдруг, и совершенно неожиданно, понял, что я всю жизнь любил именно эту женщину!"
 		],
-		"rating": 9.3,
-		"scoresCount": 539,
-		"director": "Люк Бессон",
+		"rating": 6.2,
+		"scoresCount": 599,
+		"director": "Федерико Феллини",
 		"starring": [
-			"Донни Ен",
-			"Сергей Безруков",
-			"Самине Насери",
-			"Адам Сэндлер",
-			"ЧЕВИ ЧЕЙЗ",
-			"Джордж Клуни",
-			"Мэл Гибсон",
-			"Кира Найтли"
+			"Джет Ли",
+			"Николас Кейдж",
+			"Джерард Батлер",
+			"Джейсон Стэтхэм",
+			"Сильвестр Сталлоне"
 		],
-		"runTime": 142,
-		"genre": "реалити-шоу",
-		"released": 1951,
-		"isFavorite": false
+		"runTime": 158,
+		"genre": "короткометражный",
+		"released": 1915,
+		"isFavorite": true
 	},
 	{
 		"id": 12,
-		"name": "Seven Years In Tibet",
-		"posterImage": "img/seven-years-in-tibet.jpg",
-		"previewImage": "img/seven-years-in-tibet.jpg",
+		"name": "Shutter Island",
+		"posterImage": "img/shutter-island.jpg",
+		"previewImage": "img/shutter-island.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
 		"description": [
-			"Я мучился, потому что мне показалось, что с нею необходимо говорить, и тревожился, что я не вымолвлю ни одного слова, а она уйдет, и я никогда ее более не увижу...",
-			"Я купил торт, и бутылку красного вина.",
-			"- Дед, а ну, подожди, - сказал я, взяв деда за руку.",
-			"- На три тебе найти, алкаш, га, га, га, щас я тебе найду, - уже прогорлопанила продавщица.",
-			"Дед пытался второй рукой придать этой ветке божеский вид, но она, не желая слушать его, ломалась пополам, и цветы смотрели в землю… На руку деда упала слеза… Дед стоял и держал в руке поломанный цветок и плакал."
+			"Дед робким шагом двинулся к ней.",
+			"Ранее утро… 8 марта. Будильник зазвенел и, даже не успев как следует начать свою песню, умолк под натиском моего пальца. Почти в темноте оделся, тихо прикрыв входную дверь, направился к базару. Стало чуть светать."
 		],
-		"rating": 8.7,
-		"scoresCount": 504,
-		"director": "Джон Карпентер",
+		"rating": 8.4,
+		"scoresCount": 140,
+		"director": "Андрей Тарковский",
 		"starring": [
-			"Меган Фокс",
-			"Вин Дизель"
+			"ГЕОРГИЙ ВИЦИН",
+			"Тэйлор Лотнер",
+			"Жан Дюжарден",
+			"Тиль Швайгер",
+			"Эдди Мёрфи",
+			"Том Хэнкс",
+			"Мэтт Дэймон",
+			"Линдси Лохан",
+			"Виктор Вержбицкий"
 		],
-		"runTime": 106,
-		"genre": "вестерн",
-		"released": 2008,
-		"isFavorite": false
+		"runTime": 56,
+		"genre": "ужасы",
+		"released": 2012,
+		"isFavorite": true
 	},
 	{
 		"id": 13,
@@ -380,405 +376,435 @@
 		"previewImage": "img/we-need-to-talk-about-kevin.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
 		"description": [
-			"В синей от холода руке деда я увидел ветку мимозы, она была сломана посередине.",
-			"У меня у самого слёзы стояли в глазах."
+			"Деда трусило от холода как лист бумаги на ветру.",
+			"И тут я вспомнил, что я не купил себе цветы.",
+			"И меня поразила не столько ее красота, сколько необыкновенное, никем не виданное одиночество в глазах!"
 		],
-		"rating": 8.5,
-		"scoresCount": 526,
-		"director": "Клинт Иствуд",
+		"rating": 2.7,
+		"scoresCount": 529,
+		"director": "Мэл Гибсон",
 		"starring": [
-			"Мэтт Дэймон",
-			"БИЛЛ МЮРРЕЙ",
-			"Риз Уизерспун",
-			"Харрисон Форд",
-			"Хит Леджер"
+			"Марк Уолберг",
+			"Джулия Робертс",
+			"Лиам Нисон",
+			"Роуэн Эткинсон",
+			"Жан-Клод Ван Дамм",
+			"Меган Фокс",
+			"Адам Сэндлер"
 		],
-		"runTime": 49,
-		"genre": "мюзикл",
-		"released": 1948,
-		"isFavorite": true
+		"runTime": 109,
+		"genre": "ужасы",
+		"released": 1949,
+		"isFavorite": false
 	},
 	{
 		"id": 14,
-		"name": "Dardjeeling Limited",
-		"posterImage": "img/dardjeeling-limited.jpg",
-		"previewImage": "img/dardjeeling-limited.jpg",
+		"name": "Johnny English",
+		"posterImage": "img/johnny-english.jpg",
+		"previewImage": "img/johnny-english.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
 		"description": [
-			"- Так, а ну вали от сюдава алкаш, попрошайничать надумал, давай вали, а то… - прорычала продавщица на деда.",
-			"Я продолжал рассматривать деда. По многим мелочам я догадался, что дед не алкаш, он просто старый измученный бедностью и старостью человек. И ещё я просто явно почувствовал, что дед стесняется теперешнего своего положения за чертой бедности.",
-			"Дед пытался второй рукой придать этой ветке божеский вид, но она, не желая слушать его, ломалась пополам, и цветы смотрели в землю… На руку деда упала слеза… Дед стоял и держал в руке поломанный цветок и плакал.",
-			"И эти цветы очень отчетливо выделялись на черном ее весеннем пальто."
+			"- Ладно, для тебя, алкаш, 5 рублей ветка, - с какой-то ухмылкой сказала продавщица. На её лице проступила ехидная улыбка.",
+			"Дед мотал головой в знак отказа, и второй рукой прикрывал свою поломанную ветку.",
+			"Дед робким шагом двинулся к ней.",
+			"Я стоял позади него и чуть с боку. Я увидел, что у деда в глазах стояли слёзы…",
+			"У меня у самого слёзы стояли в глазах."
 		],
-		"rating": 8.9,
-		"scoresCount": 429,
-		"director": "Федерико Феллини",
+		"rating": 7.8,
+		"scoresCount": 370,
+		"director": "Ингмар Бергман",
 		"starring": [
-			"Гэри Олдмен"
+			"Адам Сэндлер"
 		],
-		"runTime": 67,
-		"genre": "музыка",
-		"released": 1926,
-		"isFavorite": false
+		"runTime": 156,
+		"genre": "короткометражный",
+		"released": 1933,
+		"isFavorite": true
 	},
 	{
 		"id": 15,
-		"name": "Mindhunter",
-		"posterImage": "img/mindhunter.jpg",
-		"previewImage": "img/mindhunter.jpg",
+		"name": "War Of The Worlds",
+		"posterImage": "img/war-of-the-worlds.jpg",
+		"previewImage": "img/war-of-the-worlds.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
 		"description": [
-			"- Одна? Да, буду с тобой возиться, алкашня... Давай, вали отсюдава, - рыкнула продавщица."
+			"Я подошёл к базару. Перед входом, стояла огромная корзина с очень красивыми весенними цветами. Это были Мимозы. Я подошёл. Да, цветы действительно красивы.",
+			"Я бежал, даже не понимая, куда бегу. Слёзы сами текли из моих глаз…",
+			"И тут я вспомнил, что я не купил себе цветы."
 		],
-		"rating": 3.4,
-		"scoresCount": 162,
-		"director": "Хаяо Миядзаки",
+		"rating": 5.6,
+		"scoresCount": 739,
+		"director": "Вуди Аллен",
 		"starring": [
-			"Хью Джекман"
+			"Хит Леджер",
+			"Мэтт Дэймон",
+			"Марк Уолберг",
+			"Брюс Уиллис"
 		],
-		"runTime": 109,
-		"genre": "музыка",
-		"released": 1975,
-		"isFavorite": false
+		"runTime": 156,
+		"genre": "исторический",
+		"released": 1981,
+		"isFavorite": true
 	},
 	{
 		"id": 16,
-		"name": "Aviator",
-		"posterImage": "img/aviator.jpg",
-		"previewImage": "img/aviator.jpg",
+		"name": "Seven Years In Tibet",
+		"posterImage": "img/seven-years-in-tibet.jpg",
+		"previewImage": "img/seven-years-in-tibet.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
 		"description": [
-			"По дороге я потянул деда в гастроном."
+			"Все это время дед непонимающе смотрел то на меня, то на продавщицу.",
+			"Дед пытался второй рукой придать этой ветке божеский вид, но она, не желая слушать его, ломалась пополам, и цветы смотрели в землю… На руку деда упала слеза… Дед стоял и держал в руке поломанный цветок и плакал.",
+			"Я нёс цветы, дед свою поломанную ветку, мы шли молча.",
+			"- Нет."
 		],
-		"rating": 1.6,
-		"scoresCount": 416,
-		"director": "Стивен Спилберг",
+		"rating": 5.7,
+		"scoresCount": 971,
+		"director": "Джим Джармуш",
 		"starring": [
-			"Марк Уолберг",
-			"Дуэйн Джонсон",
-			"Том Круз",
-			"Иен Сомерхолдер"
+			"Владимир Епифанцев",
+			"Жан Дюжарден",
+			"Стивен Сигал",
+			"ГЕОРГИЙ ВИЦИН",
+			"БИЛЛ МЮРРЕЙ"
 		],
-		"runTime": 124,
-		"genre": "реалити-шоу",
-		"released": 2009,
+		"runTime": 54,
+		"genre": "триллер",
+		"released": 1958,
 		"isFavorite": true
 	},
 	{
 		"id": 17,
-		"name": "Pulp Fiction",
-		"posterImage": "img/pulp-fiction.jpg",
-		"previewImage": "img/pulp-fiction.jpg",
+		"name": "Revenant",
+		"posterImage": "img/revenant.jpg",
+		"previewImage": "img/revenant.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
 		"description": [
-			"Дед вытащил дрожащую руку из кармана, на его ладони лежало, три бумажки по рублю.",
-			"- Нравятся ли вам мои цветы?",
-			"Сейчас я не могу сказать, что именно, но в его облике меня что-то привлекло.",
-			"Я стоял позади него и чуть с боку. Я увидел, что у деда в глазах стояли слёзы…"
+			"- Хозяюшка, ты просто скажи, сколько стоит, а не кричи на меня, - так же тихо сказал дед.",
+			"Я нёс цветы, дед свою поломанную ветку, мы шли молча."
 		],
-		"rating": 2.7,
-		"scoresCount": 815,
-		"director": "Дэвид Финчер",
+		"rating": 4.6,
+		"scoresCount": 846,
+		"director": "Серджио Леоне",
 		"starring": [
-			"Дэнни Де Вито",
-			"Стив Мартин",
-			"БИЛЛ МЮРРЕЙ"
+			"Джим Керри",
+			"Уиллем Дефо"
 		],
-		"runTime": 43,
-		"genre": "ток-шоу",
-		"released": 1970,
-		"isFavorite": true
+		"runTime": 23,
+		"genre": "вестерн",
+		"released": 1907,
+		"isFavorite": false
 	},
 	{
 		"id": 18,
-		"name": "Snatch",
-		"posterImage": "img/snatch.jpg",
-		"previewImage": "img/snatch.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"Я начал замерзать, а продавщицы всё не было."
-		],
-		"rating": 4.3,
-		"scoresCount": 247,
-		"director": "Леонид Гайдай",
-		"starring": [
-			"Антонио Бандерас",
-			"Уилл Смит",
-			"Лиам Нисон",
-			"Анджелина Джоли",
-			"Брэд Питт",
-			"Николь Кидман",
-			"Владимир Епифанцев"
-		],
-		"runTime": 105,
-		"genre": "комедия",
-		"released": 1900,
-		"isFavorite": false
-	},
-	{
-		"id": 19,
-		"name": "Bohemian Rhapsody",
-		"posterImage": "img/bohemian-rhapsody.jpg",
-		"previewImage": "img/bohemian-rhapsody.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"Сейчас я не могу сказать, что именно, но в его облике меня что-то привлекло.",
-			"- А кто продавец, - спросил я, пряча руки в карманы. Только сейчас, я почувствовал, какой ледяной ветер.",
-			"Черт их знает, как их зовут, но они первые почему-то появляются в Москве."
-		],
-		"rating": 0.1,
-		"scoresCount": 715,
-		"director": "Вуди Аллен",
-		"starring": [
-			"Джон Траволта",
-			"Дэниэл Рэдклифф"
-		],
-		"runTime": 128,
-		"genre": "научный",
-		"released": 1935,
-		"isFavorite": false
-	},
-	{
-		"id": 20,
-		"name": "Moonrise Kingdom",
-		"posterImage": "img/moonrise-kingdom.jpg",
-		"previewImage": "img/moonrise-kingdom.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"Ранее утро… 8 марта. Будильник зазвенел и, даже не успев как следует начать свою песню, умолк под натиском моего пальца. Почти в темноте оделся, тихо прикрыв входную дверь, направился к базару. Стало чуть светать.",
-			"Она поглядела на меня удивленно, а я вдруг, и совершенно неожиданно, понял, что я всю жизнь любил именно эту женщину!",
-			"и отразилось от желтой грязной стены."
-		],
-		"rating": 2.6,
-		"scoresCount": 710,
-		"director": "Роман Полански",
-		"starring": [
-			"Дуэйн Джонсон"
-		],
-		"runTime": 125,
-		"genre": "кинокомикс",
-		"released": 1954,
-		"isFavorite": true
-	},
-	{
-		"id": 21,
-		"name": "Seven Years In Tibet",
-		"posterImage": "img/seven-years-in-tibet.jpg",
-		"previewImage": "img/seven-years-in-tibet.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"- Так, а ну вали от сюдава алкаш, попрошайничать надумал, давай вали, а то… - прорычала продавщица на деда.",
-			"- А ты сынок подожди, она отошла ненадолго, щас вернётся, - сказала тётка, торговавшая по соседству солёными огурцами.",
-			"Я подошёл к базару. Перед входом, стояла огромная корзина с очень красивыми весенними цветами. Это были Мимозы. Я подошёл. Да, цветы действительно красивы."
-		],
-		"rating": 7.8,
-		"scoresCount": 390,
-		"director": "Кристофер Нолан",
-		"starring": [
-			"Брэд Питт",
-			"Антонио Бандерас",
-			"Дженсен Эклс",
-			"Меган Фокс"
-		],
-		"runTime": 163,
-		"genre": "научный",
-		"released": 1939,
-		"isFavorite": false
-	},
-	{
-		"id": 22,
-		"name": "Seven Years In Tibet",
-		"posterImage": "img/seven-years-in-tibet.jpg",
-		"previewImage": "img/seven-years-in-tibet.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"У деда хлынули слёзы… Они текли по его щекам и падали на плащ, у него задрожали губы.",
-			"И меня поразила не столько ее красота, сколько необыкновенное, никем не виданное одиночество в глазах!",
-			"Я буквально силой впихнул деду в руки цветы, торт и вино, развернулся, и, вытирая глаза, сделал шаг к выходу."
-		],
-		"rating": 6.1,
-		"scoresCount": 392,
-		"director": "Дэвид Финчер",
-		"starring": [
-			"Нина Добрев",
-			"Уиллем Дефо",
-			"Риз Уизерспун",
-			"Джордж Клуни"
-		],
-		"runTime": 164,
-		"genre": "научный",
-		"released": 1927,
-		"isFavorite": true
-	},
-	{
-		"id": 23,
 		"name": "No Country For Old Men",
 		"posterImage": "img/no-country-for-old-men.jpg",
 		"previewImage": "img/no-country-for-old-men.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
 		"description": [
-			"Я буквально силой впихнул деду в руки цветы, торт и вино, развернулся, и, вытирая глаза, сделал шаг к выходу.",
-			"И тут я вспомнил, что я не купил себе цветы.",
-			"Мы шли по кривому, скучному переулку безмолвно, я по одной стороне, а она по другой. И не было, вообразите, в переулке ни души.",
+			"Дед пытался второй рукой придать этой ветке божеский вид, но она, не желая слушать его, ломалась пополам, и цветы смотрели в землю… На руку деда упала слеза… Дед стоял и держал в руке поломанный цветок и плакал.",
 			"Она повернула с Тверской в переулок и тут обернулась. Ну, Тверскую вы знаете? По Тверской шли тысячи людей, но я вам ручаюсь, что увидела она меня одного и поглядела не то что тревожно, а даже как будто болезненно."
 		],
-		"rating": 1.6,
-		"scoresCount": 758,
-		"director": "Гай Ричи",
+		"rating": 2.9,
+		"scoresCount": 366,
+		"director": "Ингмар Бергман",
 		"starring": [
-			"Джет Ли"
+			"Дженнифер Энистон",
+			"Пенелопа Крус",
+			"Мэтт Дэймон",
+			"Стив Мартин",
+			"Самине Насери",
+			"Брюс Уиллис",
+			"Джессика Альба"
 		],
-		"runTime": 99,
-		"genre": "комедия",
-		"released": 1903,
+		"runTime": 174,
+		"genre": "триллер",
+		"released": 1950,
+		"isFavorite": true
+	},
+	{
+		"id": 19,
+		"name": "Midnight Special",
+		"posterImage": "img/midnight-special.jpg",
+		"previewImage": "img/midnight-special.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"description": [
+			"У меня у самого слёзы стояли в глазах.",
+			"- А кто продавец, - спросил я, пряча руки в карманы. Только сейчас, я почувствовал, какой ледяной ветер.",
+			"- Хозяюшка, у меня есть три рубля, может, найдёшь для меня веточку на три рубля? - как-то очень тихо спросил дед.",
+			"Дед пытался второй рукой придать этой ветке божеский вид, но она, не желая слушать его, ломалась пополам, и цветы смотрели в землю… На руку деда упала слеза… Дед стоял и держал в руке поломанный цветок и плакал.",
+			"Дед вытащил дрожащую руку из кармана, на его ладони лежало, три бумажки по рублю."
+		],
+		"rating": 0.4,
+		"scoresCount": 627,
+		"director": "Чарли Чаплин",
+		"starring": [
+			"Мена Сувари"
+		],
+		"runTime": 97,
+		"genre": "исторический",
+		"released": 1980,
 		"isFavorite": false
 	},
 	{
-		"id": 24,
+		"id": 20,
+		"name": "The Grand Budapest Hotel Poster",
+		"posterImage": "img/the-grand-budapest-hotel-poster.jpg",
+		"previewImage": "img/the-grand-budapest-hotel-poster.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"description": [
+			"Больше я на это смотреть не мог, у меня у самого слёзы стояли в глазах.",
+			"У меня у самого слёзы стояли в глазах."
+		],
+		"rating": 2.6,
+		"scoresCount": 845,
+		"director": "Уэс Андерсон",
+		"starring": [
+			"Сергей Безруков",
+			"Пенелопа Крус",
+			"Морган Фриман",
+			"Эшли Грин",
+			"Скарлетт Йоханссон",
+			"Уилл Смит"
+		],
+		"runTime": 7,
+		"genre": "спорт",
+		"released": 1971,
+		"isFavorite": false
+	},
+	{
+		"id": 21,
+		"name": "Bohemian Rhapsody",
+		"posterImage": "img/bohemian-rhapsody.jpg",
+		"previewImage": "img/bohemian-rhapsody.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"description": [
+			"Я продолжал рассматривать деда. По многим мелочам я догадался, что дед не алкаш, он просто старый измученный бедностью и старостью человек. И ещё я просто явно почувствовал, что дед стесняется теперешнего своего положения за чертой бедности."
+		],
+		"rating": 1,
+		"scoresCount": 332,
+		"director": "Люк Бессон",
+		"starring": [
+			"Джереми Реннер",
+			"Мэтт Дэймон",
+			"Сильвестр Сталлоне",
+			"Джет Ли",
+			"Нина Добрев",
+			"Дженнифер Энистон",
+			"Джордж Клуни"
+		],
+		"runTime": 37,
+		"genre": "криминал",
+		"released": 1925,
+		"isFavorite": false
+	},
+	{
+		"id": 22,
 		"name": "Dardjeeling Limited",
 		"posterImage": "img/dardjeeling-limited.jpg",
 		"previewImage": "img/dardjeeling-limited.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
 		"description": [
-			"Я то же подошёл к ней.",
-			"- Я последний раз у тебя спрашиваю, сколько стоит ведро!?",
-			"Дед подошёл к продавщице, я остался чуть позади него.",
-			"В синей от холода руке деда я увидел ветку мимозы, она была сломана посередине."
+			"- Наверное, 500 рублей, - сказала продавщица.",
+			"Я начал замерзать, а продавщицы всё не было.",
+			"Я бы не сказал, что погода была весенней. Ледяной ветер так и норовил забраться под куртку. Подняв воротник и опустив в него как можно ниже голову, я приближался к базару. Я ещё за неделю до этого решил: никаких роз, только весенние цветы… праздник же весенний.",
+			"Дед робким шагом двинулся к ней."
 		],
-		"rating": 8.7,
-		"scoresCount": 158,
-		"director": "Билли Уайлдер",
+		"rating": 1.5,
+		"scoresCount": 311,
+		"director": "Роман Полански",
 		"starring": [
-			"Джерард Батлер",
-			"Сандра Баллок",
-			"Джессика Альба",
-			"Адам Сэндлер",
-			"Мартин Лоуренс",
-			"ЧАРЛИ ЧАПЛИН",
-			"Жан Рено",
-			"Харрисон Форд",
-			"Шонн Уильям Скотт",
-			"Том Круз"
+			"Екатерина Климова",
+			"Тэйлор Лотнер",
+			"Андрей Чернышов",
+			"Иен Сомерхолдер"
 		],
-		"runTime": 21,
-		"genre": "научный",
-		"released": 1955,
-		"isFavorite": true
-	},
-	{
-		"id": 25,
-		"name": "What We Do In The Shadows",
-		"posterImage": "img/what-we-do-in-the-shadows.jpg",
-		"previewImage": "img/what-we-do-in-the-shadows.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
-		"description": [
-			"Я бежал, даже не понимая, куда бегу. Слёзы сами текли из моих глаз…",
-			"Она несла в руках отвратительные, тревожные желтые цветы.",
-			"Черт их знает, как их зовут, но они первые почему-то появляются в Москве.",
-			"К корзине подошла продавщица."
-		],
-		"rating": 6,
-		"scoresCount": 31,
-		"director": "Джон МакТирнан",
-		"starring": [
-			"Дженнифер Энистон"
-		],
-		"runTime": 56,
-		"genre": "комедия",
-		"released": 2007,
+		"runTime": 66,
+		"genre": "исторический",
+		"released": 1902,
 		"isFavorite": false
 	},
 	{
-		"id": 26,
-		"name": "Fantastic Beasts The Crimes Of Grindelwald",
-		"posterImage": "img/fantastic-beasts-the-crimes-of-grindelwald.jpg",
-		"previewImage": "img/fantastic-beasts-the-crimes-of-grindelwald.jpg",
+		"id": 23,
+		"name": "Snatch",
+		"posterImage": "img/snatch.jpg",
+		"previewImage": "img/snatch.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
 		"description": [
-			"- Ладно, для тебя, алкаш, 5 рублей ветка, - с какой-то ухмылкой сказала продавщица. На её лице проступила ехидная улыбка.",
-			"Сейчас я не могу сказать, что именно, но в его облике меня что-то привлекло."
+			"Я быстро перешел на ее сторону и, подходя к ней, ответил:",
+			"Дед пытался второй рукой придать этой ветке божеский вид, но она, не желая слушать его, ломалась пополам, и цветы смотрели в землю… На руку деда упала слеза… Дед стоял и держал в руке поломанный цветок и плакал.",
+			"Деда трусило от холода как лист бумаги на ветру.",
+			"Я буквально силой впихнул деду в руки цветы, торт и вино, развернулся, и, вытирая глаза, сделал шаг к выходу.",
+			"- Хозяюшка… милая, а сколько стоит одна веточка мимозы? - дрожащими от холода губами спросил дед."
 		],
-		"rating": 5.2,
-		"scoresCount": 530,
-		"director": "Ларс фон Триер",
+		"rating": 3.5,
+		"scoresCount": 542,
+		"director": "Чарли Чаплин",
 		"starring": [
-			"Дэнни Де Вито",
-			"Николас Кейдж",
-			"Джерард Батлер",
-			"Федор Добронравов",
-			"Рассел Кроу",
-			"Самине Насери",
-			"Дуэйн Джонсон",
-			"Джулия Робертс"
+			"ГЕОРГИЙ ВИЦИН",
+			"Сильвестр Сталлоне",
+			"Мартин Лоуренс",
+			"Джейсон Стэтхэм",
+			"Джонни Депп",
+			"Вин Дизель"
 		],
-		"runTime": 115,
-		"genre": "комедия",
-		"released": 1986,
+		"runTime": 35,
+		"genre": "триллер",
+		"released": 1926,
+		"isFavorite": false
+	},
+	{
+		"id": 24,
+		"name": "Pulp Fiction",
+		"posterImage": "img/pulp-fiction.jpg",
+		"previewImage": "img/pulp-fiction.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"description": [
+			"Слёзы, одна за другой, покатились по морщинистым щекам деда. Он мотал головой и плакал, просто молча плакал…",
+			"Я буквально силой впихнул деду в руки цветы, торт и вино, развернулся, и, вытирая глаза, сделал шаг к выходу.",
+			"- Наверное, 500 рублей, - сказала продавщица.",
+			"- Мы… мы… 45 лет вместе… Она заболела… Я не мог её оставить сегодня без подарка, - тихо сказал дед, спасибо тебе...",
+			"Она несла в руках отвратительные, тревожные желтые цветы."
+		],
+		"rating": 7,
+		"scoresCount": 355,
+		"director": "Андрей Тарковский",
+		"starring": [
+			"Пенелопа Крус",
+			"Джордж Клуни",
+			"Джереми Реннер",
+			"Гэри Олдмен",
+			"Кейт Бекинсейл",
+			"Николас Кейдж"
+		],
+		"runTime": 64,
+		"genre": "мистика",
+		"released": 2008,
+		"isFavorite": false
+	},
+	{
+		"id": 25,
+		"name": "Mindhunter",
+		"posterImage": "img/mindhunter.jpg",
+		"previewImage": "img/mindhunter.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"description": [
+			"- Хозяюшка… милая, а сколько стоит одна веточка мимозы? - дрожащими от холода губами спросил дед.",
+			"Видимо, в моих глазах было что-то такое, что продавщица как-то побледнела и даже уменьшилась в росте. Она просто смотрела на меня как мышь на удава и молчала."
+		],
+		"rating": 3,
+		"scoresCount": 305,
+		"director": "Фрэнсис Форд Коппола",
+		"starring": [
+			"Роуэн Эткинсон",
+			"Хью Джекман",
+			"Джон Траволта",
+			"Джим Керри",
+			"Дуэйн Джонсон",
+			"Екатерина Климова"
+		],
+		"runTime": 72,
+		"genre": "мистика",
+		"released": 1965,
+		"isFavorite": true
+	},
+	{
+		"id": 26,
+		"name": "Revenant",
+		"posterImage": "img/revenant.jpg",
+		"previewImage": "img/revenant.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm",
+		"description": [
+			"Дед вытащил дрожащую руку из кармана, на его ладони лежало, три бумажки по рублю.",
+			"Я бежал, даже не понимая, куда бегу. Слёзы сами текли из моих глаз…",
+			"Видимо, в моих глазах было что-то такое, что продавщица как-то побледнела и даже уменьшилась в росте. Она просто смотрела на меня как мышь на удава и молчала."
+		],
+		"rating": 5.9,
+		"scoresCount": 890,
+		"director": "Квентин Тарантино",
+		"starring": [
+			"Донни Ен",
+			"Гэри Олдмен",
+			"Эшли Грин",
+			"Владимир Епифанцев"
+		],
+		"runTime": 81,
+		"genre": "вестерн",
+		"released": 1932,
 		"isFavorite": true
 	},
 	{
 		"id": 27,
-		"name": "Orlando",
-		"posterImage": "img/orlando.jpg",
-		"previewImage": "img/orlando.jpg",
+		"name": "Revenant",
+		"posterImage": "img/revenant.jpg",
+		"previewImage": "img/revenant.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
-		"videoLink": "https://some-link",
-		"previewVideoLink": "https://some-link",
+		"videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+		"previewVideoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
 		"description": [
-			"В синей от холода руке деда я увидел ветку мимозы, она была сломана посередине."
+			"У деда хлынули слёзы… Они текли по его щекам и падали на плащ, у него задрожали губы.",
+			"Я буквально силой впихнул деду в руки цветы, торт и вино, развернулся, и, вытирая глаза, сделал шаг к выходу.",
+			"- Отец, послушай меня внимательно. У меня есть деньги, для меня не сыграют роль эти 500 рублей, а тебе с поломанной веткой идти к жене негоже, сегодня же восьмое марта, бери цветы, вино и торт и иди к ней, поздравляй."
 		],
-		"rating": 1.5,
-		"scoresCount": 894,
-		"director": "Алехандро Гонсалес Иньярриту",
+		"rating": 4.4,
+		"scoresCount": 332,
+		"director": "Серджио Леоне",
 		"starring": [
-			"Джордж Клуни"
+			"Брэд Питт",
+			"Джессика Альба",
+			"Марк Уолберг",
+			"Кейт Бекинсейл",
+			"АНДРЕЙ МИРОНОВ",
+			"Донни Ен",
+			"Тиль Швайгер",
+			"Александр Абдулов"
 		],
-		"runTime": 11,
-		"genre": "научный",
-		"released": 2014,
-		"isFavorite": false
+		"runTime": 23,
+		"genre": "ужасы",
+		"released": 1944,
+		"isFavorite": true
 	}
 ]
