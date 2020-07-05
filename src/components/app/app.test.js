@@ -9,7 +9,6 @@ import genresMock from '../../mocks/test-genres-mock.json';
 it(`Render App`, () => {
   const tree = renderer
     .create(<App
-      moveDetails={filmsMock[11]}
       movies={filmsMock.slice(10, 14)}
       genres={genresMock}
     />)

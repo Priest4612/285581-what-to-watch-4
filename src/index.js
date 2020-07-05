@@ -6,15 +6,10 @@ import filmsMock from './mocks/films-mock.json';
 import genresMock from './mocks/genres-mock.json';
 
 
-const moveDetails = filmsMock[17];
-const movies = filmsMock;
-const genres = genresMock;
-
 ReactDOM.render(
     <App
-      moveDetails={moveDetails}
-      movies={movies}
-      genres={genres}
+      movies={filmsMock}
+      genres={genresMock}
     />,
     document.querySelector(`#root`)
 );

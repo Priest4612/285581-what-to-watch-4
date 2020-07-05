@@ -38,5 +38,8 @@ exports[`Render MovieCardButtons 1`] = `
       My list
     </span>
   </button>
+  <a>
+    la-la-la
+  </a>
 </div>
 `;

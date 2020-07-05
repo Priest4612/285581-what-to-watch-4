@@ -13,6 +13,7 @@ it(`Render MovieCardInfo`, () => {
       genre={genre}
       released={released}
       posterImage={posterImage}
+      elemButton={<a>la-la-la</a>}
     />)
     .toJSON();
 

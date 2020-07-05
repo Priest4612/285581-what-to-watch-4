@@ -2,13 +2,15 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const SmallMovieCard = (props) => {
-  const {movie, onMouseEnterCard} = props;
-  const {/* id,  */name, previewImage} = movie;
+  const {movie, onClickCard, onMouseEnterCard, onMouseLeaveCard} = props;
+  const {id, name, previewImage} = movie;
 
   return (
     <article
-      onMouseEnter={() => onMouseEnterCard(name)}
-      className="small-movie-card catalog__movies-card"/*  key={id} */
+      onClick={() => onClickCard(id)}
+      onMouseEnter={() => onMouseEnterCard(id)}
+      onMouseLeave={() => onMouseLeaveCard()}
+      className="small-movie-card catalog__movies-card"
     >
       <div className="small-movie-card__image">
         <img src={previewImage} alt={name} width="280" height="175" />
@@ -25,11 +27,13 @@ const SmallMovieCard = (props) => {
 
 SmallMovieCard.propTypes = {
   movie: PropTypes.shape({
-    /* id: PropTypes.number.isRequired, */
+    id: PropTypes.number.isRequired,
     name: PropTypes.string.isRequired,
     previewImage: PropTypes.string.isRequired,
   }),
+  onClickCard: PropTypes.func.isRequired,
   onMouseEnterCard: PropTypes.func.isRequired,
+  onMouseLeaveCard: PropTypes.func.isRequired,
 };
 
 export default SmallMovieCard;

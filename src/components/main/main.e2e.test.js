@@ -11,19 +11,26 @@ Enzyme.configure({
 });
 
 it(`Should title be pressed`, () => {
+  const onClickCard = jest.fn();
   const onMouseEnterCard = jest.fn();
+  const onMouseLeaveCard = jest.fn();
+
 
   const main = shallow(
       <Main
         moveDetails={filmsMock[0]}
         movies={filmsMock.slice(0, 4)}
         genres={genresMock}
+        onClickCard={onClickCard}
         onMouseEnterCard={onMouseEnterCard}
+        onMouseLeaveCard={onMouseLeaveCard}
       />
   );
 
-  const titleLinks = main.find(`a.small-movie-card__link`);
+  const titleLinks = main.find(`article.small-movie-card catalog__movies-card`);
   titleLinks.forEach((item) => item.simulate(`click`));
 
+  expect(onClickCard).toHaveBeenCalledTimes(titleLinks.length);
   expect(onMouseEnterCard).toHaveBeenCalledTimes(titleLinks.length);
+  expect(onMouseLeaveCard).toHaveBeenCalledTimes(titleLinks.length);
 });

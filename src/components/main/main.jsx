@@ -8,7 +8,7 @@ import CatalogGenres from '../catalog-genres/catalog-genres.jsx';
 import CatalogButtonShowMore from '../catalog-button-show-more/catalog-button-show-more.jsx';
 
 const Main = (props) => {
-  const {movies, moveDetails, genres, onMouseEnterCard} = props;
+  const {movies, moveDetails, genres, onClickCard, onMouseEnterCard, onMouseLeaveCard} = props;
 
   return (
     <React.Fragment>
@@ -23,7 +23,9 @@ const Main = (props) => {
 
           <CatalogMovies
             movies={movies}
+            onClickCard={onClickCard}
             onMouseEnterCard={onMouseEnterCard}
+            onMouseLeaveCard={onMouseLeaveCard}
           />
 
           <CatalogButtonShowMore />
@@ -41,7 +43,9 @@ Main.propTypes = {
   moveDetails: PropTypes.object.isRequired,
   movies: PropTypes.array.isRequired,
   genres: PropTypes.array.isRequired,
+  onClickCard: PropTypes.func.isRequired,
   onMouseEnterCard: PropTypes.func.isRequired,
+  onMouseLeaveCard: PropTypes.func.isRequired,
 };
 
 export default Main;

@@ -9,7 +9,9 @@ it(`Render CatalogMovies`, () => {
   const tree = renderer
     .create(<CatalogMovies
       movies={mock.splice(3, 7)}
+      onClickCard={() => {}}
       onMouseEnterCard={() => {}}
+      onMouseLeaveCard={() => {}}
     />)
     .toJSON();
 

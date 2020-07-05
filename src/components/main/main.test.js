@@ -12,7 +12,9 @@ it(`Render Main`, () => {
       moveDetails={filmsMock[0]}
       movies={filmsMock.slice(0, 4)}
       genres={genresMock}
+      onClickCard={() => {}}
       onMouseEnterCard={() => {}}
+      onMouseLeaveCard={() => {}}
     />)
     .toJSON();
 

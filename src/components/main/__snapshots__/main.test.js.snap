@@ -69,9 +69,9 @@ Array [
           className="movie-card__poster"
         >
           <img
-            alt="We Need To Talk About Kevin"
+            alt="The Grand Budapest Hotel Poster"
             height="327"
-            src="img/we-need-to-talk-about-kevin.jpg"
+            src="img/the-grand-budapest-hotel-poster.jpg"
             width="218"
           />
         </div>
@@ -81,7 +81,7 @@ Array [
           <h2
             className="movie-card__title"
           >
-            We Need To Talk About Kevin
+            The Grand Budapest Hotel Poster
           </h2>
           <p
             className="movie-card__meta"
@@ -89,12 +89,12 @@ Array [
             <span
               className="movie-card__genre"
             >
-              Сергей Безруков
+              Вигго Мортенсен
             </span>
             <span
               className="movie-card__year"
             >
-              1951
+              1984
             </span>
           </p>
           <div
@@ -170,7 +170,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Фантастика
+            Комедия
           </a>
         </li>
         <li
@@ -180,17 +180,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Спорт
-          </a>
-        </li>
-        <li
-          className="catalog__genres-item false"
-        >
-          <a
-            className="catalog__genres-link"
-            href="#"
-          >
-            Короткометражный
+            Музыка
           </a>
         </li>
         <li
@@ -210,17 +200,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Боевик
-          </a>
-        </li>
-        <li
-          className="catalog__genres-item false"
-        >
-          <a
-            className="catalog__genres-link"
-            href="#"
-          >
-            Драма
+            Мюзикл
           </a>
         </li>
         <li
@@ -240,7 +220,27 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Семейный
+            Кинокомикс
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Вестерн
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Ток-шоу
           </a>
         </li>
       </ul>
@@ -249,15 +249,17 @@ Array [
       >
         <article
           className="small-movie-card catalog__movies-card"
+          onClick={[Function]}
           onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
         >
           <div
             className="small-movie-card__image"
           >
             <img
-              alt="We Need To Talk About Kevin"
+              alt="The Grand Budapest Hotel Poster"
               height="175"
-              src="img/we-need-to-talk-about-kevin.jpg"
+              src="img/the-grand-budapest-hotel-poster.jpg"
               width="280"
             />
           </div>
@@ -268,13 +270,15 @@ Array [
               className="small-movie-card__link"
               href="movie-page.html"
             >
-              We Need To Talk About Kevin
+              The Grand Budapest Hotel Poster
             </a>
           </h3>
         </article>
         <article
           className="small-movie-card catalog__movies-card"
+          onClick={[Function]}
           onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
         >
           <div
             className="small-movie-card__image"
@@ -299,15 +303,17 @@ Array [
         </article>
         <article
           className="small-movie-card catalog__movies-card"
+          onClick={[Function]}
           onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
         >
           <div
             className="small-movie-card__image"
           >
             <img
-              alt="Moonrise Kingdom"
+              alt="Fantastic Beasts The Crimes Of Grindelwald"
               height="175"
-              src="img/moonrise-kingdom.jpg"
+              src="img/fantastic-beasts-the-crimes-of-grindelwald.jpg"
               width="280"
             />
           </div>
@@ -318,13 +324,15 @@ Array [
               className="small-movie-card__link"
               href="movie-page.html"
             >
-              Moonrise Kingdom
+              Fantastic Beasts The Crimes Of Grindelwald
             </a>
           </h3>
         </article>
         <article
           className="small-movie-card catalog__movies-card"
+          onClick={[Function]}
           onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
         >
           <div
             className="small-movie-card__image"

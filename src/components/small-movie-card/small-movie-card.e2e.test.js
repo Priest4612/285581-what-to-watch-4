@@ -11,17 +11,26 @@ Enzyme.configure({
 });
 
 it(`Checks that when you hover over the card with the movie, the movie information gets to the handler`, () => {
+  const onClickCard = jest.fn();
   const onMouseEnterCard = jest.fn();
+  const onMouseLeaveCard = jest.fn();
 
   const movieCard = shallow(
       <SmallMovieCard
         movie={mock[2]}
+        onClickCard={onClickCard}
         onMouseEnterCard={onMouseEnterCard}
+        onMouseLeaveCard={onMouseLeaveCard}
       />
   );
 
   const movieCardElement = movieCard.find(`article.small-movie-card`);
+  movieCardElement.simulate(`click`);
   movieCardElement.simulate(`mouseenter`);
+  movieCardElement.simulate(`mouseleave`);
 
-  expect(onMouseEnterCard).toHaveBeenCalledWith(mock[2].name);
+
+  expect(onClickCard).toHaveBeenCalledWith(mock[2].id);
+  expect(onMouseEnterCard).toHaveBeenCalledWith(mock[2].id);
+  expect(onMouseLeaveCard).toHaveBeenCalledTimes(1);
 });
