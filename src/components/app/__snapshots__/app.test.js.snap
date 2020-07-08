@@ -69,9 +69,9 @@ Array [
           className="movie-card__poster"
         >
           <img
-            alt="Shutter Island"
+            alt="Orlando"
             height="327"
-            src="img/shutter-island.jpg"
+            src="img/orlando.jpg"
             width="218"
           />
         </div>
@@ -81,7 +81,7 @@ Array [
           <h2
             className="movie-card__title"
           >
-            Shutter Island
+            Orlando
           </h2>
           <p
             className="movie-card__meta"
@@ -89,12 +89,12 @@ Array [
             <span
               className="movie-card__genre"
             >
-              БИЛЛ МЮРРЕЙ
+              Роуэн Эткинсон
             </span>
             <span
               className="movie-card__year"
             >
-              1936
+              1903
             </span>
           </p>
           <div
@@ -170,7 +170,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Комедия
+            Криминал
           </a>
         </li>
         <li
@@ -180,7 +180,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Музыка
+            Исторический
           </a>
         </li>
         <li
@@ -190,7 +190,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Научный
+            Триллер
           </a>
         </li>
         <li
@@ -200,7 +200,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Мюзикл
+            Короткометражный
           </a>
         </li>
         <li
@@ -210,17 +210,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Реалити-шоу
-          </a>
-        </li>
-        <li
-          className="catalog__genres-item false"
-        >
-          <a
-            className="catalog__genres-link"
-            href="#"
-          >
-            Кинокомикс
+            Мистика
           </a>
         </li>
         <li
@@ -240,7 +230,17 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Ток-шоу
+            Ужасы
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Спорт
           </a>
         </li>
       </ul>
@@ -257,9 +257,9 @@ Array [
             className="small-movie-card__image"
           >
             <img
-              alt="What We Do In The Shadows"
+              alt="Orlando"
               height="175"
-              src="img/what-we-do-in-the-shadows.jpg"
+              src="img/orlando.jpg"
               width="280"
             />
           </div>
@@ -270,7 +270,61 @@ Array [
               className="small-movie-card__link"
               href="movie-page.html"
             >
-              What We Do In The Shadows
+              Orlando
+            </a>
+          </h3>
+        </article>
+        <article
+          className="small-movie-card catalog__movies-card"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+        >
+          <div
+            className="small-movie-card__image"
+          >
+            <img
+              alt="Fantastic Beasts The Crimes Of Grindelwald"
+              height="175"
+              src="img/fantastic-beasts-the-crimes-of-grindelwald.jpg"
+              width="280"
+            />
+          </div>
+          <h3
+            className="small-movie-card__title"
+          >
+            <a
+              className="small-movie-card__link"
+              href="movie-page.html"
+            >
+              Fantastic Beasts The Crimes Of Grindelwald
+            </a>
+          </h3>
+        </article>
+        <article
+          className="small-movie-card catalog__movies-card"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+        >
+          <div
+            className="small-movie-card__image"
+          >
+            <img
+              alt="Snatch"
+              height="175"
+              src="img/snatch.jpg"
+              width="280"
+            />
+          </div>
+          <h3
+            className="small-movie-card__title"
+          >
+            <a
+              className="small-movie-card__link"
+              href="movie-page.html"
+            >
+              Snatch
             </a>
           </h3>
         </article>
@@ -298,60 +352,6 @@ Array [
               href="movie-page.html"
             >
               Pulp Fiction
-            </a>
-          </h3>
-        </article>
-        <article
-          className="small-movie-card catalog__movies-card"
-          onClick={[Function]}
-          onMouseEnter={[Function]}
-          onMouseLeave={[Function]}
-        >
-          <div
-            className="small-movie-card__image"
-          >
-            <img
-              alt="Shutter Island"
-              height="175"
-              src="img/shutter-island.jpg"
-              width="280"
-            />
-          </div>
-          <h3
-            className="small-movie-card__title"
-          >
-            <a
-              className="small-movie-card__link"
-              href="movie-page.html"
-            >
-              Shutter Island
-            </a>
-          </h3>
-        </article>
-        <article
-          className="small-movie-card catalog__movies-card"
-          onClick={[Function]}
-          onMouseEnter={[Function]}
-          onMouseLeave={[Function]}
-        >
-          <div
-            className="small-movie-card__image"
-          >
-            <img
-              alt="War Of The Worlds"
-              height="175"
-              src="img/war-of-the-worlds.jpg"
-              width="280"
-            />
-          </div>
-          <h3
-            className="small-movie-card__title"
-          >
-            <a
-              className="small-movie-card__link"
-              href="movie-page.html"
-            >
-              War Of The Worlds
             </a>
           </h3>
         </article>

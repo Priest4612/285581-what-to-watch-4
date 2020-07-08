@@ -6,42 +6,42 @@
 	},
 	{
 		"id": 1,
-		"name": "Комедия",
+		"name": "Криминал",
 		"active": false
 	},
 	{
 		"id": 2,
-		"name": "Музыка",
+		"name": "Исторический",
 		"active": false
 	},
 	{
 		"id": 3,
-		"name": "Научный",
+		"name": "Триллер",
 		"active": false
 	},
 	{
 		"id": 4,
-		"name": "Мюзикл",
+		"name": "Короткометражный",
 		"active": false
 	},
 	{
 		"id": 5,
-		"name": "Реалити-шоу",
+		"name": "Мистика",
 		"active": false
 	},
 	{
 		"id": 6,
-		"name": "Кинокомикс",
-		"active": false
-	},
-	{
-		"id": 7,
 		"name": "Вестерн",
 		"active": false
 	},
 	{
+		"id": 7,
+		"name": "Ужасы",
+		"active": false
+	},
+	{
 		"id": 8,
-		"name": "Ток-шоу",
+		"name": "Спорт",
 		"active": false
 	}
 ]

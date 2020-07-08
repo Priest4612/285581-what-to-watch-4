@@ -71,7 +71,7 @@ Array [
           <h2
             className="movie-card__title"
           >
-            The Grand Budapest Hotel Poster
+            Orlando
           </h2>
           <p
             className="movie-card__meta"
@@ -79,12 +79,12 @@ Array [
             <span
               className="movie-card__genre"
             >
-              Вигго Мортенсен
+              Шонн Уильям Скотт
             </span>
             <span
               className="movie-card__year"
             >
-              1984
+              1975
             </span>
           </p>
           <div
@@ -144,9 +144,9 @@ Array [
           className="movie-card__poster movie-card__poster--big"
         >
           <img
-            alt="The Grand Budapest Hotel Poster"
+            alt="Orlando"
             height="327"
-            src="img/the-grand-budapest-hotel-poster.jpg"
+            src="img/orlando.jpg"
             width="218"
           />
         </div>
@@ -197,7 +197,7 @@ Array [
             <div
               className="movie-rating__score"
             >
-              5.1
+              8.6
             </div>
             <p
               className="movie-rating__meta"
@@ -205,30 +205,33 @@ Array [
               <span
                 className="movie-rating__level"
               >
-                Good
+                Very good
               </span>
               <span
                 className="movie-rating__count"
               >
-                665 ratings
+                38 ratings
               </span>
             </p>
           </div>
           <div
             className="movie-card__text"
           >
+            <p>
+              https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4
+            </p>
             <p
               className="movie-card__director"
             >
               <strong>
-                Director: У деда хлынули слёзы… Они текли по его щекам и падали на плащ, у него задрожали губы.
+                Director: Я видел его глаза. До сих пор, я никогда не видел столько тоски и боли в глазах мужчины.
               </strong>
             </p>
             <p
               className="movie-card__starring"
             >
               <strong>
-                Starring: Жан-Люк Годар, Альфонсо Куарон, Ридли Скотт, Майкл Манн
+                Starring: Вуди Аллен, Мартин Скорсезе, Акира Куросава, Чарли Чаплин, Пол Верховен, Альфонсо Куарон, Джеймс Кэмерон
               </strong>
             </p>
           </div>
@@ -260,9 +263,9 @@ Array [
             className="small-movie-card__image"
           >
             <img
-              alt="The Grand Budapest Hotel Poster"
+              alt="Orlando"
               height="175"
-              src="img/the-grand-budapest-hotel-poster.jpg"
+              src="img/orlando.jpg"
               width="280"
             />
           </div>
@@ -273,7 +276,34 @@ Array [
               className="small-movie-card__link"
               href="movie-page.html"
             >
-              The Grand Budapest Hotel Poster
+              Orlando
+            </a>
+          </h3>
+        </article>
+        <article
+          className="small-movie-card catalog__movies-card"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+        >
+          <div
+            className="small-movie-card__image"
+          >
+            <img
+              alt="We Need To Talk About Kevin"
+              height="175"
+              src="img/we-need-to-talk-about-kevin.jpg"
+              width="280"
+            />
+          </div>
+          <h3
+            className="small-movie-card__title"
+          >
+            <a
+              className="small-movie-card__link"
+              href="movie-page.html"
+            >
+              We Need To Talk About Kevin
             </a>
           </h3>
         </article>

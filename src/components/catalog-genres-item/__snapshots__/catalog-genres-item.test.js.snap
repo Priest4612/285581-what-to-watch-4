@@ -8,7 +8,7 @@ exports[`Render CatalogGenresItem 1`] = `
     className="catalog__genres-link"
     href="#"
   >
-    Музыка
+    Исторический
   </a>
 </li>
 `;

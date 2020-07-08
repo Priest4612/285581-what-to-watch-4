@@ -11,6 +11,9 @@ it(`Render SmallMovieCard`, () => {
       onClickCard={() => {}}
       onMouseEnterCard={() => {}}
       onMouseLeaveCard={() => {}}
+      activeMovieId={mock[3].id}
+      isMuted={true}
+      isPlaying={true}
     />)
     .toJSON();
 

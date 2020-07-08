@@ -4,18 +4,21 @@ exports[`Render MovieCardFullText 1`] = `
 <div
   className="movie-card__text"
 >
+  <p>
+    https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4
+  </p>
   <p
     className="movie-card__director"
   >
     <strong>
-      Director: Слёзы, одна за другой, покатились по морщинистым щекам деда. Он мотал головой и плакал, просто молча плакал…
+      Director: Видимо, в моих глазах было что-то такое, что продавщица как-то побледнела и даже уменьшилась в росте. Она просто смотрела на меня как мышь на удава и молчала.
     </strong>
   </p>
   <p
     className="movie-card__starring"
   >
     <strong>
-      Starring: Стивен Спилберг, Питер Джексон
+      Starring: Серджио Леоне, Фрэнк Дарабонт, Билли Уайлдер, Дэвид Кроненберг
     </strong>
   </p>
 </div>

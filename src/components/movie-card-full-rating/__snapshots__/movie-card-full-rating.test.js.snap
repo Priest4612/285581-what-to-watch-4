@@ -7,7 +7,7 @@ exports[`Render MovieCardFullRating 1`] = `
   <div
     className="movie-rating__score"
   >
-    4.8
+    0.1
   </div>
   <p
     className="movie-rating__meta"
@@ -15,12 +15,12 @@ exports[`Render MovieCardFullRating 1`] = `
     <span
       className="movie-rating__level"
     >
-      Normal
+      Bad
     </span>
     <span
       className="movie-rating__count"
     >
-      844 ratings
+      823 ratings
     </span>
   </p>
 </div>

@@ -1,197 +1,91 @@
 [
 	{
 		"id": 0,
-		"name": "The Grand Budapest Hotel Poster",
-		"posterImage": "img/the-grand-budapest-hotel-poster.jpg",
-		"previewImage": "img/the-grand-budapest-hotel-poster.jpg",
+		"name": "Orlando",
+		"posterImage": "img/orlando.jpg",
+		"previewImage": "img/orlando.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 5.1,
-		"scoresCount": 665,
-		"director": "У деда хлынули слёзы… Они текли по его щекам и падали на плащ, у него задрожали губы.",
-		"starring": [
-			"Жан-Люк Годар",
-			"Альфонсо Куарон",
-			"Ридли Скотт",
-			"Майкл Манн"
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
 		],
-		"runTime": 48,
-		"genre": "Вигго Мортенсен",
-		"released": 1984,
-		"isFavorite": false
+		"rating": 8.6,
+		"scoresCount": 38,
+		"director": "Я видел его глаза. До сих пор, я никогда не видел столько тоски и боли в глазах мужчины.",
+		"starring": [
+			"Вуди Аллен",
+			"Мартин Скорсезе",
+			"Акира Куросава",
+			"Чарли Чаплин",
+			"Пол Верховен",
+			"Альфонсо Куарон",
+			"Джеймс Кэмерон"
+		],
+		"runTime": 158,
+		"genre": "Шонн Уильям Скотт",
+		"released": 1975,
+		"isFavorite": true
 	},
 	{
 		"id": 1,
-		"name": "Seven Years In Tibet",
-		"posterImage": "img/seven-years-in-tibet.jpg",
-		"previewImage": "img/seven-years-in-tibet.jpg",
+		"name": "Macbeth",
+		"posterImage": "img/macbeth.jpg",
+		"previewImage": "img/macbeth.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 2.4,
-		"scoresCount": 823,
-		"director": "Дед вытащил дрожащую руку из кармана, на его ладони лежало, три бумажки по рублю.",
-		"starring": [
-			"Альфонсо Куарон",
-			"Квентин Тарантино",
-			"Федерико Феллини",
-			"Гас Ван Сент",
-			"Джон МакТирнан"
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
 		],
-		"runTime": 168,
-		"genre": "Федор Добронравов",
-		"released": 1923,
+		"rating": 6.6,
+		"scoresCount": 901,
+		"director": "Я нёс цветы, дед свою поломанную ветку, мы шли молча.",
+		"starring": [
+			"Дэвид Линч",
+			"Альфред Хичкок",
+			"Сидни Люмет",
+			"Квентин Тарантино",
+			"Майкл Манн",
+			"Кристофер Нолан",
+			"Леонид Гайдай",
+			"Билли Уайлдер"
+		],
+		"runTime": 20,
+		"genre": "Мишель Родригес",
+		"released": 1962,
 		"isFavorite": true
 	},
 	{
 		"id": 2,
-		"name": "Fantastic Beasts The Crimes Of Grindelwald",
-		"posterImage": "img/fantastic-beasts-the-crimes-of-grindelwald.jpg",
-		"previewImage": "img/fantastic-beasts-the-crimes-of-grindelwald.jpg",
+		"name": "Bohemian Rhapsody",
+		"posterImage": "img/bohemian-rhapsody.jpg",
+		"previewImage": "img/bohemian-rhapsody.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 4.8,
-		"scoresCount": 844,
-		"director": "Слёзы, одна за другой, покатились по морщинистым щекам деда. Он мотал головой и плакал, просто молча плакал…",
-		"starring": [
-			"Стивен Спилберг",
-			"Питер Джексон"
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
 		],
-		"runTime": 29,
-		"genre": "Самине Насери",
-		"released": 1977,
+		"rating": 0.1,
+		"scoresCount": 823,
+		"director": "Видимо, в моих глазах было что-то такое, что продавщица как-то побледнела и даже уменьшилась в росте. Она просто смотрела на меня как мышь на удава и молчала.",
+		"starring": [
+			"Серджио Леоне",
+			"Фрэнк Дарабонт",
+			"Билли Уайлдер",
+			"Дэвид Кроненберг"
+		],
+		"runTime": 19,
+		"genre": "Роуэн Эткинсон",
+		"released": 1930,
 		"isFavorite": true
 	},
 	{
 		"id": 3,
-		"name": "What We Do In The Shadows",
-		"posterImage": "img/what-we-do-in-the-shadows.jpg",
-		"previewImage": "img/what-we-do-in-the-shadows.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 8.7,
-		"scoresCount": 230,
-		"director": "Я бы не сказал, что погода была весенней. Ледяной ветер так и норовил забраться под куртку. Подняв воротник и опустив в него как можно ниже голову, я приближался к базару. Я ещё за неделю до этого решил: никаких роз, только весенние цветы… праздник же весенний.",
-		"starring": [
-			"Даррен Аронофски",
-			"Акира Куросава",
-			"Клинт Иствуд",
-			"Леонид Гайдай"
-		],
-		"runTime": 129,
-		"genre": "Джим Керри",
-		"released": 1959,
-		"isFavorite": true
-	},
-	{
-		"id": 4,
-		"name": "No Country For Old Men",
-		"posterImage": "img/no-country-for-old-men.jpg",
-		"previewImage": "img/no-country-for-old-men.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 8.2,
-		"scoresCount": 143,
-		"director": "Я кинул под ноги продавщице купюру, вытащил цветы и протянул их деду.",
-		"starring": [
-			"Дэвид Финчер"
-		],
-		"runTime": 166,
-		"genre": "Андрей Чернышов",
-		"released": 1999,
-		"isFavorite": true
-	},
-	{
-		"id": 5,
-		"name": "Seven Years In Tibet",
-		"posterImage": "img/seven-years-in-tibet.jpg",
-		"previewImage": "img/seven-years-in-tibet.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 9,
-		"scoresCount": 975,
-		"director": "Я мучился, потому что мне показалось, что с нею необходимо говорить, и тревожился, что я не вымолвлю ни одного слова, а она уйдет, и я никогда ее более не увижу...",
-		"starring": [
-			"Джон МакТирнан",
-			"Гас Ван Сент",
-			"Даррен Аронофски",
-			"Жан-Люк Годар",
-			"Гай Ричи",
-			"Федерико Феллини",
-			"Алехандро Гонсалес Иньярриту"
-		],
-		"runTime": 101,
-		"genre": "Дуэйн Джонсон",
-		"released": 1942,
-		"isFavorite": false
-	},
-	{
-		"id": 6,
-		"name": "Aviator",
-		"posterImage": "img/aviator.jpg",
-		"previewImage": "img/aviator.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 4.3,
-		"scoresCount": 275,
-		"director": "Я купил торт, и бутылку красного вина.",
-		"starring": [
-			"Джон Карпентер",
-			"Карл Теодор Дрейер",
-			"Ингмар Бергман",
-			"Билли Уайлдер",
-			"Роман Полански",
-			"Тим Бёртон"
-		],
-		"runTime": 154,
-		"genre": "Уиллем Дефо",
-		"released": 1924,
-		"isFavorite": true
-	},
-	{
-		"id": 7,
-		"name": "Snatch",
-		"posterImage": "img/snatch.jpg",
-		"previewImage": "img/snatch.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 7.9,
-		"scoresCount": 922,
-		"director": "Я то же подошёл к ней.",
-		"starring": [
-			"Серджио Леоне",
-			"Леонид Гайдай"
-		],
-		"runTime": 33,
-		"genre": "Сандра Баллок",
-		"released": 1956,
-		"isFavorite": true
-	},
-	{
-		"id": 8,
 		"name": "Revenant",
 		"posterImage": "img/revenant.jpg",
 		"previewImage": "img/revenant.jpg",
@@ -199,25 +93,73 @@
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 1.5,
-		"scoresCount": 572,
-		"director": "Я буквально силой впихнул деду в руки цветы, торт и вино, развернулся, и, вытирая глаза, сделал шаг к выходу.",
-		"starring": [
-			"Чарли Чаплин",
-			"Джим Джармуш",
-			"Фрэнсис Форд Коппола",
-			"Гай Ричи",
-			"Клинт Иствуд",
-			"Сидни Люмет"
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
 		],
-		"runTime": 140,
+		"rating": 5.9,
+		"scoresCount": 452,
+		"director": "Я отчетливо помню, как прозвучал ее голос, низкий довольно-таки, но со срывами, и, как это ни глупо, показалось, что эхо ударило в переулке",
+		"starring": [
+			"Хаяо Миядзаки",
+			"Карл Теодор Дрейер",
+			"Дени Вильнёв",
+			"Фрэнк Дарабонт",
+			"Федерико Феллини"
+		],
+		"runTime": 128,
 		"genre": "Том Круз",
-		"released": 1971,
+		"released": 1963,
 		"isFavorite": false
 	},
 	{
-		"id": 9,
+		"id": 4,
+		"name": "Macbeth",
+		"posterImage": "img/macbeth.jpg",
+		"previewImage": "img/macbeth.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
+		],
+		"rating": 6.3,
+		"scoresCount": 907,
+		"director": "И эти цветы очень отчетливо выделялись на черном ее весеннем пальто.",
+		"starring": [
+			"Стэнли Кубрик"
+		],
+		"runTime": 78,
+		"genre": "Дензел Вашингтон",
+		"released": 2009,
+		"isFavorite": true
+	},
+	{
+		"id": 5,
+		"name": "Aviator",
+		"posterImage": "img/aviator.jpg",
+		"previewImage": "img/aviator.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
+		],
+		"rating": 3.1,
+		"scoresCount": 151,
+		"director": "Дед робким шагом двинулся к ней.",
+		"starring": [
+			"Стивен Спилберг",
+			"Фрэнк Дарабонт"
+		],
+		"runTime": 39,
+		"genre": "ПЬЕР РИШАР",
+		"released": 1976,
+		"isFavorite": false
+	},
+	{
+		"id": 6,
 		"name": "Dardjeeling Limited",
 		"posterImage": "img/dardjeeling-limited.jpg",
 		"previewImage": "img/dardjeeling-limited.jpg",
@@ -225,48 +167,186 @@
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 9.6,
-		"scoresCount": 553,
-		"director": "И тут я вспомнил, что я не купил себе цветы.",
-		"starring": [
-			"Фрэнсис Форд Коппола",
-			"Майкл Манн",
-			"Кшиштоф Кесьлёвский",
-			"Роберт Земекис",
-			"Альфонсо Куарон"
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
 		],
-		"runTime": 173,
+		"rating": 3.1,
+		"scoresCount": 190,
+		"director": "Я нёс цветы, дед свою поломанную ветку, мы шли молча.",
+		"starring": [
+			"Клинт Иствуд"
+		],
+		"runTime": 179,
 		"genre": "Жан Рено",
-		"released": 2010,
+		"released": 1954,
 		"isFavorite": true
 	},
 	{
-		"id": 10,
-		"name": "What We Do In The Shadows",
-		"posterImage": "img/what-we-do-in-the-shadows.jpg",
-		"previewImage": "img/what-we-do-in-the-shadows.jpg",
+		"id": 7,
+		"name": "We Need To Talk About Kevin",
+		"posterImage": "img/we-need-to-talk-about-kevin.jpg",
+		"previewImage": "img/we-need-to-talk-about-kevin.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 1.5,
-		"scoresCount": 224,
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
+		],
+		"rating": 4.8,
+		"scoresCount": 144,
+		"director": "Я начал замерзать, а продавщицы всё не было.",
+		"starring": [
+			"Алехандро Гонсалес Иньярриту",
+			"Андрей Тарковский",
+			"Леонид Гайдай",
+			"Фрэнк Дарабонт",
+			"Зак Снайдер",
+			"Уэс Андерсон",
+			"Вуди Аллен",
+			"Альфред Хичкок",
+			"Даррен Аронофски",
+			"Хаяо Миядзаки"
+		],
+		"runTime": 162,
+		"genre": "Шонн Уильям Скотт",
+		"released": 2010,
+		"isFavorite": false
+	},
+	{
+		"id": 8,
+		"name": "We Need To Talk About Kevin",
+		"posterImage": "img/we-need-to-talk-about-kevin.jpg",
+		"previewImage": "img/we-need-to-talk-about-kevin.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
+		],
+		"rating": 2.1,
+		"scoresCount": 373,
+		"director": "- Дед, а ну, подожди, - сказал я, взяв деда за руку.",
+		"starring": [
+			"Стэнли Кубрик",
+			"Дени Вильнёв",
+			"Чарли Чаплин"
+		],
+		"runTime": 164,
+		"genre": "Кэмерон Диаз",
+		"released": 1944,
+		"isFavorite": false
+	},
+	{
+		"id": 9,
+		"name": "Aviator",
+		"posterImage": "img/aviator.jpg",
+		"previewImage": "img/aviator.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
+		],
+		"rating": 8.7,
+		"scoresCount": 779,
 		"director": "- А ты сынок подожди, она отошла ненадолго, щас вернётся, - сказала тётка, торговавшая по соседству солёными огурцами.",
 		"starring": [
-			"Дэвид Финчер",
-			"Жан-Люк Годар",
-			"Клинт Иствуд",
-			"Дени Вильнёв"
+			"Гас Ван Сент",
+			"Джон МакТирнан"
 		],
-		"runTime": 7,
-		"genre": "Дэнни Де Вито",
-		"released": 2001,
+		"runTime": 111,
+		"genre": "Нина Добрев",
+		"released": 1960,
+		"isFavorite": true
+	},
+	{
+		"id": 10,
+		"name": "Orlando",
+		"posterImage": "img/orlando.jpg",
+		"previewImage": "img/orlando.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
+		],
+		"rating": 0.1,
+		"scoresCount": 230,
+		"director": "И меня поразила не столько ее красота, сколько необыкновенное, никем не виданное одиночество в глазах!",
+		"starring": [
+			"Сидни Люмет",
+			"Питер Джексон",
+			"Мэл Гибсон",
+			"Ларс фон Триер",
+			"Стивен Спилберг",
+			"Пол Томас Андерсон"
+		],
+		"runTime": 50,
+		"genre": "Роуэн Эткинсон",
+		"released": 1903,
 		"isFavorite": false
 	},
 	{
 		"id": 11,
+		"name": "Fantastic Beasts The Crimes Of Grindelwald",
+		"posterImage": "img/fantastic-beasts-the-crimes-of-grindelwald.jpg",
+		"previewImage": "img/fantastic-beasts-the-crimes-of-grindelwald.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
+		],
+		"rating": 2.9,
+		"scoresCount": 801,
+		"director": "Дед робким шагом двинулся к ней.",
+		"starring": [
+			"Фрэнк Дарабонт"
+		],
+		"runTime": 106,
+		"genre": "Александр Абдулов",
+		"released": 1917,
+		"isFavorite": true
+	},
+	{
+		"id": 12,
+		"name": "Snatch",
+		"posterImage": "img/snatch.jpg",
+		"previewImage": "img/snatch.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
+		],
+		"rating": 1.4,
+		"scoresCount": 369,
+		"director": "- Дед, а ну, подожди, - сказал я, взяв деда за руку.",
+		"starring": [
+			"Роберт Земекис",
+			"Фрэнк Дарабонт",
+			"Тим Бёртон",
+			"Ингмар Бергман",
+			"Гай Ричи",
+			"Клинт Иствуд",
+			"Чарли Чаплин",
+			"Альфонсо Куарон",
+			"Хаяо Миядзаки",
+			"Билли Уайлдер"
+		],
+		"runTime": 180,
+		"genre": "Пенелопа Крус",
+		"released": 2007,
+		"isFavorite": false
+	},
+	{
+		"id": 13,
 		"name": "Pulp Fiction",
 		"posterImage": "img/pulp-fiction.jpg",
 		"previewImage": "img/pulp-fiction.jpg",
@@ -274,95 +354,51 @@
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 0.6,
-		"scoresCount": 202,
-		"director": "Она несла в руках отвратительные, тревожные желтые цветы.",
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
+		],
+		"rating": 3.3,
+		"scoresCount": 272,
+		"director": "- А кто продавец, - спросил я, пряча руки в карманы. Только сейчас, я почувствовал, какой ледяной ветер.",
 		"starring": [
-			"Пол Томас Андерсон",
-			"Кристофер Нолан",
+			"Сидни Люмет",
+			"Жан-Люк Годар",
+			"Зак Снайдер",
+			"Джон МакТирнан",
+			"Тим Бёртон",
 			"Стэнли Кубрик",
-			"Дэвид Финчер",
-			"Мэл Гибсон",
-			"Ларс фон Триер",
-			"Акира Куросава",
-			"Ридли Скотт",
-			"Дэвид Линч"
+			"Питер Джексон",
+			"Джон Карпентер",
+			"Гай Ричи",
+			"Уэс Андерсон"
 		],
-		"runTime": 169,
-		"genre": "Михаил Галустян",
-		"released": 1918,
-		"isFavorite": false
-	},
-	{
-		"id": 12,
-		"name": "Shutter Island",
-		"posterImage": "img/shutter-island.jpg",
-		"previewImage": "img/shutter-island.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 8.7,
-		"scoresCount": 955,
-		"director": "И эти цветы очень отчетливо выделялись на черном ее весеннем пальто.",
-		"starring": [
-			"Карл Теодор Дрейер"
-		],
-		"runTime": 6,
-		"genre": "БИЛЛ МЮРРЕЙ",
-		"released": 1936,
+		"runTime": 144,
+		"genre": "Дензел Вашингтон",
+		"released": 2016,
 		"isFavorite": true
 	},
 	{
-		"id": 13,
-		"name": "War Of The Worlds",
-		"posterImage": "img/war-of-the-worlds.jpg",
-		"previewImage": "img/war-of-the-worlds.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 4.5,
-		"scoresCount": 787,
-		"director": "- Дед, а ну, подожди, - сказал я, взяв деда за руку.",
-		"starring": [
-			"Роман Полански"
-		],
-		"runTime": 138,
-		"genre": "Дуэйн Джонсон",
-		"released": 1979,
-		"isFavorite": false
-	},
-	{
 		"id": 14,
-		"name": "What We Do In The Shadows",
-		"posterImage": "img/what-we-do-in-the-shadows.jpg",
-		"previewImage": "img/what-we-do-in-the-shadows.jpg",
+		"name": "Moonrise Kingdom",
+		"posterImage": "img/moonrise-kingdom.jpg",
+		"previewImage": "img/moonrise-kingdom.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 4.1,
-		"scoresCount": 696,
-		"director": "Сегодня был праздник, и я уже понял, что дед не мог быть небритым в такой день. На его лице было с десяток порезов, некоторые из них были заклеены кусочками газеты.",
-		"starring": [
-			"Жан-Люк Годар",
-			"Дэвид Финчер",
-			"Клинт Иствуд",
-			"Альфонсо Куарон",
-			"Андрей Тарковский",
-			"Мэл Гибсон",
-			"Квентин Тарантино",
-			"Джим Джармуш"
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
 		],
-		"runTime": 74,
-		"genre": "Сэмюэл Л  Джексон",
-		"released": 2006,
-		"isFavorite": false
+		"rating": 5.1,
+		"scoresCount": 599,
+		"director": "Я то же подошёл к ней.",
+		"starring": [
+			"Майкл Манн"
+		],
+		"runTime": 82,
+		"genre": "Николь Кидман",
+		"released": 1952,
+		"isFavorite": true
 	},
 	{
 		"id": 15,
@@ -373,167 +409,47 @@
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 1.5,
-		"scoresCount": 998,
-		"director": "- Хозяюшка, я не алкаш, да и не пью я вообще, мне бы одну веточку… Сколько она стоит? - тихо спросил дед.",
-		"starring": [
-			"Дэвид Финчер",
-			"Джоэл и Итан Коэны",
-			"Даррен Аронофски",
-			"Серджио Леоне",
-			"Вуди Аллен"
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
 		],
-		"runTime": 11,
-		"genre": "Александр Абдулов",
-		"released": 1964,
+		"rating": 5.1,
+		"scoresCount": 64,
+		"director": "Я начал замерзать, а продавщицы всё не было.",
+		"starring": [
+			"Стэнли Кубрик"
+		],
+		"runTime": 112,
+		"genre": "Самине Насери",
+		"released": 1942,
 		"isFavorite": false
 	},
 	{
 		"id": 16,
-		"name": "Shutter Island",
-		"posterImage": "img/shutter-island.jpg",
-		"previewImage": "img/shutter-island.jpg",
+		"name": "Snatch",
+		"posterImage": "img/snatch.jpg",
+		"previewImage": "img/snatch.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 8.9,
-		"scoresCount": 796,
-		"director": "К корзине подошла продавщица.",
-		"starring": [
-			"Питер Джексон",
-			"Сидни Люмет",
-			"Стивен Спилберг"
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
 		],
-		"runTime": 116,
-		"genre": "Джет Ли",
-		"released": 1968,
-		"isFavorite": true
+		"rating": 7.7,
+		"scoresCount": 259,
+		"director": "- Мы… мы… 45 лет вместе… Она заболела… Я не мог её оставить сегодня без подарка, - тихо сказал дед, спасибо тебе...",
+		"starring": [
+			"Ингмар Бергман",
+			"Люк Бессон",
+			"Джоэл и Итан Коэны"
+		],
+		"runTime": 28,
+		"genre": "Дольф Лундгрен",
+		"released": 1908,
+		"isFavorite": false
 	},
 	{
 		"id": 17,
-		"name": "Pulp Fiction",
-		"posterImage": "img/pulp-fiction.jpg",
-		"previewImage": "img/pulp-fiction.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 2.1,
-		"scoresCount": 391,
-		"director": "Она несла желтые цветы! Нехороший цвет.",
-		"starring": [
-			"Ридли Скотт",
-			"Кшиштоф Кесьлёвский",
-			"Алехандро Гонсалес Иньярриту",
-			"Роман Полански"
-		],
-		"runTime": 165,
-		"genre": "Александр Абдулов",
-		"released": 1918,
-		"isFavorite": true
-	},
-	{
-		"id": 18,
-		"name": "War Of The Worlds",
-		"posterImage": "img/war-of-the-worlds.jpg",
-		"previewImage": "img/war-of-the-worlds.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 6.4,
-		"scoresCount": 612,
-		"director": "- Хозяюшка… милая, а сколько стоит одна веточка мимозы? - дрожащими от холода губами спросил дед.",
-		"starring": [
-			"Джим Джармуш",
-			"Пол Томас Андерсон",
-			"Сидни Люмет",
-			"Гас Ван Сент",
-			"Джеймс Кэмерон",
-			"Дэвид Линч"
-		],
-		"runTime": 158,
-		"genre": "Джордж Клуни",
-		"released": 1939,
-		"isFavorite": false
-	},
-	{
-		"id": 19,
-		"name": "Mindhunter",
-		"posterImage": "img/mindhunter.jpg",
-		"previewImage": "img/mindhunter.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 7.1,
-		"scoresCount": 182,
-		"director": "И эти цветы очень отчетливо выделялись на черном ее весеннем пальто.",
-		"starring": [
-			"Кшиштоф Кесьлёвский",
-			"Ингмар Бергман",
-			"Мэл Гибсон"
-		],
-		"runTime": 50,
-		"genre": "Дженнифер Лопез",
-		"released": 1952,
-		"isFavorite": false
-	},
-	{
-		"id": 20,
-		"name": "The Grand Budapest Hotel Poster",
-		"posterImage": "img/the-grand-budapest-hotel-poster.jpg",
-		"previewImage": "img/the-grand-budapest-hotel-poster.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 8.8,
-		"scoresCount": 571,
-		"director": "Она несла желтые цветы! Нехороший цвет.",
-		"starring": [
-			"Фрэнсис Форд Коппола",
-			"Ридли Скотт",
-			"Акира Куросава",
-			"Дэвид Кроненберг",
-			"Джоэл и Итан Коэны",
-			"Леонид Гайдай"
-		],
-		"runTime": 91,
-		"genre": "Жан Рено",
-		"released": 1985,
-		"isFavorite": false
-	},
-	{
-		"id": 21,
-		"name": "Seven Years In Tibet",
-		"posterImage": "img/seven-years-in-tibet.jpg",
-		"previewImage": "img/seven-years-in-tibet.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 2.6,
-		"scoresCount": 285,
-		"director": "- Отец, послушай меня внимательно. У меня есть деньги, для меня не сыграют роль эти 500 рублей, а тебе с поломанной веткой идти к жене негоже, сегодня же восьмое марта, бери цветы, вино и торт и иди к ней, поздравляй.",
-		"starring": [
-			"Джоэл и Итан Коэны"
-		],
-		"runTime": 136,
-		"genre": "Николас Кейдж",
-		"released": 2010,
-		"isFavorite": true
-	},
-	{
-		"id": 22,
 		"name": "Bohemian Rhapsody",
 		"posterImage": "img/bohemian-rhapsody.jpg",
 		"previewImage": "img/bohemian-rhapsody.jpg",
@@ -541,43 +457,59 @@
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 3.7,
-		"scoresCount": 803,
-		"director": "По дороге я потянул деда в гастроном.",
-		"starring": [
-			"Квентин Тарантино",
-			"Пол Томас Андерсон",
-			"Фрэнсис Форд Коппола"
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
 		],
-		"runTime": 118,
-		"genre": "Дэниэл Рэдклифф",
-		"released": 1926,
+		"rating": 1.8,
+		"scoresCount": 439,
+		"director": "Дед робким шагом двинулся к ней.",
+		"starring": [
+			"Майкл Манн",
+			"Леонид Гайдай",
+			"Даррен Аронофски",
+			"Федерико Феллини",
+			"Пол Верховен",
+			"Хаяо Миядзаки",
+			"Зак Снайдер",
+			"Пол Томас Андерсон"
+		],
+		"runTime": 109,
+		"genre": "Мишель Родригес",
+		"released": 1957,
 		"isFavorite": true
 	},
 	{
-		"id": 23,
-		"name": "Macbeth",
-		"posterImage": "img/macbeth.jpg",
-		"previewImage": "img/macbeth.jpg",
+		"id": 18,
+		"name": "No Country For Old Men",
+		"posterImage": "img/no-country-for-old-men.jpg",
+		"previewImage": "img/no-country-for-old-men.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 9.9,
-		"scoresCount": 126,
-		"director": "Слёзы, одна за другой, покатились по морщинистым щекам деда. Он мотал головой и плакал, просто молча плакал…",
-		"starring": [
-			"Фрэнк Дарабонт"
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
 		],
-		"runTime": 34,
-		"genre": "Гэри Олдмен",
-		"released": 1941,
-		"isFavorite": false
+		"rating": 7.5,
+		"scoresCount": 947,
+		"director": "Я кинул под ноги продавщице купюру, вытащил цветы и протянул их деду.",
+		"starring": [
+			"Джеймс Кэмерон",
+			"Роман Полански",
+			"Карл Теодор Дрейер",
+			"Стэнли Кубрик",
+			"Гай Ричи",
+			"Люк Бессон",
+			"Фрэнк Дарабонт",
+			"Дэвид Кроненберг"
+		],
+		"runTime": 109,
+		"genre": "Харрисон Форд",
+		"released": 2012,
+		"isFavorite": true
 	},
 	{
-		"id": 24,
+		"id": 19,
 		"name": "Revenant",
 		"posterImage": "img/revenant.jpg",
 		"previewImage": "img/revenant.jpg",
@@ -585,68 +517,189 @@
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 7.6,
-		"scoresCount": 293,
-		"director": "Я стоял позади него и чуть с боку. Я увидел, что у деда в глазах стояли слёзы…",
-		"starring": [
-			"Дэвид Линч",
-			"Дени Вильнёв",
-			"Хаяо Миядзаки",
-			"Серджио Леоне"
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
 		],
-		"runTime": 130,
+		"rating": 2,
+		"scoresCount": 370,
+		"director": "- Нет.",
+		"starring": [
+			"Джон МакТирнан",
+			"Леонид Гайдай",
+			"Дени Вильнёв"
+		],
+		"runTime": 125,
+		"genre": "Самине Насери",
+		"released": 2020,
+		"isFavorite": true
+	},
+	{
+		"id": 20,
+		"name": "No Country For Old Men",
+		"posterImage": "img/no-country-for-old-men.jpg",
+		"previewImage": "img/no-country-for-old-men.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
+		],
+		"rating": 1.4,
+		"scoresCount": 412,
+		"director": "Я нёс цветы, дед свою поломанную ветку, мы шли молча.",
+		"starring": [
+			"Пол Томас Андерсон",
+			"Клинт Иствуд",
+			"Джон Карпентер",
+			"Мэл Гибсон",
+			"Гас Ван Сент",
+			"Зак Снайдер",
+			"Карл Теодор Дрейер"
+		],
+		"runTime": 140,
 		"genre": "Мэтт Дэймон",
-		"released": 1964,
+		"released": 1977,
+		"isFavorite": false
+	},
+	{
+		"id": 21,
+		"name": "The Grand Budapest Hotel Poster",
+		"posterImage": "img/the-grand-budapest-hotel-poster.jpg",
+		"previewImage": "img/the-grand-budapest-hotel-poster.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
+		],
+		"rating": 7.4,
+		"scoresCount": 907,
+		"director": "Слёзы, одна за другой, покатились по морщинистым щекам деда. Он мотал головой и плакал, просто молча плакал…",
+		"starring": [
+			"Ларс фон Триер",
+			"Мэл Гибсон",
+			"Пол Томас Андерсон",
+			"Дэвид Финчер",
+			"Вуди Аллен"
+		],
+		"runTime": 40,
+		"genre": "ЧЕВИ ЧЕЙЗ",
+		"released": 1965,
+		"isFavorite": true
+	},
+	{
+		"id": 22,
+		"name": "Midnight Special",
+		"posterImage": "img/midnight-special.jpg",
+		"previewImage": "img/midnight-special.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
+		],
+		"rating": 9.2,
+		"scoresCount": 449,
+		"director": "- Одна? Да, буду с тобой возиться, алкашня... Давай, вали отсюдава, - рыкнула продавщица.",
+		"starring": [
+			"Хаяо Миядзаки",
+			"Джон МакТирнан",
+			"Ридли Скотт",
+			"Дэвид Кроненберг",
+			"Дэвид Финчер",
+			"Квентин Тарантино"
+		],
+		"runTime": 149,
+		"genre": "Уилл Смит",
+		"released": 2016,
+		"isFavorite": true
+	},
+	{
+		"id": 23,
+		"name": "Snatch",
+		"posterImage": "img/snatch.jpg",
+		"previewImage": "img/snatch.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
+		],
+		"rating": 2.1,
+		"scoresCount": 963,
+		"director": "- Хорошо, отец, пошли вместе, - сказал я и взял деда под руку.",
+		"starring": [
+			"Леонид Гайдай"
+		],
+		"runTime": 82,
+		"genre": "Эшли Грин",
+		"released": 1918,
+		"isFavorite": false
+	},
+	{
+		"id": 24,
+		"name": "Macbeth",
+		"posterImage": "img/macbeth.jpg",
+		"previewImage": "img/macbeth.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
+		],
+		"rating": 4.1,
+		"scoresCount": 741,
+		"director": "Она нагнулась к корзине, долго в ней ковырялась…",
+		"starring": [
+			"Фрэнк Дарабонт",
+			"Стивен Спилберг",
+			"Роберт Земекис",
+			"Мартин Скорсезе"
+		],
+		"runTime": 23,
+		"genre": "Сандра Баллок",
+		"released": 1979,
 		"isFavorite": true
 	},
 	{
 		"id": 25,
-		"name": "Orlando",
-		"posterImage": "img/orlando.jpg",
-		"previewImage": "img/orlando.jpg",
+		"name": "What We Do In The Shadows",
+		"posterImage": "img/what-we-do-in-the-shadows.jpg",
+		"previewImage": "img/what-we-do-in-the-shadows.jpg",
 		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 7.6,
-		"scoresCount": 661,
-		"director": "Черт их знает, как их зовут, но они первые почему-то появляются в Москве.",
-		"starring": [
-			"Люк Бессон",
-			"Квентин Тарантино",
-			"Федерико Феллини",
-			"Клинт Иствуд"
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
 		],
-		"runTime": 152,
-		"genre": "Роуэн Эткинсон",
-		"released": 2014,
-		"isFavorite": true
-	},
-	{
-		"id": 26,
-		"name": "Bohemian Rhapsody",
-		"posterImage": "img/bohemian-rhapsody.jpg",
-		"previewImage": "img/bohemian-rhapsody.jpg",
-		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
-		"backgroundColors": "#ffffff",
-		"videoLink": "bg-the-grand-budapest-hotel.jpg",
-		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 8,
-		"scoresCount": 206,
-		"director": "Я то же подошёл к ней.",
+		"rating": 0.6,
+		"scoresCount": 758,
+		"director": "Я быстро перешел на ее сторону и, подходя к ней, ответил:",
 		"starring": [
-			"Пол Верховен"
+			"Ларс фон Триер",
+			"Акира Куросава",
+			"Мэл Гибсон",
+			"Джон МакТирнан",
+			"Дэвид Линч",
+			"Мартин Скорсезе",
+			"Фрэнк Дарабонт",
+			"Чарли Чаплин",
+			"Алехандро Гонсалес Иньярриту",
+			"Джоэл и Итан Коэны"
 		],
-		"runTime": 50,
-		"genre": "ПЬЕР РИШАР",
-		"released": 1937,
+		"runTime": 67,
+		"genre": "Михаил Галустян",
+		"released": 1942,
 		"isFavorite": false
 	},
 	{
-		"id": 27,
+		"id": 26,
 		"name": "Mindhunter",
 		"posterImage": "img/mindhunter.jpg",
 		"previewImage": "img/mindhunter.jpg",
@@ -654,18 +707,52 @@
 		"backgroundColors": "#ffffff",
 		"videoLink": "bg-the-grand-budapest-hotel.jpg",
 		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
-		"description": [],
-		"rating": 5.7,
-		"scoresCount": 799,
-		"director": "Я стал в сторонке, закурил и даже начал чуть улыбаться, когда представил, как обрадуются мои женщины, дочка и жена.",
-		"starring": [
-			"Ларс фон Триер",
-			"Андрей Тарковский",
-			"Питер Джексон"
+		"description": [
+			"https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4"
 		],
-		"runTime": 109,
-		"genre": "Жан-Клод Ван Дамм",
-		"released": 1924,
-		"isFavorite": false
+		"rating": 2.6,
+		"scoresCount": 418,
+		"director": "- Отец, послушай меня внимательно. У меня есть деньги, для меня не сыграют роль эти 500 рублей, а тебе с поломанной веткой идти к жене негоже, сегодня же восьмое марта, бери цветы, вино и торт и иди к ней, поздравляй.",
+		"starring": [
+			"Гай Ричи",
+			"Клинт Иствуд",
+			"Питер Джексон",
+			"Дэвид Линч"
+		],
+		"runTime": 78,
+		"genre": "Том Хэнкс",
+		"released": 2014,
+		"isFavorite": true
+	},
+	{
+		"id": 27,
+		"name": "Revenant",
+		"posterImage": "img/revenant.jpg",
+		"previewImage": "img/revenant.jpg",
+		"backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+		"backgroundColors": "#ffffff",
+		"videoLink": "bg-the-grand-budapest-hotel.jpg",
+		"previewVideoLink": "bg-the-grand-budapest-hotel.jpg",
+		"description": [
+			"https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm"
+		],
+		"rating": 8.4,
+		"scoresCount": 901,
+		"director": "Я продолжал рассматривать деда. По многим мелочам я догадался, что дед не алкаш, он просто старый измученный бедностью и старостью человек. И ещё я просто явно почувствовал, что дед стесняется теперешнего своего положения за чертой бедности.",
+		"starring": [
+			"Джон МакТирнан",
+			"Тим Бёртон",
+			"Хаяо Миядзаки",
+			"Фрэнсис Форд Коппола",
+			"Люк Бессон",
+			"Стэнли Кубрик",
+			"Андрей Тарковский",
+			"Кшиштоф Кесьлёвский",
+			"Квентин Тарантино"
+		],
+		"runTime": 113,
+		"genre": "Джонни Депп",
+		"released": 1915,
+		"isFavorite": true
 	}
 ]

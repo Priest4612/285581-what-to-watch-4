@@ -21,6 +21,9 @@ it(`Checks that when you hover over the card with the movie, the movie informati
         onClickCard={onClickCard}
         onMouseEnterCard={onMouseEnterCard}
         onMouseLeaveCard={onMouseLeaveCard}
+        activeMovieId={mock[3].id}
+        isMuted={true}
+        isPlaying={true}
       />
   );
 

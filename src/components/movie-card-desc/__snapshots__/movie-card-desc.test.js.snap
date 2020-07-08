@@ -7,7 +7,7 @@ exports[`Render MovieCardDesc 1`] = `
   <h2
     className="movie-card__title"
   >
-    The Grand Budapest Hotel Poster
+    Orlando
   </h2>
   <p
     className="movie-card__meta"
@@ -15,12 +15,12 @@ exports[`Render MovieCardDesc 1`] = `
     <span
       className="movie-card__genre"
     >
-      Вигго Мортенсен
+      Шонн Уильям Скотт
     </span>
     <span
       className="movie-card__year"
     >
-      1984
+      1975
     </span>
   </p>
   <div

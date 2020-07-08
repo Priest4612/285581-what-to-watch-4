@@ -13,29 +13,11 @@ class App extends PureComponent {
     super(props);
 
     this.state = {
-      focusFilmCardId: 2,
       activeMovieCardId: null,
       viewMode: ViewMode.MAIN,
     };
 
-    this._timer = null;
-
     this._handleClickCard = this._handleClickCard.bind(this);
-    this._handleMouseEnterCard = this._handleMouseEnterCard.bind(this);
-    this._handleMouseLeaveCard = this._handleMouseLeaveCard.bind(this);
-  }
-
-  _handleMouseEnterCard(id) {
-    this._timer = setTimeout(() => {
-      this.setState(() => ({
-        focusFilmCardId: id,
-      }));
-    }, 1000);
-  }
-
-  _handleMouseLeaveCard() {
-    clearTimeout(this._timer);
-    this._timer = null;
   }
 
   _handleClickCard(id) {
@@ -52,12 +34,10 @@ class App extends PureComponent {
       case ViewMode.MAIN:
         return (
           <Main
-            moveDetails={movies[this.state.focusFilmCardId]}
+            moveDetails={movies[0]}
             movies={movies}
             genres={genres}
             onClickCard={this._handleClickCard}
-            onMouseEnterCard={this._handleMouseEnterCard}
-            onMouseLeaveCard={this._handleMouseLeaveCard}
           />
         );
       case ViewMode.DETAILS:
@@ -66,8 +46,6 @@ class App extends PureComponent {
             moveDetails={movies[this.state.activeMovieCardId]}
             movies={movies}
             onClickCard={this._handleClickCard}
-            onMouseEnterCard={() => {}}
-            onMouseLeaveCard={() => {}}
           />
         );
     }

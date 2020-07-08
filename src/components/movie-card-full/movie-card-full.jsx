@@ -12,7 +12,7 @@ import MovieCardFullInfo from '../movie-card-full-info/movie-card-full-info.jsx'
 
 
 const MovieCardFull = (props) => {
-  const {movies, moveDetails, onClickCard, onMouseEnterCard, onMouseLeaveCard} = props;
+  const {movies, moveDetails, onClickCard} = props;
   const {
     backgroundImage, name, posterImage, genre,
     released, description, rating, scoresCount,
@@ -56,8 +56,6 @@ const MovieCardFull = (props) => {
           <CatalogMovies
             movies={filterArrayObjects(movies, `genre`, genre).slice(0, 4)}
             onClickCard={onClickCard}
-            onMouseEnterCard={onMouseEnterCard}
-            onMouseLeaveCard={onMouseLeaveCard}
           />
         </section>
 
@@ -86,8 +84,6 @@ MovieCardFull.propTypes = {
   }),
   movies: PropTypes.array.isRequired,
   onClickCard: PropTypes.func.isRequired,
-  onMouseEnterCard: PropTypes.func.isRequired,
-  onMouseLeaveCard: PropTypes.func.isRequired,
 };
 
 export default MovieCardFull;
