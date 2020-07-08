@@ -69,9 +69,9 @@ Array [
           className="movie-card__poster"
         >
           <img
-            alt="The Grand Budapest Hotel Poster"
+            alt="Orlando"
             height="327"
-            src="img/the-grand-budapest-hotel-poster.jpg"
+            src="img/orlando.jpg"
             width="218"
           />
         </div>
@@ -81,7 +81,7 @@ Array [
           <h2
             className="movie-card__title"
           >
-            The Grand Budapest Hotel Poster
+            Orlando
           </h2>
           <p
             className="movie-card__meta"
@@ -89,12 +89,12 @@ Array [
             <span
               className="movie-card__genre"
             >
-              Вигго Мортенсен
+              Шонн Уильям Скотт
             </span>
             <span
               className="movie-card__year"
             >
-              1984
+              1975
             </span>
           </p>
           <div
@@ -170,7 +170,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Комедия
+            Криминал
           </a>
         </li>
         <li
@@ -180,7 +180,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Музыка
+            Исторический
           </a>
         </li>
         <li
@@ -190,7 +190,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Научный
+            Триллер
           </a>
         </li>
         <li
@@ -200,7 +200,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Мюзикл
+            Короткометражный
           </a>
         </li>
         <li
@@ -210,17 +210,7 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Реалити-шоу
-          </a>
-        </li>
-        <li
-          className="catalog__genres-item false"
-        >
-          <a
-            className="catalog__genres-link"
-            href="#"
-          >
-            Кинокомикс
+            Мистика
           </a>
         </li>
         <li
@@ -240,7 +230,17 @@ Array [
             className="catalog__genres-link"
             href="#"
           >
-            Ток-шоу
+            Ужасы
+          </a>
+        </li>
+        <li
+          className="catalog__genres-item false"
+        >
+          <a
+            className="catalog__genres-link"
+            href="#"
+          >
+            Спорт
           </a>
         </li>
       </ul>
@@ -257,9 +257,9 @@ Array [
             className="small-movie-card__image"
           >
             <img
-              alt="The Grand Budapest Hotel Poster"
+              alt="Orlando"
               height="175"
-              src="img/the-grand-budapest-hotel-poster.jpg"
+              src="img/orlando.jpg"
               width="280"
             />
           </div>
@@ -270,7 +270,7 @@ Array [
               className="small-movie-card__link"
               href="movie-page.html"
             >
-              The Grand Budapest Hotel Poster
+              Orlando
             </a>
           </h3>
         </article>
@@ -284,9 +284,9 @@ Array [
             className="small-movie-card__image"
           >
             <img
-              alt="Seven Years In Tibet"
+              alt="Macbeth"
               height="175"
-              src="img/seven-years-in-tibet.jpg"
+              src="img/macbeth.jpg"
               width="280"
             />
           </div>
@@ -297,7 +297,7 @@ Array [
               className="small-movie-card__link"
               href="movie-page.html"
             >
-              Seven Years In Tibet
+              Macbeth
             </a>
           </h3>
         </article>
@@ -311,9 +311,9 @@ Array [
             className="small-movie-card__image"
           >
             <img
-              alt="Fantastic Beasts The Crimes Of Grindelwald"
+              alt="Bohemian Rhapsody"
               height="175"
-              src="img/fantastic-beasts-the-crimes-of-grindelwald.jpg"
+              src="img/bohemian-rhapsody.jpg"
               width="280"
             />
           </div>
@@ -324,7 +324,7 @@ Array [
               className="small-movie-card__link"
               href="movie-page.html"
             >
-              Fantastic Beasts The Crimes Of Grindelwald
+              Bohemian Rhapsody
             </a>
           </h3>
         </article>
@@ -338,9 +338,9 @@ Array [
             className="small-movie-card__image"
           >
             <img
-              alt="What We Do In The Shadows"
+              alt="Revenant"
               height="175"
-              src="img/what-we-do-in-the-shadows.jpg"
+              src="img/revenant.jpg"
               width="280"
             />
           </div>
@@ -351,7 +351,7 @@ Array [
               className="small-movie-card__link"
               href="movie-page.html"
             >
-              What We Do In The Shadows
+              Revenant
             </a>
           </h3>
         </article>

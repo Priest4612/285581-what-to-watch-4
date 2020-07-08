@@ -11,9 +11,9 @@ exports[`Render MovieCardInfo 1`] = `
       className="movie-card__poster"
     >
       <img
-        alt="Seven Years In Tibet"
+        alt="Macbeth"
         height="327"
-        src="img/seven-years-in-tibet.jpg"
+        src="img/macbeth.jpg"
         width="218"
       />
     </div>
@@ -23,7 +23,7 @@ exports[`Render MovieCardInfo 1`] = `
       <h2
         className="movie-card__title"
       >
-        Seven Years In Tibet
+        Macbeth
       </h2>
       <p
         className="movie-card__meta"
@@ -31,12 +31,12 @@ exports[`Render MovieCardInfo 1`] = `
         <span
           className="movie-card__genre"
         >
-          Федор Добронравов
+          Мишель Родригес
         </span>
         <span
           className="movie-card__year"
         >
-          1923
+          1962
         </span>
       </p>
       <div

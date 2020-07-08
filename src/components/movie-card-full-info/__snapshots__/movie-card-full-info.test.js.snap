@@ -11,9 +11,9 @@ exports[`Render MovieCardFullInfo 1`] = `
       className="movie-card__poster movie-card__poster--big"
     >
       <img
-        alt="Seven Years In Tibet"
+        alt="Macbeth"
         height="327"
-        src="img/seven-years-in-tibet.jpg"
+        src="img/macbeth.jpg"
         width="218"
       />
     </div>
@@ -64,7 +64,7 @@ exports[`Render MovieCardFullInfo 1`] = `
         <div
           className="movie-rating__score"
         >
-          2.4
+          6.6
         </div>
         <p
           className="movie-rating__meta"
@@ -72,30 +72,33 @@ exports[`Render MovieCardFullInfo 1`] = `
           <span
             className="movie-rating__level"
           >
-            Bad
+            Good
           </span>
           <span
             className="movie-rating__count"
           >
-            823 ratings
+            901 ratings
           </span>
         </p>
       </div>
       <div
         className="movie-card__text"
       >
+        <p>
+          https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Big_Buck_Bunny_Trailer_400p.ogv/Big_Buck_Bunny_Trailer_400p.ogv.360p.webm
+        </p>
         <p
           className="movie-card__director"
         >
           <strong>
-            Director: Дед вытащил дрожащую руку из кармана, на его ладони лежало, три бумажки по рублю.
+            Director: Я нёс цветы, дед свою поломанную ветку, мы шли молча.
           </strong>
         </p>
         <p
           className="movie-card__starring"
         >
           <strong>
-            Starring: Альфонсо Куарон, Квентин Тарантино, Федерико Феллини, Гас Ван Сент, Джон МакТирнан
+            Starring: Дэвид Линч, Альфред Хичкок, Сидни Люмет, Квентин Тарантино, Майкл Манн, Кристофер Нолан, Леонид Гайдай, Билли Уайлдер
           </strong>
         </p>
       </div>

@@ -21,7 +21,7 @@ exports[`Render CatalogGenres 1`] = `
       className="catalog__genres-link"
       href="#"
     >
-      Комедия
+      Криминал
     </a>
   </li>
   <li
@@ -31,7 +31,7 @@ exports[`Render CatalogGenres 1`] = `
       className="catalog__genres-link"
       href="#"
     >
-      Музыка
+      Исторический
     </a>
   </li>
   <li
@@ -41,7 +41,7 @@ exports[`Render CatalogGenres 1`] = `
       className="catalog__genres-link"
       href="#"
     >
-      Научный
+      Триллер
     </a>
   </li>
   <li
@@ -51,7 +51,7 @@ exports[`Render CatalogGenres 1`] = `
       className="catalog__genres-link"
       href="#"
     >
-      Мюзикл
+      Короткометражный
     </a>
   </li>
   <li
@@ -61,17 +61,7 @@ exports[`Render CatalogGenres 1`] = `
       className="catalog__genres-link"
       href="#"
     >
-      Реалити-шоу
-    </a>
-  </li>
-  <li
-    className="catalog__genres-item false"
-  >
-    <a
-      className="catalog__genres-link"
-      href="#"
-    >
-      Кинокомикс
+      Мистика
     </a>
   </li>
   <li
@@ -91,7 +81,17 @@ exports[`Render CatalogGenres 1`] = `
       className="catalog__genres-link"
       href="#"
     >
-      Ток-шоу
+      Ужасы
+    </a>
+  </li>
+  <li
+    className="catalog__genres-item false"
+  >
+    <a
+      className="catalog__genres-link"
+      href="#"
+    >
+      Спорт
     </a>
   </li>
 </ul>
