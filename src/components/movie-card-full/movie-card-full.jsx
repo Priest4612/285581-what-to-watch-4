@@ -16,7 +16,7 @@ const MovieCardFull = (props) => {
   const {
     backgroundImage, name, posterImage, genre,
     released, description, rating, scoresCount,
-    director, starring,
+    director, starring, runTime
   } = moveDetails;
 
   return (
@@ -47,6 +47,9 @@ const MovieCardFull = (props) => {
           scoresCount={scoresCount}
           director={director}
           starring={starring}
+          runTime={runTime}
+          genre={genre}
+          released={released}
         />
       </section>
 
@@ -79,6 +82,7 @@ MovieCardFull.propTypes = {
     scoresCount: PropTypes.number.isRequired,
     director: PropTypes.string.isRequired,
     starring: PropTypes.array.isRequired,
+    runTime: PropTypes.number.isRequired,
     genre: PropTypes.string.isRequired,
     released: PropTypes.number.isRequired,
   }),

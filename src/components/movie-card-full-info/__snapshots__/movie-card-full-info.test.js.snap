@@ -28,6 +28,7 @@ exports[`Render MovieCardFullInfo 1`] = `
         >
           <li
             className="movie-nav__item movie-nav__item--active"
+            onClick={[Function]}
           >
             <a
               className="movie-nav__link"
@@ -38,6 +39,7 @@ exports[`Render MovieCardFullInfo 1`] = `
           </li>
           <li
             className="movie-nav__item false"
+            onClick={[Function]}
           >
             <a
               className="movie-nav__link"
@@ -48,6 +50,7 @@ exports[`Render MovieCardFullInfo 1`] = `
           </li>
           <li
             className="movie-nav__item false"
+            onClick={[Function]}
           >
             <a
               className="movie-nav__link"
