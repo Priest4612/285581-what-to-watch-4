@@ -19,7 +19,7 @@ exports[`Render MovieCardFullNav 1`] = `
       </a>
     </li>
     <li
-      className="movie-nav__item false"
+      className="movie-nav__item movie-nav__item--active"
       onClick={[Function]}
     >
       <a
