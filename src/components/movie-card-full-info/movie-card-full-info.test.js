@@ -10,7 +10,7 @@ import filmsMock from '../../mocks/test-films-mock.json';
 it(`Render MovieCardFullInfo`, () => {
   const {
     name, posterImage, description, rating, scoresCount,
-    director, starring,
+    director, starring, runTime, genre, released
   } = filmsMock[1];
   const tree = renderer
     .create(<MovieCardFullInfo
@@ -21,6 +21,9 @@ it(`Render MovieCardFullInfo`, () => {
       scoresCount={scoresCount}
       director={director}
       starring={starring}
+      runTime={runTime}
+      genre={genre}
+      released={released}
     />)
     .toJSON();
 
