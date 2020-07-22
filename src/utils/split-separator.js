@@ -11,8 +11,4 @@ const splitSeparator = (stringToSplit) => {
   return arrayOfStringsToUpper.join(` `);
 };
 
-const filterArrayObjects = (array, key, argument) => {
-  return array.filter((item) => item[key] === argument);
-};
-
-export {splitSeparator, filterArrayObjects};
+export {splitSeparator};
