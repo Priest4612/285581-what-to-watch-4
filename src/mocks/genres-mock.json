@@ -1,47 +1,47 @@
 [
 	{
 		"id": 0,
-		"name": "Все жанры",
+		"name": "все жанры",
 		"active": true
 	},
 	{
 		"id": 1,
-		"name": "Криминал",
+		"name": "криминал",
 		"active": false
 	},
 	{
 		"id": 2,
-		"name": "Исторический",
+		"name": "исторический",
 		"active": false
 	},
 	{
 		"id": 3,
-		"name": "Триллер",
+		"name": "триллер",
 		"active": false
 	},
 	{
 		"id": 4,
-		"name": "Короткометражный",
+		"name": "короткометражный",
 		"active": false
 	},
 	{
 		"id": 5,
-		"name": "Мистика",
+		"name": "мистика",
 		"active": false
 	},
 	{
 		"id": 6,
-		"name": "Вестерн",
+		"name": "вестерн",
 		"active": false
 	},
 	{
 		"id": 7,
-		"name": "Ужасы",
+		"name": "ужасы",
 		"active": false
 	},
 	{
 		"id": 8,
-		"name": "Спорт",
+		"name": "спорт",
 		"active": false
 	}
 ]
