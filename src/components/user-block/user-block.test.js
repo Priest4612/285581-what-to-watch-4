@@ -1,14 +1,14 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 
-import App from './app.jsx';
-import genresMock from '../../mocks/test-genres-mock.json';
+import UserBlock from './user-block.jsx';
 
+const avatarImg = `img/avatar.jpg`;
 
-it(`Render App`, () => {
+it(`Render UserBlock`, () => {
   const tree = renderer
-    .create(<App
-      genres={genresMock}
+    .create(<UserBlock
+      avatarImg={avatarImg}
     />)
     .toJSON();
 

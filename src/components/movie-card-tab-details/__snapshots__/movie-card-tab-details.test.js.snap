@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render MovieCardTabDetail 1`] = `
+<div
+  className="movie-card__text movie-card__row"
+>
+  <div
+    className="movie-card__text-col"
+  >
+    <p
+      className="movie-card__details-item"
+    >
+      <strong
+        className="movie-card__details-name"
+      >
+        Director
+      </strong>
+      <span
+        className="movie-card__details-value"
+      >
+        Я нёс цветы, дед свою поломанную ветку, мы шли молча.
+      </span>
+    </p>
+    <p
+      className="movie-card__details-item"
+    >
+      <strong
+        className="movie-card__details-name"
+      >
+        Starring
+      </strong>
+      <span
+        className="movie-card__details-value"
+      >
+        Дэвид Линч
+         
+        <br />
+        Альфред Хичкок
+         
+        <br />
+        Сидни Люмет
+         
+        <br />
+        Квентин Тарантино
+         
+        <br />
+        Майкл Манн
+         
+        <br />
+        Кристофер Нолан
+         
+        <br />
+        Леонид Гайдай
+         
+        <br />
+        Билли Уайлдер
+         
+        <br />
+      </span>
+    </p>
+  </div>
+  <div
+    className="movie-card__text-col"
+  >
+    <p
+      className="movie-card__details-item"
+    >
+      <strong
+        className="movie-card__details-name"
+      >
+        Run Time
+      </strong>
+      <span
+        className="movie-card__details-value"
+      >
+        0h 20m
+      </span>
+    </p>
+    <p
+      className="movie-card__details-item"
+    >
+      <strong
+        className="movie-card__details-name"
+      >
+        Genre
+      </strong>
+      <span
+        className="movie-card__details-value"
+      >
+        Мишель Родригес
+      </span>
+    </p>
+    <p
+      className="movie-card__details-item"
+    >
+      <strong
+        className="movie-card__details-name"
+      >
+        Released
+      </strong>
+      <span
+        className="movie-card__details-value"
+      >
+        1962
+      </span>
+    </p>
+  </div>
+</div>
+`;

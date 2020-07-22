@@ -1,21 +1,37 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 
+import movies from '../../mocks/test-films-mock.json';
+
 import MovieCardDesc from './movie-card-desc.jsx';
 
-import filmsMock from '../../mocks/test-films-mock.json';
 
+it(`Render MovieCardDesc -- full`, () => {
+  const {name, genre, released} = movies[1];
 
-it(`Render MovieCardDesc`, () => {
-  const {name, genre, released} = filmsMock[0];
   const tree = renderer
     .create(<MovieCardDesc
       name={name}
       genre={genre}
       released={released}
-    >
-      <a>la-la-la</a>
-    </MovieCardDesc>)
+      isFull={true}
+    />)
+    .toJSON();
+
+  expect(tree).toMatchSnapshot();
+});
+
+
+it(`Render MovieCardDesc -- main`, () => {
+  const {name, genre, released} = movies[2];
+
+  const tree = renderer
+    .create(<MovieCardDesc
+      name={name}
+      genre={genre}
+      released={released}
+      isFull={false}
+    />)
     .toJSON();
 
   expect(tree).toMatchSnapshot();

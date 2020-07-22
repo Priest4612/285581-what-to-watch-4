@@ -1,47 +1,104 @@
-import React from 'react';
+import React, {PureComponent} from 'react';
 import PropTypes from 'prop-types';
 
-import CatalogMovies from '../catalog-movies/catalog-movies.jsx';
+import {ViewMode} from '../../constants';
+
 import MovieCard from '../movie-card/movie-card.jsx';
-import PageFooter from '../page-footer/page-footer.jsx';
-import CatalogGenres from '../catalog-genres/catalog-genres.jsx';
-import CatalogButtonShowMore from '../catalog-button-show-more/catalog-button-show-more.jsx';
+import PageContent from '../page-content/page-content.jsx';
 
-const Main = (props) => {
-  const {movies, moveDetails, genres, onClickCard} = props;
 
-  return (
-    <React.Fragment>
-      <MovieCard moveDetails={moveDetails} />
-      <div className="page-content">
-        <section className="catalog">
-          <h2 className="catalog__title visually-hidden">Catalog</h2>
+class Main extends PureComponent {
+  constructor(props) {
+    super(props);
 
-          <CatalogGenres
-            genres={genres}
-          />
+    this.state = {
+      activeMovieId: 0,
+      viewMode: ViewMode.MAIN,
 
-          <CatalogMovies
-            movies={movies}
-            onClickCard={onClickCard}
-          />
+      activeGenre: this.props.genres[0].name,
 
-          <CatalogButtonShowMore />
-        </section>
+      activeCardId: null,
+      isPlaying: false,
+      isMuted: true,
+    };
 
-        <PageFooter />
+    this._handleClickCard = this._handleClickCard.bind(this);
+    this._handleMouseEnterCard = this._handleMouseEnterCard.bind(this);
+    this._handleMouseLeaveCard = this._handleMouseLeaveCard.bind(this);
+    this._handleClickGenreItem = this._handleClickGenreItem.bind(this);
+  }
 
-      </div>
-    </React.Fragment >
-  );
-};
+  _handleClickCard(id) {
+    this.setState(() => ({
+      activeMovieId: id,
+      viewMode: ViewMode.FULL,
+    }));
+  }
+
+  _handleClickGenreItem(genre) {
+    this.setState(() => ({
+      activeGenre: this.props.genres.find((item) => item.name === genre).name
+    }));
+  }
+
+  _handleMouseEnterCard(id) {
+    this._timer = setTimeout(() => {
+      this.setState(() => ({
+        activeCardId: id,
+        isPlaying: true,
+      }));
+    }, 1000);
+  }
+
+  _handleMouseLeaveCard() {
+    clearTimeout(this._timer);
+    this._timer = null;
+    this.setState(() => ({
+      activeCardId: null,
+      isPlaying: false,
+    }));
+  }
+
+  render() {
+    const avatarImg = `img/avatar.jpg`;
+    const {
+      viewMode, activeMovieId,
+      activeCardId, isMuted, isPlaying,
+      activeGenre
+    } = this.state;
+    const {genres, movies} = this.props;
+    const activeMovie = movies.find((movie) => movie.id === activeMovieId);
+
+    return (
+      <React.Fragment>
+        <MovieCard
+          viewMode={viewMode}
+          avatarImg={avatarImg}
+          movieDetails={activeMovie}
+        />
+        <PageContent
+          onClickCard={this._handleClickCard}
+          onMouseEnterCard={this._handleMouseEnterCard}
+          onMouseLeaveCard={this._handleMouseLeaveCard}
+          onClickGenreItem={this._handleClickGenreItem}
+          movieDetails={activeMovie}
+          viewMode={viewMode}
+          activeGenre={activeGenre}
+          genres={genres}
+          movies={movies}
+          isMuted={isMuted}
+          isPlaying={isPlaying}
+          activeCardId={activeCardId}
+        />
+      </React.Fragment>
+    );
+  }
+}
 
 
 Main.propTypes = {
-  moveDetails: PropTypes.object.isRequired,
-  movies: PropTypes.array.isRequired,
   genres: PropTypes.array.isRequired,
-  onClickCard: PropTypes.func.isRequired,
+  movies: PropTypes.array.isRequired,
 };
 
 export default Main;

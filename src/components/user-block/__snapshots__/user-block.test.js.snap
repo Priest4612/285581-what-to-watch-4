@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render UserBlock 1`] = `
+<div
+  className="user-block"
+>
+  <a
+    className="user-block__link"
+    href="sign-in.html"
+  >
+    Sign in
+  </a>
+</div>
+`;

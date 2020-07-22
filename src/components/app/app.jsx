@@ -1,11 +1,12 @@
 import React, {PureComponent} from 'react';
 import PropTypes from 'prop-types';
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
+import {connect} from "react-redux";
 
-import {ViewMode} from '../../constant.js';
-
-import Main from '../main/main.jsx';
-import MovieCardFull from '../movie-card-full/movie-card-full.jsx';
+import {ViewMode} from '../../constants';
+import Main from '../../../refactoring/src/components/main/main.jsx';
+import {moviesLoaded} from '../../action-creators.js/movies-actions.js';
+import {/* getGenries, */getMovies} from '../../services/data-services.js';
 
 
 class App extends PureComponent {
@@ -14,10 +15,15 @@ class App extends PureComponent {
 
     this.state = {
       activeMovieCardId: null,
-      viewMode: ViewMode.MAIN,
     };
 
     this._handleClickCard = this._handleClickCard.bind(this);
+  }
+
+  componentDidMount() {
+    const {onMoviesLoading} = this.props;
+    getMovies()
+      .then((movies) => onMoviesLoading(movies));
   }
 
   _handleClickCard(id) {
@@ -30,27 +36,18 @@ class App extends PureComponent {
   _renderMoviesScreen() {
     const {movies, genres} = this.props;
 
-    switch (this.state.viewMode) {
-      case ViewMode.MAIN:
-        return (
-          <Main
-            moveDetails={movies[0]}
-            movies={movies}
-            genres={genres}
-            onClickCard={this._handleClickCard}
-          />
-        );
-      case ViewMode.DETAILS:
-        return (
-          <MovieCardFull
-            moveDetails={movies[this.state.activeMovieCardId]}
-            movies={movies}
-            onClickCard={this._handleClickCard}
-          />
-        );
+    if (!movies.length) {
+      return <div>Loading...</div>;
     }
 
-    return null;
+    return (
+      <Main
+        moveDetails={movies[0]}
+        movies={movies}
+        genres={genres}
+        onClickCard={this._handleClickCard}
+      />
+    );
   }
 
   render() {
@@ -61,7 +58,7 @@ class App extends PureComponent {
           <Route exact path='/'>
             {this._renderMoviesScreen()}
           </Route>
-          <Route exact path='/dev-component'>
+          {/* <Route exact path='/dev-component'>
             <MovieCardFull
               moveDetails={this.props.movies[0]}
               movies={this.props.movies}
@@ -69,7 +66,7 @@ class App extends PureComponent {
               onMouseEnterCard={() => {}}
               onMouseLeaveCard={() => {}}
             />
-          </Route>
+          </Route> */}
         </Switch>
       </BrowserRouter>
     );
@@ -78,8 +75,20 @@ class App extends PureComponent {
 
 
 App.propTypes = {
+  onMoviesLoading: PropTypes.func.isRequired,
   movies: PropTypes.array.isRequired,
   genres: PropTypes.array.isRequired,
 };
 
-export default App;
+const mapStateToProps = (state) => ({
+  movies: state.movies,
+});
+
+const mapDispatchToProps = (dispath) => ({
+  onMoviesLoading(movies) {
+    dispath(moviesLoaded(movies));
+  },
+});
+
+export {App};
+export default connect(mapStateToProps, mapDispatchToProps)(App);

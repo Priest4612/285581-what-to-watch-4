@@ -1,17 +1,16 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 
-import movies from '../../mocks/test-films-mock.json';
 import genres from '../../mocks/test-genres-mock.json';
 
-import MovieCardTabReviews from './main.jsx';
+import PageContentGenres from './page-content-genres.jsx';
 
 
-it(`Render MovieCardTabReviews`, () => {
-
+it(`Render PageContentGenres`, () => {
   const tree = renderer
-    .create(<MovieCardTabReviews
-      movies={movies}
+    .create(<PageContentGenres
+      onClickGenreItem={() => {}}
+      activeGenre={genres[0].name}
       genres={genres}
     />)
     .toJSON();
