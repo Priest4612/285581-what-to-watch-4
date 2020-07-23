@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render UserBlockLink 1`] = `
+<a
+  className="user-block__link"
+  href="sign-in.html"
+>
+  Sign in
+</a>
+`;

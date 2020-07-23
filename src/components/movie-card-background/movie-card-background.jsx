@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import {splitSeparator} from '../../utils/uitls.js';
+import {splitSeparator} from '../../utils';
 
 const MovieCardBackground = (props) => {
   const {backgroundImage} = props;

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render MovieCardPoster  -- main 1`] = `
+<div
+  className="movie-card__poster
+        false"
+>
+  <img
+    alt="name-poster"
+    height="327"
+    src="posterImage"
+    width="218"
+  />
+</div>
+`;
+
+exports[`Render MovieCardPoster -- full 1`] = `
+<div
+  className="movie-card__poster
+        movie-card__poster--big"
+>
+  <img
+    alt="name-poster"
+    height="327"
+    src="posterImage"
+    width="218"
+  />
+</div>
+`;

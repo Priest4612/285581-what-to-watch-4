@@ -1,15 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {Provider} from 'react-redux';
 
 import App from './components/app/app.jsx';
-import filmsMock from './mocks/films-mock.json';
-import genresMock from './mocks/genres-mock.json';
-
+import {store} from './store/store.js';
 
 ReactDOM.render(
-    <App
-      movies={filmsMock}
-      genres={genresMock}
-    />,
+    <Provider store = {store}>
+      <App />
+    </Provider>,
     document.querySelector(`#root`)
 );

@@ -1,11 +1,12 @@
 import React, {PureComponent} from 'react';
 import PropTypes from 'prop-types';
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
+import {connect} from "react-redux";
 
-import {ViewMode} from '../../constant.js';
-
+import {ViewMode} from '../../constants';
 import Main from '../main/main.jsx';
-import MovieCardFull from '../movie-card-full/movie-card-full.jsx';
+import ActionCreator from '../../store/action-creators';
+import {getGenres, getMovies} from '../../services/data-services.js';
 
 
 class App extends PureComponent {
@@ -14,10 +15,22 @@ class App extends PureComponent {
 
     this.state = {
       activeMovieCardId: null,
-      viewMode: ViewMode.MAIN,
     };
 
     this._handleClickCard = this._handleClickCard.bind(this);
+  }
+
+  componentDidMount() {
+    const {onLoadingGenres, onLoadingMovies, onChangeMainView} = this.props;
+
+    onChangeMainView();
+
+    getGenres()
+      .then((genres) => onLoadingGenres(genres));
+
+    getMovies()
+      .then((movies) => onLoadingMovies(movies));
+
   }
 
   _handleClickCard(id) {
@@ -30,27 +43,18 @@ class App extends PureComponent {
   _renderMoviesScreen() {
     const {movies, genres} = this.props;
 
-    switch (this.state.viewMode) {
-      case ViewMode.MAIN:
-        return (
-          <Main
-            moveDetails={movies[0]}
-            movies={movies}
-            genres={genres}
-            onClickCard={this._handleClickCard}
-          />
-        );
-      case ViewMode.DETAILS:
-        return (
-          <MovieCardFull
-            moveDetails={movies[this.state.activeMovieCardId]}
-            movies={movies}
-            onClickCard={this._handleClickCard}
-          />
-        );
+    if (!genres.list.length || !movies.list.length) {
+      return <div>Loading...</div>;
     }
 
-    return null;
+    return (
+      <Main
+        moveDetails={movies.list[0]}
+        movies={movies.list}
+        genres={genres.list}
+        onClickCard={this._handleClickCard}
+      />
+    );
   }
 
   render() {
@@ -61,7 +65,7 @@ class App extends PureComponent {
           <Route exact path='/'>
             {this._renderMoviesScreen()}
           </Route>
-          <Route exact path='/dev-component'>
+          {/* <Route exact path='/dev-component'>
             <MovieCardFull
               moveDetails={this.props.movies[0]}
               movies={this.props.movies}
@@ -69,7 +73,7 @@ class App extends PureComponent {
               onMouseEnterCard={() => {}}
               onMouseLeaveCard={() => {}}
             />
-          </Route>
+          </Route> */}
         </Switch>
       </BrowserRouter>
     );
@@ -78,8 +82,37 @@ class App extends PureComponent {
 
 
 App.propTypes = {
-  movies: PropTypes.array.isRequired,
-  genres: PropTypes.array.isRequired,
+  onChangeMainView: PropTypes.func.isRequired,
+  onLoadingGenres: PropTypes.func.isRequired,
+  onLoadingMovies: PropTypes.func.isRequired,
+  movies: PropTypes.shape({
+    list: PropTypes.array.isRequired,
+    activeMovieId: PropTypes.number,
+  }).isRequired,
+  genres: PropTypes.shape({
+    list: PropTypes.array.isRequired,
+    activeGenre: PropTypes.string,
+  }).isRequired,
 };
 
-export default App;
+const mapStateToProps = (state) => ({
+  movies: state.movies,
+  genres: state.genres,
+});
+
+const mapDispatchToProps = (dispath) => ({
+  onChangeMainView() {
+    dispath(ActionCreator.Views.setMainView());
+  },
+
+  onLoadingGenres(genres) {
+    dispath(ActionCreator.Genres.genresLoaded(genres));
+  },
+
+  onLoadingMovies(movies) {
+    dispath(ActionCreator.Movies.moviesLoaded(movies));
+  },
+});
+
+export {App};
+export default connect(mapStateToProps, mapDispatchToProps)(App);

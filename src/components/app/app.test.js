@@ -1,17 +1,31 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
+import {Provider} from 'react-redux';
+import configureStore from 'redux-mock-store';
+
+import moviesMocks from '../../mocks/test-films-mock.json';
+import genresMocks from '../../mocks/test-genres-mock.json';
 
 import App from './app.jsx';
-import filmsMock from '../../mocks/test-films-mock.json';
-import genresMock from '../../mocks/test-genres-mock.json';
 
+const mockStore = configureStore([]);
+const store = mockStore({
+  genres: {
+    list: genresMocks,
+  },
+  movies: {
+    list: moviesMocks,
+  }
+});
 
 it(`Render App`, () => {
   const tree = renderer
-    .create(<App
-      movies={filmsMock.slice(10, 14)}
-      genres={genresMock}
-    />)
+    .create(
+        <Provider store={store}>
+          <App
+          />
+        </Provider>
+    )
     .toJSON();
 
   expect(tree).toMatchSnapshot();

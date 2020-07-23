@@ -1,0 +1,286 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render MovieCardTabs -- DETAILS 1`] = `
+<div
+  className="movie-card__desc"
+>
+  <nav
+    className="movie-nav movie-card__nav"
+  >
+    <ul
+      className="movie-nav__list"
+    >
+      <li
+        className="movie-nav__item
+              movie-nav__item--active"
+        onClick={[Function]}
+      >
+        <a
+          className="movie-nav__link"
+          href="#"
+        >
+          Overview
+        </a>
+      </li>
+      <li
+        className="movie-nav__item
+              false"
+        onClick={[Function]}
+      >
+        <a
+          className="movie-nav__link"
+          href="#"
+        >
+          Details
+        </a>
+      </li>
+      <li
+        className="movie-nav__item
+              false"
+        onClick={[Function]}
+      >
+        <a
+          className="movie-nav__link"
+          href="#"
+        >
+          Reviews
+        </a>
+      </li>
+    </ul>
+  </nav>
+  <div
+    className="movie-rating"
+  >
+    <div
+      className="movie-rating__score"
+    >
+      8.6
+    </div>
+    <p
+      className="movie-rating__meta"
+    >
+      <span
+        className="movie-rating__level"
+      >
+        Very good
+      </span>
+      <span
+        className="movie-rating__count"
+      >
+        38 ratings
+      </span>
+    </p>
+  </div>
+  <div
+    className="movie-card__text"
+  >
+    <p>
+      https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4
+    </p>
+    <p
+      className="movie-card__director"
+    >
+      <strong>
+        Director: Я видел его глаза. До сих пор, я никогда не видел столько тоски и боли в глазах мужчины.
+      </strong>
+    </p>
+    <p
+      className="movie-card__starring"
+    >
+      <strong>
+        Starring: Вуди Аллен, Мартин Скорсезе, Акира Куросава, Чарли Чаплин, Пол Верховен, Альфонсо Куарон, Джеймс Кэмерон
+      </strong>
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Render MovieCardTabs -- OVERVIEW 1`] = `
+<div
+  className="movie-card__desc"
+>
+  <nav
+    className="movie-nav movie-card__nav"
+  >
+    <ul
+      className="movie-nav__list"
+    >
+      <li
+        className="movie-nav__item
+              movie-nav__item--active"
+        onClick={[Function]}
+      >
+        <a
+          className="movie-nav__link"
+          href="#"
+        >
+          Overview
+        </a>
+      </li>
+      <li
+        className="movie-nav__item
+              false"
+        onClick={[Function]}
+      >
+        <a
+          className="movie-nav__link"
+          href="#"
+        >
+          Details
+        </a>
+      </li>
+      <li
+        className="movie-nav__item
+              false"
+        onClick={[Function]}
+      >
+        <a
+          className="movie-nav__link"
+          href="#"
+        >
+          Reviews
+        </a>
+      </li>
+    </ul>
+  </nav>
+  <div
+    className="movie-rating"
+  >
+    <div
+      className="movie-rating__score"
+    >
+      0.1
+    </div>
+    <p
+      className="movie-rating__meta"
+    >
+      <span
+        className="movie-rating__level"
+      >
+        Bad
+      </span>
+      <span
+        className="movie-rating__count"
+      >
+        823 ratings
+      </span>
+    </p>
+  </div>
+  <div
+    className="movie-card__text"
+  >
+    <p>
+      https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4
+    </p>
+    <p
+      className="movie-card__director"
+    >
+      <strong>
+        Director: Видимо, в моих глазах было что-то такое, что продавщица как-то побледнела и даже уменьшилась в росте. Она просто смотрела на меня как мышь на удава и молчала.
+      </strong>
+    </p>
+    <p
+      className="movie-card__starring"
+    >
+      <strong>
+        Starring: Серджио Леоне, Фрэнк Дарабонт, Билли Уайлдер, Дэвид Кроненберг
+      </strong>
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Render MovieCardTabs -- REVIEWS 1`] = `
+<div
+  className="movie-card__desc"
+>
+  <nav
+    className="movie-nav movie-card__nav"
+  >
+    <ul
+      className="movie-nav__list"
+    >
+      <li
+        className="movie-nav__item
+              movie-nav__item--active"
+        onClick={[Function]}
+      >
+        <a
+          className="movie-nav__link"
+          href="#"
+        >
+          Overview
+        </a>
+      </li>
+      <li
+        className="movie-nav__item
+              false"
+        onClick={[Function]}
+      >
+        <a
+          className="movie-nav__link"
+          href="#"
+        >
+          Details
+        </a>
+      </li>
+      <li
+        className="movie-nav__item
+              false"
+        onClick={[Function]}
+      >
+        <a
+          className="movie-nav__link"
+          href="#"
+        >
+          Reviews
+        </a>
+      </li>
+    </ul>
+  </nav>
+  <div
+    className="movie-rating"
+  >
+    <div
+      className="movie-rating__score"
+    >
+      0.1
+    </div>
+    <p
+      className="movie-rating__meta"
+    >
+      <span
+        className="movie-rating__level"
+      >
+        Bad
+      </span>
+      <span
+        className="movie-rating__count"
+      >
+        823 ratings
+      </span>
+    </p>
+  </div>
+  <div
+    className="movie-card__text"
+  >
+    <p>
+      https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4
+    </p>
+    <p
+      className="movie-card__director"
+    >
+      <strong>
+        Director: Видимо, в моих глазах было что-то такое, что продавщица как-то побледнела и даже уменьшилась в росте. Она просто смотрела на меня как мышь на удава и молчала.
+      </strong>
+    </p>
+    <p
+      className="movie-card__starring"
+    >
+      <strong>
+        Starring: Серджио Леоне, Фрэнк Дарабонт, Билли Уайлдер, Дэвид Кроненберг
+      </strong>
+    </p>
+  </div>
+</div>
+`;
