@@ -2,7 +2,7 @@ import movies from '../mocks/films-mock.json';
 import genres from '../mocks/genres-mock.json';
 
 
-const getGenries = () => {
+const getGenres = () => {
   return new Promise((resolve) => {
     resolve(genres);
   });
@@ -15,4 +15,4 @@ const getMovies = () => {
 };
 
 
-export {getGenries, getMovies};
+export {getGenres, getMovies};

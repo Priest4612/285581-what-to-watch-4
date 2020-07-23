@@ -3,15 +3,11 @@ import ReactDOM from 'react-dom';
 import {Provider} from 'react-redux';
 
 import App from './components/app/app.jsx';
-import {store} from './store.js';
-
-import genresMock from './mocks/genres-mock.json';
+import {store} from './store/store.js';
 
 ReactDOM.render(
     <Provider store = {store}>
-      <App
-        genres={genresMock}
-      />
+      <App />
     </Provider>,
     document.querySelector(`#root`)
 );
